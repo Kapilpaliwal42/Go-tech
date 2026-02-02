@@ -15,7 +15,7 @@ function ProcessTable({approachesData=[],title="",description="",numbeering=true
                     <h2 className='text-2xl font-semibold'>{numbeering ? `${index+1}. ` : ""} {item.title}</h2>
                 </div>
                 <div className='flex justify-center items-center  my-4'>
-                    <p className='text-lg'>{item.description}</p>
+                    <div className='text-lg' dangerouslySetInnerHTML={{__html: item.description}} />
                 </div>
             </div>
                 )}

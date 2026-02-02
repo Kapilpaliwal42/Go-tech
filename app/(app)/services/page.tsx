@@ -5,8 +5,7 @@ import WhyChooseUs from '@/components/WhyChooseUs/WhyChooseUs';
 import Marquee from '@/components/Marquee/Marquee';
 import HeroSection from '@/components/HeroSection/HeroSection';
 import BlueGrid from '@/components/blueGrid/BlueGrid';
-import { UserCheck,BadgeCheck,ShieldCheck,TrendingUp,Globe,LayoutGrid } from 'lucide-react';
-import {hero,loadCounter,industriesData,whyChooseUsData} from '@/constants/services/index.json';
+import {hero,industriesData,whyChooseUs} from '@/constants/services/index.json';
 
 
 
@@ -23,8 +22,8 @@ function Page() {
     <HeroSection 
       title={hero.title}
       description={hero.description}
-      button={{text:hero.ctaButton,bgColor:"#f97316",onClick:()=>{}}}
-      loadCounter={loadCounter}
+      button={{text:hero.button.text,bgColor:hero.button.bgColor}}
+      loadCounter={hero.loadCounter}
       children={<Marquee/>}
     />
     
@@ -33,16 +32,17 @@ function Page() {
     <OurServices />
     <TechStack />
    {/* Why Choose Us Section */}
-    <WhyChooseUs whyChooseUsData={whyChooseUsData.points} />
+    <WhyChooseUs 
+          title={whyChooseUs.title}
+          whyChooseUsData={whyChooseUs.data} />
 
           {/* industries Section */}
 
          <BlueGrid 
          
-          industriesData={industriesData.points}
+          industriesData={industriesData.data}
           title={industriesData.title}
           description={industriesData.description}
-          button={{text:industriesData.ctaButton,bgColor:"#f97316",onClick:()=>{}}}
           gridsize={3}
           bgColor="#2b428c"
           textColor="white"

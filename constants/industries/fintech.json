@@ -29,5 +29,212 @@
         "suffix": "/5"
       }
     ]
+  },
+  "whyChooseUs":{
+  "title": "WHY CHOOSE GO INFOTECH AS YOUR PARTNER",
+  "description": "",
+  "data": [
+    {
+      "title": "OUR CLIENT’S EXPERIENCE",
+      "description": "Our clients have said it too, Go InfoTech has proved to be an expert custom Software Development Company in Udaipur driving seamless growth for our clients and showcasing our proficiency in web development."
+    },
+    {
+      "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+      "description": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
+    },
+    {
+      "title": "WIDE RANGE OF SERVICES",
+      "description": "As a leading Web Development company in Udaipur, we offer custom team augmentation in software development, mobile app development, web application development, software maintenance and support, and more."
+    },
+    {
+      "title": "TRUSTED AND RENOWNED:",
+      "description": "We are dedicated to serving you with excellence, and this is vouched by our client’s unwavering trust in our services, as we are a trusted custom Software Development Company in Udaipur."
+    },
+    {
+      "title": "INDUSTRIES' EXPERTISE:",
+      "description": "We are a trusted Software Development company in Udaipur, with expertise in FinTech solutions while using innovation, knowledge, and skills from all around the world."
+    },
+    {
+      "title": "EXPERTISE AT YOUR SERVICE:",
+      "description": "Our team is dedicated to serving you with expertise, knowledge, and professionalism, working to fuel the growth of your business. Choose Go InfoTech Solution for a reliable digital partner."
+    }
+  ]
+},
+  "services":[
+  {
+    "title": "STAFF AUGMENTATION FOR FINTECH PRODUCTS",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Add the expertise of Go InfoTech Solution to your existing team, and make sure you augment it with highly specialized and experienced professionals from the most trusted <b>Custom Software Development Company in Udaipur</b>.</p>    <button class='flex items-center gap-2 p-4 text-2xl text-white m-3 rounded-lg bg-orange-400 w-3xs justify-around'>READ MORE > <ArrowRight /></button>    </div>"
+  },
+  {
+    "title": "GO FINANCE APPLICATION",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Go Finance Software is a comprehensive solution designed to revolutionize operations within the finance industry.</p>    <h2 class='text-2xl font-semibold mt-4 '>OFFERING FUNCTIONALITIES:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Customized alerts and daily pop-ups</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Account administration</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>E-commerce and digital transactions</li>        </ul>    </div>"
+  },
+  {
+    "title": "RISK MANAGEMENT SOFTWARE SOLUTIONS",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Incorporate meticulously planned risk assessment and risk management software solutions to help you mitigate the risk.</p>    <h2 class='text-2xl font-semibold mt-4 '>FUNCTIONALITIES OF OUR SOFTWARE SOLUTIONS:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Forecasting analysis</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>On-the-fly surveillance</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Adherence to regulatory compliance.</li>        </ul>    </div>"
+  },
+  {
+    "title": "DIGITAL WALLET SOLUTIONS",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Develop digital wallet solutions that are safe and ease the transaction process while elevating the user experience.</p>    <h2 class='text-2xl font-semibold mt-4 '>FUNCTIONALITIES INCLUDE:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Several payment options</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Confidential ciphering</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Transaction Surveillance</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Long-term Customer Loyalty Development</li>        </ul>    </div>"
+  },
+  {
+    "title": "AI-DRIVEN TRADING PLATFORM DEVELOPMENT",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Utilize the advanced capabilities of artificial intelligence to elevate your trading platforms.</p>    <h2 class='text-2xl font-semibold mt-4 '>WE PROVIDE USERS WITH:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Forecasting insights</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Instant data analysis</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Automated trading</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Customized investment plans.</li>        </ul>    </div>"
+  },
+  {
+    "title": "BLOCKCHAIN SOLUTIONS",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Indulge with the <b>Custom Software Development Company in Udaipur</b> and unleash the power of blockchain technology with Go InfoTech, offering security and transparency.</p>    <h2 class='text-2xl font-semibold mt-4 '>WE OFFER SERVICES:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Personalized Customer Interactions Interface</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Developing decentralized applications (DApps)</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Secure online transactions</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Smart contracts implementation</li>        </ul>    </div>"
   }
+],
+  "techStack":{
+    "title": "OUR TECH STACK",
+    "data":[
+  {
+    "title": "FRONT-END DEVELOPMENT",
+    "desc": "Empower your business with our expert front-end solutions, focusing fundamentally on a smooth user experience, effectively handling your needs and preferences, and aligning them to the industry’s unique requirements.",
+    "points": [
+      "20+ Front-end developers",
+      "8 years of experience",
+      "4.8 rating on Google"
+    ],
+    "icons_path": [
+      "/Angular-icon.png",
+      "/React-JS.png",
+      "/Vue.png"
+    ]
+  },
+  {
+    "title": "BACK-END DEVELOPMENT",
+    "desc": "We help you build a strong foundation for your software and applications with scalable and secure back-end systems that will enable you to handle all your tasks seamlessly and result in the robust growth of your business.",
+    "points": [
+      "20+ Back-end developers",
+      "8 years of experience",
+      "4.8 rating on Google"
+    ],
+    "icons_path": [
+      "/AWS.png",
+      "/GOlang-1.png",
+      "/Java-1.png",
+      "/Laravel.png",
+      "/NodeJS-1.png",
+      "/PHP-1.png",
+      "/Python-1.png",
+      "/Ruby-1.png",
+      "/Rust-1.png",
+      "/Scala-1.png"
+    ]
+  },
+  {
+    "title": "MOBILE APP DEVELOPMENT",
+    "desc": "Our team of dedicated experts and developers at the leading IT Company in Udaipur is here to skillfully craft captivating and functional mobile apps for Android and iOS platforms, crafted to meet your unique needs and reach our target audience.",
+    "points": [
+      "10+ Mobile developers",
+      "8 years of experience",
+      "4.8 rating on Google"
+    ],
+    "icons_path": [
+      "/Flutter-1.png",
+      "/Ionic-1.png",
+      "/Kotlin-1.png",
+      "/React-Native-1.png",
+      "/Swift-1.png"
+    ]
+  },
+  {
+    "title": "UI/UX DESIGN",
+    "desc": "Through our user-centric approach, we are successful in reaching the target audience via our visually appealing UI/UX designs that are user-friendly and lead to an exceptional user experience on all platforms.",
+    "points": [
+      "10+ Design specialists",
+      "8 years of experience",
+      "4.8 rating on Google"
+    ],
+    "icons_path": [
+      "/Adobe_XD-1.png",
+      "/FigJam-1.png",
+      "/Figma-1.png",
+      "/Invision-1.png",
+      "/Maze-1.png",
+      "/Miro-1.png",
+      "/Protopie-1.png",
+      "/Sketch-1.png",
+      "/Zeplin-1.png"
+    ]
+  }
+]
+  },
+  "advantages":{
+  "title": "ADVANTAGES OF PARTNERING WITH GO INFOTECH FOR FINTECH SOFTWARE DEVELOPMENT",
+  "description": "",
+  "button":{"text":"ALL SERVICES >","bgColor":"#f97316"},
+  "data": [
+    {
+      "title": "BUSINESS-ORIENTED PERSONALIZATION",
+      "description": "We offer comprehensive software solutions that are custom-developed to your specific business requirements."
+    },
+    {
+      "title": "OPTIMIZED PERFORMANCE AND FLEXIBILITY",
+      "description": "Explore the FinTech expertise of our professionals, offering high-quality performance and scalability in the software solutions offered."
+    },
+    {
+      "title": "COLLABORATE WITH CUTTING-EDGE TECHNOLOGIES",
+      "description": "We partner with updated technology tools to elevate performance and drive sales. We make use of AI, blockchain, and data analytics for effective operations."
+    },
+    {
+      "title": "ADHERENCE TO REGULATORY COMPLIANCE AND SECURITY",
+      "description": "At Go InfoTech, we value your credibility, which is why we prioritize security in our software solutions while simultaneously focusing on regulatory compliance."
+    },
+    {
+      "title": "FACILITATING SCALABILITY AND INTEGRATION",
+      "description": "We offer scalable solutions for facilitating seamless transactions and the integration of social media platforms while offering a compatible and interactive interface."
+    },
+    {
+      "title": "EFFECTIVE SUPPORT AND REAL-TIME MAINTENANCE",
+      "description": "We believe in offering real-time support and assistance to our clients while paying deliberate attention to their unique needs and requirements."
+    }
+  ]
+},
+  "roadmap":{
+  "title": "PRODUCT DELIVERY ROADMAP",
+  "data":[
+  {
+    "title": "DISCOVERY & PLANNING",
+    "description": "<div class='p-4 text-inherit '>    <p>Embarking on the journey of manifesting your vision into reality through our expert assistance, we understand your vision and iteration and conduct comprehensive analysis and strategies for our move.</p>    <p><b>Result:</b> Detailed planning and comprehensive analysis</p>    </div>"
+  },
+  {
+    "title": "DESIGN & PROTOTYPING",
+    "description": "<div class='p-4 text-inherit '>    <p>Designing and developing prototypes of your vision while engaging our UI/UX designers in the project.</p>    <p><b>Result:</b> An engaging and feature-rich prototype</p>        </div>"
+  },
+  {
+    "title": "PRODUCT DEVELOPMENT & TESTING",
+    "description": "<div class='p-4 text-inherit '>    <p>Our team of developers is dedicated to building a product that is functional, feature-rich, and offers high-quality performance.</p>    <p><b>Result:</b> Development and testing of MVP</p>    </div>"
+  },
+  {
+    "title": "LAUNCH & CONTINUOUS IMPROVEMENT",
+    "description": "<div class='p-4 text-inherit '>    <p>Our team is at your service to serve you with excellence. We take into account your unique feedback and aim for continuous improvement.</p>    <p><b>Result:</b> Launching of MVP and incorporating feedback improvement.</p>        </div>"
+  }
+]
+  },
+  "whomWeServe":{
+  "title": "WHOM WE SERVE",
+  "description": "",
+  "data": [
+    {
+      "title": "FINTECH STARTUPS",
+      "description": "We take pride in our fintech developers, designers, and specialists who have delivered excellence in software solutions customized to their unique business requirements."
+    },
+    {
+      "title": "FINANCIAL INSTITUTIONS",
+      "description": "We meticulously crafted a powerful, security-rich, IT solution for the financial industry and institutions to elevate the user experience."
+    },
+    {
+      "title": "PAYMENT SOLUTION PROVIDERS",
+      "description": "We offer digital payment options and digital wallet options for financial institutions, e-commerce service providers, and others. Our online payment solutions are feature-rich, scalable, user-friendly, and safe to use."
+    },
+    {
+      "title": "GO FINTECH SOFTWARE PRODUCT",
+      "description": "Go Finance Software is a comprehensive solution designed to revolutionize operations within the finance industry. It serves as a pivotal tool for businesses, offering a range of features aimed at enhancing efficiency and optimizing customer interactions."
+    }
+  ]
+}
+
 }

@@ -4,6 +4,7 @@ import MailOutlineIcon from '@mui/icons-material/MailOutline';
 import CallIcon from '@mui/icons-material/Call';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
 import ContactForm from '../ContactForm/ContactForm';
+import DottedPattern from '../Dots/Dots';
 
 interface BookingPopupProps {
   isOpen: boolean;
@@ -24,13 +25,13 @@ const BookingPopup: React.FC<BookingPopupProps> = ({ isOpen, onClose }) => {
   if (!isOpen) return null;
 
   return (
-    <div className="fixed inset-0 z-[1000] flex items-center justify-center bg-black/50 p-4">
-      <div className="relative h-[90vh] w-full max-w-[1050px] overflow-y-auto overflow-x-hidden rounded-lg bg-white shadow-2xl">
+    <div className="fixed inset-0 z-[9999] flex items-center justify-center bg-black/50 p-4">
+      <div className="relative h-[90vh] w-full max-w-[1050px] overflow-y-auto overflow-x-hidden rounded-lg text-[#2b428c] bg-white shadow-2xl">
         
         {/* Close Button */}
         <button 
           onClick={onClose} 
-          className="absolute right-4 top-4 z-10 p-1 text-xl font-bold transition-colors hover:text-accent md:text-white text-black"
+          className="absolute right-4 w-3 top-4 z-10 p-1 text-xl font-bold transition-colors hover:text-accent md:text-white text-black"
         >
           X
         </button>
@@ -38,8 +39,8 @@ const BookingPopup: React.FC<BookingPopupProps> = ({ isOpen, onClose }) => {
         <div className="grid h-full grid-cols-1 md:grid-cols-[1.5fr_1fr]">
           
           {/* Left Section (Form) */}
-          <div className="p-5 md:p-10">
-            <h2 className="text-2xl font-bold uppercase tracking-wide text-primary mb-2">
+          <div className="p-5  md:p-10">
+            <h2 className="text-2xl  font-bold uppercase tracking-wide text-primary mb-2">
               Booking a Call
             </h2>
             <p className="text-[17px] text-primary mb-4">
@@ -54,8 +55,9 @@ const BookingPopup: React.FC<BookingPopupProps> = ({ isOpen, onClose }) => {
 
           {/* Right Section (Contact Info) */}
           <div 
-            className="p-5 md:p-10 bg-secondary bg-[url('/m-services-bg.webp')] bg-no-repeat bg-right-bottom bg-auto md:bg-cover"
+            className="relative p-5 md:p-10 bg-secondary bg-[#2b428c] text-white bg-no-repeat bg-right-bottom bg-auto md:bg-cover"
           >
+            <DottedPattern radius='3px' />
             <h2 className="text-[22px] font-bold leading-[30px] tracking-[0.9px] text-white uppercase">
               Tell us about your needs
             </h2>

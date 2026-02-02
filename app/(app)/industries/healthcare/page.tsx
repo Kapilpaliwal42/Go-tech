@@ -1,5 +1,5 @@
 "use client";
-import {hero,whyChooseUs,services,techStack,advantages,roadmap,whomWeServe} from "@/constants/industries/fintech.json"
+import {hero,whyChooseUs,services,techStack,advantages,roadmap,whoWeServe} from "@/constants/industries/healthcare.json"
 import HeroSection from "@/components/HeroSection/HeroSection";
 import WhyChooseUs from "@/components/WhyChooseUs/WhyChooseUs";
 import OurServices from "@/components/OurServices/ourServices";
@@ -15,22 +15,19 @@ function page() {
         <HeroSection
         title={hero.title}
         description={hero.description}
-        button={{text:hero.button.text,bgColor:hero.button.bgColor}}
         loadCounter={hero.loadCounter}
+        button={hero.button}
         />
         <WhyChooseUs
-        title={whyChooseUs.title}
         whyChooseUsData={whyChooseUs.data}
-
+        title={whyChooseUs.title}
         />
         <OurServices
-        title="GO FINANCE SOFTWARE DEVELOPMENT SERVICES WE OFFER"
-        data={services}
+        data={services.data}
+        title={services.title}
         bg="#2b428c"
         bgOdd="#ffffff"
-        
         />
-
         <TechStack
         title={techStack.title}
         techStackData={techStack.data}
@@ -48,15 +45,13 @@ function page() {
         approachesData={roadmap.data}
         />
         <BlueGrid
-        title={whomWeServe.title}
-        description={whomWeServe.description}
-        industriesData={whomWeServe.data}
-        bgColor="#2b428c"
-        textColor="white"
-        icons={true}
+        title={whoWeServe.title}
+        industriesData={whoWeServe.data}
         gridsize={2}
+        icons={true}
         />
-
+        
+        
     </div>
   )
 }
