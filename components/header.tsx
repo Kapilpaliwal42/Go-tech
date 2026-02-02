@@ -1,17 +1,27 @@
 "use client";
-import * as React from 'react';
-import { 
-  AppBar, Box, Toolbar, IconButton, Typography, Drawer, List, 
-  ListItem, ListItemButton, ListItemText, Container, Button, 
-   Collapse 
-} from '@mui/material';
-import Image from 'next/image';
-import { Menu as MenuIcon, ChevronDown, ChevronUp } from 'lucide-react';
+import * as React from "react";
+import {
+  AppBar,
+  Box,
+  Toolbar,
+  IconButton,
+  Typography,
+  Drawer,
+  List,
+  ListItem,
+  ListItemButton,
+  ListItemText,
+  Container,
+  Button,
+  Collapse,
+} from "@mui/material";
+import Image from "next/image";
+import { Menu as MenuIcon, ChevronDown, ChevronUp } from "lucide-react";
 import Dropdown from "@/components/dropdown/Dropdown";
 
 function ResponsiveAppBar() {
   const [drawerOpen, setDrawerOpen] = React.useState(false);
-  const [mobileExpanded, setMobileExpanded] = React.useState(null);
+  const [mobileExpanded, setMobileExpanded] = React.useState<string | null>(null);
   const [isScrolled, setIsScrolled] = React.useState(false);
 
   const handleOpenNavMenu = () => setDrawerOpen(true);
@@ -20,23 +30,21 @@ function ResponsiveAppBar() {
     setMobileExpanded(null);
   };
 
-  const toggleMobileCategory = (title) => {
+  const toggleMobileCategory = (title: string) => {
     setMobileExpanded(mobileExpanded === title ? null : title);
   };
 
   React.useEffect(() => {
-    const handleScroll = () => {
-      setIsScrolled(window.scrollY > 0);
-    };
-
-    handleScroll();
-    window.addEventListener('scroll', handleScroll, { passive: true });
-    return () => window.removeEventListener('scroll', handleScroll);
+    const handleScroll = () => setIsScrolled(window.scrollY > 0);
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  // --- NAVIGATION DATA ---
+  // ================= NAV CONFIG =================
+
   const navConfig = [
-    {
+    
+ {
       title: 'SERVICES',
       description: 'Explore our comprehensive range of development services designed to bring your digital products to life.',
       data: [
@@ -80,50 +88,73 @@ function ResponsiveAppBar() {
         },
       ]
     },
+
     {
-      title: 'PROJECTS',
-      description: 'Check out our latest work and successful case studies.',
-      data: [
-        {
-          category: "Case Studies",
-          links: [
-            { label: "E-Commerce", href: "/projects/ecommerce" },
-            { label: "Healthcare", href: "/projects/healthcare" }
-          ]
-        }
-      ]
+      title: "PROJECTS",
+      description: "Check out our latest work and successful case studies.",
+      data: {
+        featured: {
+          title: "Customer Service",
+          subtitle: "The complete AI-powered solution",
+          image: "/images/blogs/projectcard1.jpeg",
+        },
+        industries: [
+          { label: "Doinsights", icon: "👥" },
+          { label: "Theconnectmore", icon: "📩" },
+          { label: "Thefluent", icon: "🎧" },
+          { label: "Customgptaiq", icon: "🤖" },
+        ],
+        previewImage: "/images/blogs/projectcard2.jpeg",
+      },
     },
-    { title: 'INDUSTRIES',
-       description: 'Discover industry-specific solutions tailored to meet the unique challenges and opportunities of your sector, leveraging our extensive cross-industry expertise.',
-        data: [] },
-    { title: 'TECH STACK', description: '', data: [] },
-    { title: 'COMPANY', description: '', data: [] },
+
+    {
+      title: "INDUSTRIES",
+      description:
+        "Discover industry-specific solutions tailored to meet your sector needs.",
+      data: {
+        industries: [
+          { label: "Fintech", href: "/industries/fintech" },
+          { label: "Healthcare", href: "/industries/healthcare" },
+          { label: "E-Commerce", href: "/industries/ecommerce" },
+        ],
+      },
+    },
+
+    // ⭐ TECH STACK ADDED
+    {
+      title: "TECH STACK",
+      description:
+        "Dive into our arsenal of modern technologies, where we combine cutting-edge tools and proven frameworks to build scalable, robust, and innovative applications.",
+      data: {
+        frontend: ["Angular", "React"],
+        backend: ["Node", "PHP", ".NET", "Java", "Python"],
+        mobile: ["iOS", "Android", "React Native", "Flutter"],
+      },
+    },
+
+    { title: "COMPANY", description: "Learn more about our mission, values, and the talented team behind our success. See how our commitment to excellence shapes every project we undertake", data: [] },
   ];
 
   return (
     <AppBar
-  position="sticky"
-  sx={{
-    backgroundColor: isScrolled ? 'rgba(255, 255, 255, 0.6)' : 'white',
-    color: 'black',
-    boxShadow: isScrolled ? 'none' : '0 2px 10px rgba(0,0,0,0.05)',
-    transition: 'background-color 200ms ease, box-shadow 200ms ease, backdrop-filter 200ms ease',
-    backdropFilter: isScrolled ? 'blur(8px)' : 'none',
-    WebkitBackdropFilter: isScrolled ? 'blur(8px)' : 'none', // Safari support
-  }}
->
-
+      position="sticky"
+      sx={{
+        backgroundColor: isScrolled ? "rgba(255,255,255,0.7)" : "white",
+        backdropFilter: isScrolled ? "blur(8px)" : "none",
+        boxShadow: "0 2px 10px rgba(0,0,0,0.05)",
+      }}
+    >
       <Container maxWidth="xl">
-        <Toolbar disableGutters sx={{ justifyContent: 'space-between' }}>
-          
-          <Typography component="a" href="/" sx={{ display: 'flex', alignItems: 'center' }}>
-            <Image src="/GoTechLogo.png" alt="GoTech Logo" width={65} height={40} className='m-1'/>
-          </Typography>
-          
-          {/* DESKTOP VIEW: Mega Menus */}
-          <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' }, justifyContent: 'center', gap: 2 }}>
+        <Toolbar sx={{ justifyContent: "space-between" }}>
+
+          {/* LOGO */}
+          <Image src="/GoTechLogo.png" alt="logo" width={65} height={40} />
+
+          {/* DESKTOP */}
+          <Box sx={{ display: { xs: "none", md: "flex" }, gap: 3 }}>
             {navConfig.map((page) => (
-              <Dropdown 
+              <Dropdown
                 key={page.title}
                 menuTitle={page.title}
                 description={page.description}
@@ -132,61 +163,66 @@ function ResponsiveAppBar() {
             ))}
           </Box>
 
-          <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
-            <Button
-              variant="contained"
-              sx={{ display: { xs: 'none', md: 'inline-flex' }, bgcolor: '#2b428c', fontWeight: 700, px: 3, textTransform: 'none' }}
-            >
-              BOOK A CALL
-            </Button>
+          {/* CTA */}
+          <Button
+            variant="contained"
+            sx={{ display: { xs: "none", md: "block" }, bgcolor: "#2b428c" }}
+          >
+            BOOK A CALL
+          </Button>
 
-            <IconButton onClick={handleOpenNavMenu} sx={{ display: { xs: 'flex', md: 'none' }, color: '#2b428c' }}>
-              <MenuIcon size={28} />
-            </IconButton>
-          </Box>
+          {/* MOBILE ICON */}
+          <IconButton
+            sx={{ display: { xs: "flex", md: "none" } }}
+            onClick={handleOpenNavMenu}
+          >
+            <MenuIcon />
+          </IconButton>
 
-          {/* MOBILE VIEW: Drawer with Accordion */}
-          <Drawer anchor="left" open={drawerOpen} onClose={handleCloseNavMenu}>
-            <Box sx={{ width: 300, pt: 2 }}>
-              <Box sx={{ px: 3, pb: 2, mb: 2, borderBottom: '1px solid #eee' }}>
-                <Image src="/GoTechLogo.png" alt="GoTech Logo" width={65} height={40} />
-              </Box>
-              
-              <List sx={{ px: 1 }}>
+          {/* MOBILE DRAWER */}
+          <Drawer open={drawerOpen} onClose={handleCloseNavMenu}>
+            <Box sx={{ width: 280 }}>
+              <List>
                 {navConfig.map((item) => (
                   <React.Fragment key={item.title}>
                     <ListItem disablePadding>
-                      <ListItemButton 
-                        onClick={() => item.data.length > 0 ? toggleMobileCategory(item.title) : handleCloseNavMenu()}
-                        sx={{ borderRadius: '8px', py: 1.5 }}
+                      <ListItemButton
+                        onClick={() =>
+                          item.data && Object.keys(item.data).length > 0
+                            ? toggleMobileCategory(item.title)
+                            : handleCloseNavMenu()
+                        }
                       >
-                        <ListItemText 
-                          primary={item.title} 
-                          sx={{ '& span': { fontWeight: 'bold', color: '#2b428c' } }} 
-                        />
-                        {item.data.length > 0 && (
-                          mobileExpanded === item.title ? <ChevronUp size={18} /> : <ChevronDown size={18} />
-                        )}
+                        <ListItemText primary={item.title} />
+                        {item.data &&
+                          Object.keys(item.data).length > 0 &&
+                          (mobileExpanded === item.title ? (
+                            <ChevronUp size={16} />
+                          ) : (
+                            <ChevronDown size={16} />
+                          ))}
                       </ListItemButton>
                     </ListItem>
 
-                    {/* Expandable Mobile Sub-links */}
-                    {item.data.length > 0 && (
-                      <Collapse in={mobileExpanded === item.title} timeout="auto" unmountOnExit>
-                        <List component="div" disablePadding sx={{ pl: 3, bgcolor: '#f8faff' }}>
-                          {item.data.map((cat) => (
-                            <Box key={cat.category} sx={{ py: 1 }}>
-                              <Typography variant="caption" sx={{ fontWeight: 800, color: '#94a3b8', px: 2, textTransform: 'uppercase' }}>
-                                {cat.category}
-                              </Typography>
-                              {cat.links.map((link) => (
-                                <ListItemButton key={link.label} sx={{ py: 0.5 }}>
-                                  <ListItemText primary={link.label} sx={{ '& span': { fontSize: '0.9rem', color: '#1e293b' } }} />
-                                </ListItemButton>
-                              ))}
-                            </Box>
+                    {/* TECH STACK MOBILE */}
+                    {item.title === "TECH STACK" && (
+                      <Collapse in={mobileExpanded === item.title}>
+                        <Box sx={{ pl: 3 }}>
+                          <Typography fontWeight="bold">Front-End</Typography>
+                          {item.data.frontend.map((t: string) => (
+                            <Typography key={t}>{t}</Typography>
                           ))}
-                        </List>
+
+                          <Typography mt={2} fontWeight="bold">Back-End</Typography>
+                          {item.data.backend.map((t: string) => (
+                            <Typography key={t}>{t}</Typography>
+                          ))}
+
+                          <Typography mt={2} fontWeight="bold">Mobile</Typography>
+                          {item.data.mobile.map((t: string) => (
+                            <Typography key={t}>{t}</Typography>
+                          ))}
+                        </Box>
                       </Collapse>
                     )}
                   </React.Fragment>
@@ -194,7 +230,6 @@ function ResponsiveAppBar() {
               </List>
             </Box>
           </Drawer>
-
         </Toolbar>
       </Container>
     </AppBar>
