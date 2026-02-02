@@ -6,6 +6,7 @@ import {
    Collapse 
 } from '@mui/material';
 import Image from 'next/image';
+import Link from 'next/link';
 import { Menu as MenuIcon, ChevronDown, ChevronUp } from 'lucide-react';
 import Dropdown from "@/components/dropdown/Dropdown";
 
@@ -39,6 +40,7 @@ function ResponsiveAppBar() {
     {
       title: 'SERVICES',
       description: 'Explore our comprehensive range of development services designed to bring your digital products to life.',
+      href:"/services",
       data: [
         {
           category: "Custom Software Development",
@@ -83,6 +85,7 @@ function ResponsiveAppBar() {
     {
       title: 'PROJECTS',
       description: 'Check out our latest work and successful case studies.',
+      href:"/projects",
       data: [
         {
           category: "Case Studies",
@@ -95,9 +98,24 @@ function ResponsiveAppBar() {
     },
     { title: 'INDUSTRIES',
        description: 'Discover industry-specific solutions tailored to meet the unique challenges and opportunities of your sector, leveraging our extensive cross-industry expertise.',
-        data: [] },
-    { title: 'TECH STACK', description: '', data: [] },
+        href:"/industries",
+        data: [
+          { category: "Industries We Serve", links: [
+            {label:"Fintech", href:"/industries/fintech" },
+            {label:"Healthcare", href:"/industries/healthcare" },
+            {label:"Media & Entertainment", href:"/industries/media-entertainment" },
+            {label:"Automotive", href:"/industries/automotive" },
+            {label:"E-Commerce", href:"/industries/e-commerce" },
+            
+          ]
+          }
+        ] },
+    { title: 'TECH STACK',
+      href:"/tech-stack",
+      description: '',
+      data: [] },
     { title: 'COMPANY', description: '', data: [] },
+    
   ];
 
   return (
@@ -127,6 +145,7 @@ function ResponsiveAppBar() {
                 key={page.title}
                 menuTitle={page.title}
                 description={page.description}
+                href={page.href}
                 data={page.data}
               />
             ))}
@@ -156,18 +175,27 @@ function ResponsiveAppBar() {
                 {navConfig.map((item) => (
                   <React.Fragment key={item.title}>
                     <ListItem disablePadding>
-                      <ListItemButton 
-                        onClick={() => item.data.length > 0 ? toggleMobileCategory(item.title) : handleCloseNavMenu()}
-                        sx={{ borderRadius: '8px', py: 1.5 }}
-                      >
-                        <ListItemText 
-                          primary={item.title} 
-                          sx={{ '& span': { fontWeight: 'bold', color: '#2b428c' } }} 
-                        />
-                        {item.data.length > 0 && (
-                          mobileExpanded === item.title ? <ChevronUp size={18} /> : <ChevronDown size={18} />
-                        )}
-                      </ListItemButton>
+                      {item.data.length > 0 ? (
+                        <ListItemButton 
+                          onClick={() => toggleMobileCategory(item.title)}
+                          sx={{ borderRadius: '8px', py: 1.5 }}
+                        >
+                          <ListItemText 
+                            primary={item.title} 
+                            sx={{ '& span': { fontWeight: 'bold', color: '#2b428c' } }} 
+                          />
+                          {mobileExpanded === item.title ? <ChevronUp size={18} /> : <ChevronDown size={18} />}
+                        </ListItemButton>
+                      ) : (
+                        <Link href={item.href || '#'} style={{ width: '100%', textDecoration: 'none' }}>
+                          <ListItemButton sx={{ borderRadius: '8px', py: 1.5 }}>
+                            <ListItemText 
+                              primary={item.title} 
+                              sx={{ '& span': { fontWeight: 'bold', color: '#2b428c' } }} 
+                            />
+                          </ListItemButton>
+                        </Link>
+                      )}
                     </ListItem>
 
                     {/* Expandable Mobile Sub-links */}
@@ -180,9 +208,11 @@ function ResponsiveAppBar() {
                                 {cat.category}
                               </Typography>
                               {cat.links.map((link) => (
-                                <ListItemButton key={link.label} sx={{ py: 0.5 }}>
-                                  <ListItemText primary={link.label} sx={{ '& span': { fontSize: '0.9rem', color: '#1e293b' } }} />
-                                </ListItemButton>
+                                <Link key={link.label} href={link.href} style={{ textDecoration: 'none' }}>
+                                  <ListItemButton sx={{ py: 0.5 }}>
+                                    <ListItemText primary={link.label} sx={{ '& span': { fontSize: '0.9rem', color: '#1e293b' } }} />
+                                  </ListItemButton>
+                                </Link>
                               ))}
                             </Box>
                           ))}

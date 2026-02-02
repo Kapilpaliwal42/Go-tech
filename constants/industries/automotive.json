@@ -1,0 +1,241 @@
+{
+  "hero": {
+    "title": "AUTOMOTIVE SOFTWARE DEVELOPMENT",
+    "description": "Empower your automotive business with meticulously crafted software solutions for your automotive business at Go InfoTech.",
+    "button": {
+      "text": "GET INFO",
+      "bgColor": "#f97316",
+      "onClick": "()=>{}"
+    },
+    "loadCounter": [
+      {
+        "label": "successful projects in Automotive industry served",
+        "limit": 4,
+        "suffix": "+"
+      },
+      {
+        "label": "specialist in the Automotive industry",
+        "limit": 30,
+        "suffix": "+"
+      },
+      {
+        "label": "years of expertise in business",
+        "limit": 8,
+        "suffix": ""
+      },
+      {
+        "label": "review rating based on 55+ reviews",
+        "limit": 4.8,
+        "suffix": "/5"
+      }
+    ]
+  },
+  "whyChooseUs":{
+  "title": "WHY CHOOSE GO INFOTECH AS YOUR PARTNER",
+  "description": "",
+  "data": [
+    {
+      "title": "OUR CLIENT’S EXPERIENCE",
+      "description": "Our clients have said it too, Go InfoTech has proved to be an expert custom Software Development Company in Udaipur driving seamless growth for our clients and showcasing our proficiency in web development."
+    },
+    {
+      "title": "INDUSTRIES' EXPERTISE:",
+      "description": "We are a trusted Software Development company in Udaipur, with expertise in FinTech solutions while using innovation, knowledge, and skills from all around the world."
+    },
+    {
+      "title": "EXPERTISE AT YOUR SERVICE:",
+      "description": "Our team is dedicated to serving you with expertise, knowledge, and professionalism, working to fuel the growth of your business. Choose Go InfoTech Solution for a reliable digital partner."
+    },
+    {
+      "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+      "description": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
+    },
+    {
+      "title": "WIDE RANGE OF SERVICES",
+      "description": "As a leading Web Development company in Udaipur, we offer custom team augmentation in software development, mobile app development, web application development, software maintenance and support, and more."
+    },
+    {
+      "title": "TRUSTED AND RENOWNED:",
+      "description": "We are dedicated to serving you with excellence, and this is vouched by our client’s unwavering trust in our services, as we are a trusted custom Software Development Company in Udaipur."
+    }
+  ]
+},
+  "services":{
+    "title":"PARTNER WITH GO INFOTECH FOR THE SUCCESS OF AUTOMOTIVE",
+    "data":[
+  {
+    "title": "STAFF AUGMENTATION FOR AUTOMOTIVE IT PRODUCTS",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Add the expertise of Go InfoTech Solution to your existing team, and make sure you augment it with highly specialized and experienced professionals from the most trusted <b>Custom Software Development Company in Udaipur</b>.</p>    <button class='flex items-center gap-2 p-4 text-2xl text-white m-3 rounded-lg bg-orange-400 w-3xs justify-around'>READ MORE > <ArrowRight /></button>    </div>"
+  },
+  {
+    "title": "CAR RENTAL MANAGEMENT SOFTWARE SOLUTIONS",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>At Go InfoTech, we offer comprehensive software solutions for car rental services designed to revolutionize operations within the automotive industry.</p>    <h2 class='text-2xl font-semibold mt-4 '>OFFERING FUNCTIONALITIES:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Scheduling and Booking administration</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Automotive fleet administration</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Pricing policies</li>        </ul>    </div>"
+  },
+  {
+    "title": "VEHICLE DIAGNOSTIC SOFTWARE SOLUTIONS",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Incorporate meticulously planned, AI-driven risk assessment software solutions for vehicle diagnosis, which will include regular vehicle maintenance.</p>    <h2 class='text-2xl font-semibold mt-4 '>FUNCTIONALITIES OF OUR SOFTWARE SOLUTIONS:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Identify faults and issues</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Assessment of vehicle performance</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Recommending maintenance actions</li>        </ul>    </div>"
+  },
+  {
+    "title": "AUTONOMOUS CAR SOFTWARE DEVELOPMENT",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Lead the way in innovation with state-of-the-art autonomous vehicle software. We excel at enabling the smooth integration of self-driving capabilities.</p>    <h2 class='text-2xl font-semibold mt-4 '>INTEGRATION FEATURES:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Self-navigation</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Obstacle detection</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Automated parking</li>        </ul>    </div>"
+  },
+  {
+    "title": "CONNECTIVITY AND TELEMATICS SOLUTIONS",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Responsive vehicle connectivity with telematics solutions to keep your fleet connected and intelligent.</p>    <h2 class='text-2xl font-semibold mt-4 '>FUNCTIONALITIES OF OUR SOFTWARE SOLUTIONS:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Implementation of real-time vehicle tracking</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Remote diagnostics</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Advanced navigation systems</li>        </ul>    </div>"
+  },
+  {
+    "title": "FLEET MANAGEMENT SOFTWARE",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>We offer smooth fleet solutions for your customers with our fleet management software, optimizing logistics and performance.</p>    <h2 class='text-2xl font-semibold mt-4 '>FUNCTIONALITIES OF OUR SOFTWARE SOLUTIONS:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Deployment of live vehicle tracking</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Scheduling and easy vehicle booking options</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Enhanced routing technology</li>        </ul>    </div>"
+  }
+]
+  },
+  "techStack":{
+    "title":"TECH STACK",
+    "data":[
+  {
+    "title": "FRONT-END DEVELOPMENT",
+    "desc": "Empower your business with our expert front-end solutions, focusing fundamentally on a smooth user experience, effectively handling your needs and preferences, and aligning them to the industry’s unique requirements.",
+    "points": [
+      "20+ Front-end developers",
+      "8 years of experience",
+      "4.8 rating on Google"
+    ],
+    "icons_path": [
+      "/Angular-icon.png",
+      "/React-JS.png",
+      "/Vue.png"
+    ]
+  },
+  {
+    "title": "BACK-END DEVELOPMENT",
+    "desc": "We help you build a strong foundation for your software and applications with scalable and secure back-end systems that will enable you to handle all your tasks seamlessly and result in the robust growth of your business.",
+    "points": [
+      "20+ Back-end developers",
+      "8 years of experience",
+      "4.8 rating on Google"
+    ],
+    "icons_path": [
+      "/DotNet.png",
+      "/GOlang-1.png",
+      "/Java-1.png",
+      "/Laravel.png",
+      "/NodeJS-1.png",
+      "/PHP-1.png",
+      "/Python-1.png",
+      "/Ruby-1.png",
+      "/Rust-1.png",
+      "/Scala-1.png"
+    ]
+  },
+  {
+    "title": "MOBILE APP DEVELOPMENT",
+    "desc": "Our team of dedicated experts and developers at the leading IT Company in Udaipur is here to skillfully craft captivating and functional mobile apps for Android and iOS platforms, crafted to meet your unique needs and reach our target audience.",
+    "points": [
+      "10+ Mobile developers",
+      "8 years of experience",
+      "4.8 rating on Google"
+    ],
+    "icons_path": [
+      "/Flutter-1.png",
+      "/Ionic-1.png",
+      "/Kotlin-1.png",
+      "/React-Native-1.png",
+      "/Swift-1.png"
+    ]
+  },
+  {
+    "title": "UI/UX DESIGN",
+    "desc": "Through our user-centric approach, we are successful in reaching the target audience via our visually appealing UI/UX designs that are user-friendly and lead to an exceptional user experience on all platforms.",
+    "points": [
+      "10+ Design specialists",
+      "8 years of experience",
+      "4.8 rating on Google"
+    ],
+    "icons_path": [
+      "/Adobe_XD-1.png",
+      "/FigJam-1.png",
+      "/Figma-1.png",
+      "/Invision-1.png",
+      "/Maze-1.png",
+      "/Miro-1.png",
+      "/Protopie-1.png",
+      "/Sketch-1.png",
+      "/Zeplin-1.png"
+    ]
+  }
+]
+  },
+  "advantages":{
+  "title": "ADVANTAGES OF PARTNERING WITH GO INFOTECH FOR SOFTWARE DEVELOPMENT",
+  "description": "",
+  "data": [
+    {
+      "title": "BUSINESS-ORIENTED PERSONALIZATION",
+      "description": "We offer comprehensive software solutions that are custom-developed to your specific business requirements."
+    },
+    {
+      "title": "OPTIMIZED PERFORMANCE AND FLEXIBILITY",
+      "description": "Explore the expertise of our professionals, offering high-quality performance and scalability in the software solutions offered."
+    },
+    {
+      "title": "COLLABORATE WITH CUTTING-EDGE TECHNOLOGIES",
+      "description": "We partner with updated technology tools to elevate performance and drive sales. We make use of AI, blockchain, and data analytics for effective operations."
+    },
+    {
+      "title": "ADHERENCE TO REGULATORY COMPLIANCE AND SECURITY",
+      "description": "At Go InfoTech, we value your credibility, which is why we prioritize security in our software solutions while simultaneously focusing on regulatory compliance."
+    },
+    {
+      "title": "FACILITATING SCALABILITY AND INTEGRATION",
+      "description": "We offer scalable solutions for facilitating seamless transactions and the integration of social media platforms while offering a compatible and interactive interface."
+    },
+    {
+      "title": "EFFECTIVE SUPPORT AND REAL-TIME MAINTENANCE",
+      "description": "We believe in offering real-time support and assistance to our clients while paying deliberate attention to their unique needs and requirements."
+    }
+  ]
+},
+    "roadmap":{
+  "title": "PRODUCT DELIVERY ROADMAP",
+  "data": [
+    {
+      "title": "DISCOVERY & PLANNING",
+      "description": "<div class='p-4 text-inherit '>    <p>Embarking on the journey of manifesting your vision into reality through our expert assistance, we understand your vision and iteration and conduct comprehensive analysis and strategies for our move.</p>    <p class='mt-2'><strong>Result:</strong> Detailed planning and comprehensive analysis</p>    </div>"
+    },
+    {
+      "title": "DESIGN & PROTOTYPING",
+      "description": "<div class='p-4 text-inherit '>    <p>Designing and developing prototypes of your vision while engaging our UI/UX designers in the project to ensure a user-centric digital experience.</p>    <p class='mt-2'><strong>Result:</strong> An engaging and feature-rich prototype</p>    </div>"
+    },
+    {
+      "title": "PRODUCT DEVELOPMENT & TESTING",
+      "description": "<div class='p-4 text-inherit '>    <p>Our team of developers is dedicated to building a product that is functional, feature-rich, and offers high-quality performance through rigorous QA protocols.</p>    <p class='mt-2'><strong>Result:</strong> Development and testing of MVP</p>    </div>"
+    },
+    {
+      "title": "LAUNCH & CONTINUOUS IMPROVEMENT",
+      "description": "<div class='p-4 text-inherit '>    <p>Our team is at your service to serve you with excellence. We take into account your unique feedback and aim for continuous improvement and scalability post-launch.</p>    <p class='mt-2'><strong>Result:</strong> Launching of MVP and incorporating feedback improvement.</p>    </div>"
+    }
+  ]
+},
+    "whoWeServe":{
+  "title": "WHOM WE SERVE",
+  "description": "",
+  "data": [
+    {
+      "title": "AUTOMOTIVE STARTUPS",
+      "description": "We take pride in our professional developers, designers, and specialists who have delivered excellence in software solutions customized to their unique automotive business needs."
+    },
+    {
+      "title": "FINANCIAL INSTITUTIONS",
+      "description": "We meticulously crafted a powerful, security-rich, IT solution for the financial industry and institutions to elevate the user experience."
+    },
+    {
+      "title": "CAR MANUFACTURING CORPORATIONS",
+      "description": "We meticulously crafted a powerful, security-rich, IT solution for several car manufacturing corporations to elevate the user experience while incorporating innovation."
+    },
+    {
+      "title": "AUTOMOTIVE SOFTWARE PRODUCT COMPANIES",
+      "description": "A comprehensive solution designed to revolutionize the automotive industry. It serves as a pivotal tool for businesses, offering a range of features aimed at enhancing efficiency and optimizing for a swift driving experience."
+    }
+  ]
+}
+}

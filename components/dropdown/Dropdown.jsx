@@ -1,7 +1,8 @@
-import React, { useState, useRef, useEffect } from 'react';
+import  { useState, useRef, useEffect } from 'react';
 import { ChevronDown } from 'lucide-react';
+import Link from 'next/link';
 
-const Dropdown = ({ menuTitle, description, data }) => {
+const Dropdown = ({ menuTitle,href, description, data }) => {
   const [isOpen, setIsOpen] = useState(false);
   const [position, setPosition] = useState('center');
   const dropdownRef = useRef(null);
@@ -66,35 +67,45 @@ const Dropdown = ({ menuTitle, description, data }) => {
 
           {/* Right Side: Grid Links */}
           <div className="w-2/3 p-10">
-            <div className="grid grid-cols-3 gap-x-6 gap-y-8">
-              {data.map((section, idx) => (
-                <div key={idx} className="space-y-3">
-                  <h3 className="text-slate-400 font-bold text-xs uppercase tracking-widest border-b border-slate-100 pb-2">
-                    {section.category}
-                  </h3>
-                  <ul className="space-y-2">
-                    {section.links.map((link, lIdx) => (
-                      <li key={lIdx}>
-                        <a 
-                          href={link.href} 
-                          className="text-blue-900 hover:text-blue-600 text-sm font-medium transition-colors block py-1"
-                        >
-                          {link.label}
-                        </a>
-                      </li>
-                    ))}
-                  </ul>
+            {data.length > 0 ? (
+              <>
+                <div className="grid grid-cols-3 gap-x-6 gap-y-8">
+                  {data.map((section, idx) => (
+                    <div key={idx} className="space-y-3">
+                      <h3 className="text-slate-400 font-bold text-xs uppercase tracking-widest border-b border-slate-100 pb-2">
+                        {section.category}
+                      </h3>
+                      <ul className="space-y-2">
+                        {section.links.map((link, lIdx) => (
+                          <li key={lIdx}>
+                            <Link 
+                              href={link.href} 
+                              className="text-blue-900 hover:text-blue-600 text-sm font-medium transition-colors block py-1"
+                            >
+                              {link.label}
+                            </Link>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  ))}
                 </div>
-              ))}
-            </div>
-            
-            {/* "All Services" Link at bottom */}
-            <div className="mt-12 pt-6 border-t border-slate-100">
-              <a href={`/${menuTitle.toLowerCase()}`} className="text-blue-900 font-bold text-sm uppercase hover:underline flex items-center gap-2">
-                All {menuTitle}
-                <span className="text-lg">→</span>
-              </a>
-            </div>
+                
+                {/* "All Services" Link at bottom */}
+                {href && (
+                  <div className="mt-12 pt-6 border-t border-slate-100">
+                    <Link href={href} className="text-blue-900 font-bold text-sm uppercase hover:underline flex items-center gap-2">
+                      All {menuTitle}
+                      <span className="text-lg">→</span>
+                    </Link>
+                  </div>
+                )}
+              </>
+            ) : (
+              <div className="flex items-center justify-center h-full">
+                <p className="text-slate-500">No items available</p>
+              </div>
+            )}
           </div>
 
         </div>

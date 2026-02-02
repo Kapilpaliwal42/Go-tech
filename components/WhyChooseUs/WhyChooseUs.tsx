@@ -35,7 +35,7 @@ function WhyChooseUs({whyChooseUsData=[],title='Why Choose Us?', gridsize=3}: Wh
                                 </div>
                                 <h3 className='text-xl font-semibold uppercase  pt-2'>{item.title}</h3>
                             </div>
-                            <p className='text-md p-3 text-[#2b428c] mb-4 flex-grow'>{item.description}</p>
+                            <p className='text-md p-3 text-[#2b428c] mb-4 flex-grow' dangerouslySetInnerHTML={{ __html: item.description }}></p>
                         </div>
                     ))}
                 </div>

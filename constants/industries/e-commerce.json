@@ -1,0 +1,252 @@
+{
+  "hero": {
+    "title": "E-COMMERCE SOFTWARE DEVELOPMENT",
+    "description": "Witness swift collaboration of technology and innovation in the e-commerce sector only at Go InfoTech for the exponential growth of your business.",
+    "button": {
+      "text": "GET INFO",
+      "bgColor": "#f97316",
+      "onClick": "()=>{}"
+    },
+    "loadCounter": [
+      {
+        "label": "tech projects in the E-commerce industry delivery",
+        "limit": 8,
+        "suffix": "+"
+      },
+      {
+        "label": "specialists in the E-commerce industry",
+        "limit": 10,
+        "suffix": "+"
+      },
+      {
+        "label": "years of expertise in the business",
+        "limit": 8,
+        "suffix": "+"
+      },
+      {
+        "label": "review rating based on 55+ reviews",
+        "limit": 4.85,
+        "suffix": "/5"
+      }
+    ]
+  },
+  "whyChooseUs":{
+  "title": "WHY CHOOSE GO INFOTECH AS YOUR PARTNER",
+  "data": [
+    {
+      "title": "OUR CLIENT’S EXPERIENCE",
+      "description": "<div class='p-4 text-inherit '> <p>Our clients have said it too, Go InfoTech has proved to be an expert <b>Custom Software Development Company in Udaipur</b> driving seamless growth for our clients and showcasing our proficiency in web development.</p> </div>"
+    },
+    {
+      "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+      "description": "<div class='p-4 text-inherit '> <p>We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime.</p> </div>"
+    },
+    {
+      "title": "WIDE RANGE OF SERVICES",
+      "description": "<div class='p-4 text-inherit '> <p>As a leading <b>Web Development company in Udaipur</b>, we offer custom team augmentation in software development, mobile app development, web application development, software maintenance and support, and more.</p> </div>"
+    },
+    {
+      "title": "TRUSTED AND RENOWNED",
+      "description": "<div class='p-4 text-inherit '> <p>We are dedicated to serving you with excellence, and this is vouched by our client’s unwavering trust in our services and for the development of an e-commerce platform, as we are a trusted <b>custom Software Development Company in Udaipur.</b></p> </div>"
+    },
+    {
+      "title": "INDUSTRIES' EXPERTISE:",
+      "description": "<div class='p-4 text-inherit '> <p>We are a trusted Software Development company in Udaipur, with expertise in e-commerce solutions while using innovation, knowledge, and skills from all around the world.</p> </div>"
+    },
+    {
+      "title": "EXPERTISE AT YOUR SERVICE",
+      "description": "<div class='p-4 text-inherit '> <p>Our team is dedicated to serving you with expertise, knowledge, and professionalism, working to fuel the growth of your e-commerce business. Choose Go InfoTech Solution for a reliable digital partner.</p> </div>"
+    }
+  ]
+},
+  "services":{
+  "title": "PARTNER WITH GO INFOTECH FOR THE SUCCESS OF E-COMMERCE BIZ",
+  "data":[
+  {
+    "title": "STAFF AUGMENTATION FOR E-COMMERCE IT PRODUCTS",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Add the expertise of Go InfoTech Solution to your existing team, and make sure you augment it with highly specialized and experienced professionals from the most trusted <b>Custom Software Development Company in Udaipur</b>.</p>    <a href='/industries/e-commerce/#/1'><button class='flex items-center gap-2 p-4 text-2xl text-white m-3 rounded-lg bg-orange-400 w-3xs justify-around'>READ MORE > <ArrowRight /></button></a>    </div>"
+  },
+  {
+    "title": "E-COMMERCE PLATFORM",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>At Go InfoTech, we offer comprehensive e-commerce software solutions for businesses that are designed to revolutionize operations within the industry.</p>    <h2 class='text-2xl font-semibold mt-4 '>OFFERING FUNCTIONALITIES:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Shopping-cart functionality and administration</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Easy-to-use interfaces</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Pricing policies</li>        </ul>    </div>"
+  },
+  {
+    "title": "E-COMMERCE MOBILE APPLICATIONS",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Incorporate meticulously planned, AI-driven software solutions for the e-commerce industry, which include predictive analysis and user-generated data analysis.</p>    <h2 class='text-2xl font-semibold mt-4 '>FUNCTIONALITIES OF OUR SOFTWARE SOLUTIONS:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>payment processing integrations and platform</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Drive sales using personalized notifications and pop-ups</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Design unique user experience using VR</li>        </ul>    </div>"
+  },
+  {
+    "title": "CMS DEVELOPMENT FOR E-COMMERCE PLATFORMS",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Develop CMS for e-commerce platforms while utilizing innovation and cutting-edge technology for an enhanced user experience. We offer a scalable platform that is user-friendly, interactive, and responsive.</p>    <h2 class='text-2xl font-semibold mt-4 '>FUNCTIONALITIES OF OUR E-COMMERCE SOLUTIONS:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Develop e-commerce websites that are responsive to several CMS platforms</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Payment processing integrations, inventory administration, CRM systems</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Interactive interfaces for an elevate user’s shopping experience</li>        </ul>    </div>"
+  },
+  {
+    "title": "SUPPLY CHAIN MANAGEMENT SOFTWARE",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Swift and effective supply chain management software solutions to optimize your fulfillment cycle.</p>    <h2 class='text-2xl font-semibold mt-4 '>FUNCTIONALITIES OF OUR SOFTWARE SOLUTIONS:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Implementation of real-time order tracking</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Inventory administration</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Managed logistic operations</li>        </ul>    </div>"
+  },
+  {
+    "title": "CRM SYSTEMS",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>We offer seamless custom CRM solutions with our management software to help you understand and retain customers.</p>    <h2 class='text-2xl font-semibold mt-4 '>FUNCTIONALITIES OF OUR SOFTWARE SOLUTIONS:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Deeper customer analytics</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Individualized marketing campaigns</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Effective customer service administration</li>        </ul>    </div>"
+  },
+  {
+    "title": "ONLINE MARKETPLACES",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Empower your e-commerce operations with a multi-vendor online marketplace infrastructure.</p>    <h2 class='text-2xl font-semibold mt-4 '>FUNCTIONALITIES OF OUR E-COMMERCE SOLUTIONS:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Implementation of real-time order tracking</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Inventory administration</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Managed logistic operations</li>        </ul>    </div>"
+  }
+    ]
+},
+    "techStack":{
+        "title": "TECH STACK",
+  "data":[
+  {
+    "title": "FRONT-END DEVELOPMENT",
+    "desc": "Empower your business with our expert front-end solutions, focusing fundamentally on a smooth user experience, effectively handling your needs and preferences, and aligning them to the industry’s unique requirements.",
+    "points": [
+      "20+ Front-end developers",
+      "8 years of experience",
+      "4.8 rating on Google"
+    ],
+    "icons_path": [
+      "/Angular-icon.png",
+      "/Flutter-1.png",
+      "/Ionic-1.png",
+      "/Kotlin-1.png",
+      "/React-JS.png",
+      "/React-Native-1.png",
+      "/Swift-1.png",
+      "/Vue.png"
+    ]
+  },
+  {
+    "title": "BACK-END DEVELOPMENT",
+    "desc": "We help you build a strong foundation for your software and applications with scalable and secure back-end systems that will enable you to handle all your tasks seamlessly and result in the robust growth of your business.",
+    "points": [
+      "20+ Back-end developers",
+      "8 years of experience",
+      "4.8 rating on Google"
+    ],
+    "icons_path": [
+      "/DotNet.png",
+      "/GOlang-1.png",
+      "/Java-1.png",
+      "/Laravel.png",
+      "/NodeJS-1.png",
+      "/PHP-1.png",
+      "/Python-1.png",
+      "/Ruby-1.png",
+      "/Rust-1.png",
+      "/Scala-1.png"
+    ]
+  },
+  {
+    "title": "CMS DEVELOPMENT",
+    "desc": "We have expertise in CMS frameworks, allowing us to construct websites that efficiently handle and structure extensive content. Whether you require a blog, news site, or e-commerce platform, we’re equipped to assist you with our proficiency in Drupal, WordPress, and Joomla.",
+    "points": [
+      "Development of CMS websites",
+      "Customization and enhancement of CMS",
+      "Development of themes and plugins",
+      "Maintenance and support"
+    ],
+    "icons_path": [
+      "/drupal-icon.png",
+      "/joomla.jpg",
+      "/Wordpress.png"
+    ]
+  },
+  {
+    "title": "UI/UX DESIGN",
+    "desc": "Through our user-centric approach, we are successful in reaching the target audience via our visually appealing UI/UX designs that are user-friendly and lead to an exceptional user experience on all platforms.",
+    "points": [
+      "10+ Design specialists",
+      "8 years of experience",
+      "4.8 rating on Google"
+    ],
+    "icons_path": [
+      "/Adobe_XD-1.png",
+      "/FigJam-1.png",
+      "/Figma-1.png",
+      "/Invision-1.png",
+      "/Maze-1.png",
+      "/Miro-1.png",
+      "/Protopie-1.png",
+      "/Sketch-1.png",
+      "/Zeplin-1.png"
+    ]
+  }
+]
+    },
+    "advantages":{
+  "title": "ADVANTAGES OF PARTNERING WITH GO INFOTECH FOR SOFTWARE DEVELOPMENT",
+  "description": "",
+  "button": {
+    "text": "ALL SERVICES  >",
+    "bgColor": "#f97316"
+  },
+  "data": [
+    {
+      "title": "BUSINESS-ORIENTED PERSONALIZATION",
+      "description": "We offer comprehensive software solutions that are custom-developed to meet your specific e-commerce business requirements."
+    },
+    {
+      "title": "OPTIMIZED PERFORMANCE AND FLEXIBILITY",
+      "description": "Explore the expertise of our professionals, offering high-quality performance and scalability in the e-commerce software solutions offered at Go InfoTech."
+    },
+    {
+      "title": "COLLABORATE WITH CUTTING-EDGE TECHNOLOGIES",
+      "description": "We partner with updated technology tools to elevate performance and drive sales. We make use of AI, blockchain, and data analytics for effective management of e-commerce operations."
+    },
+    {
+      "title": "ADHERENCE TO REGULATORY COMPLIANCE AND SECURITY",
+      "description": "At Go InfoTech, we value your credibility, which is why we prioritize security in our e-commerce software solutions while simultaneously focusing on regulatory compliance."
+    },
+    {
+      "title": "FACILITATING SCALABILITY AND INTEGRATION",
+      "description": "We offer scalable e-commerce solutions for facilitating seamless transactions and the integration of social media platforms while offering a compatible and interactive interface."
+    },
+    {
+      "title": "EFFECTIVE SUPPORT AND REAL-TIME MAINTENANCE",
+      "description": "We believe in offering real-time support and assistance to our clients while paying deliberate attention to the unique needs and requirements of e-commerce businesses."
+    }
+  ]
+},
+    "roadmap":{
+  "title": "PRODUCT DELIVERY ROADMAP",
+  "data": [
+    {
+      "title": "DISCOVERY & PLANNING",
+      "description": "<div class='p-4 text-inherit '> <p>Embarking on the journey of manifesting your vision into reality through our expert assistance, we understand your vision and iteration and conduct comprehensive analysis and strategies for our move.</p> <p class='mt-2'><strong>Result:</strong> Detailed planning and comprehensive analysis</p> </div>"
+    },
+    {
+      "title": "DESIGN & PROTOTYPING",
+      "description": "<div class='p-4 text-inherit '> <p>Designing and developing prototypes of your vision while engaging our UI/UX designers in the project.</p> <p class='mt-2'><strong>Result:</strong> An engaging and feature-rich prototype</p> </div>"
+    },
+    {
+      "title": "PRODUCT DEVELOPMENT & TESTING",
+      "description": "<div class='p-4 text-inherit '> <p>Our team of developers is dedicated to building a product that is functional, feature-rich, and offers high-quality performance.</p> <p class='mt-2'><strong>Result:</strong> Development and testing of MVP</p> </div>"
+    },
+    {
+      "title": "LAUNCH & CONTINUOUS IMPROVEMENT",
+      "description": "<div class='p-4 text-inherit '> <p>Our team is at your service to serve you with excellence. We take into account your unique feedback and aim for continuous improvement.</p> <p class='mt-2'><strong>Result:</strong> Launching of MVP and incorporating feedback improvement.</p> </div>"
+    }
+  ]
+},
+    "whoWeServe":{
+  "title": "WHOM WE SERVE",
+  "description": "",
+  "data": [
+    {
+      "title": "E-COMMERCE STARTUPS",
+      "description": "We take pride in our professional developers, designers, and specialists who have delivered excellence in e-commerce software solutions customized to their unique online business needs."
+    },
+    {
+      "title": "ONLINE RETAILERS",
+      "description": "We meticulously crafted a powerful, security-rich IT solution for several online retailers to elevate their user experience while incorporating innovation into the e-commerce platform."
+    },
+    {
+      "title": "MULTI-CHANNEL E-COMMERCE PLATFORMS",
+      "description": "Empowering multi-channel e-commerce platforms by unleashing the power of technology and innovation and providing solutions that are feature-rich, scalable, user-friendly, and safe to use."
+    },
+    {
+      "title": "E-COMMERCE SOLUTION PROVIDERS",
+      "description": "Offering comprehensive e-commerce solutions designed to boost sales. It serves as a pivotal tool for businesses, offering a range of features like CRM, payment gateways, etc. aimed at enhancing efficiency and optimizing operations."
+    }
+  ]
+}
+}

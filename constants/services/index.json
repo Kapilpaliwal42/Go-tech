@@ -1,114 +1,95 @@
 {
   "hero": {
-    "title": "OUR SERVICES",
-    "subtitle": "Explore our comprehensive range of technology and business solutions."
-  },
-  "allServices": [
+    "title": "IT SERVICES AND CONSULTATION",
+    "description": "Delve into the world of technological excellence and captivate your stake in cyberspace with the help of our expertise.",
+    "button": {"text": "GET INFO",
+            "bgColor": "#f97316",
+            "onClick": "()=>{}"},
+    "loadCounter": [
+      {
+        "label": "successful projects",
+        "limit": 150,
+        "suffix": "+"
+      },
+      {
+        "label": "satisfied with our services",
+        "limit": 7,
+        "suffix": "/10+"
+      },
+      {
+        "label": "in business",
+        "limit": 3,
+        "suffix": "+ years"
+      },
+      {
+        "label": "qualified employees within the team",
+        "limit": 70,
+        "suffix": "+"
+      }
+  ]
+},
+"whyChooseUs":{
+  "title": "WHY CHOOSE US",
+  "description": "",
+  "data": [
     {
-      "slug": "web-development",
-      "category": "custom software",
-      "title": "Web Development",
-      "description": "Build responsive, scalable web applications with cutting-edge technologies and best practices.",
-      "icon": "Globe"
+      "title": "TRUSTED AND RENOWNED",
+      "description": "We are dedicated to serving you with excellence, and this is vouched by our client’s unwavering trust in our services, as we are a trusted custom Software Development Company in Udaipur."
     },
     {
-      "slug": "mobile-app-development",
-      "category": "custom software",
-      "title": "Mobile App Development",
-      "description": "Create native and cross-platform mobile applications for iOS and Android.",
-      "icon": "Smartphone"
+      "title": "EXPERTISE AT YOUR SERVICE:",
+      "description": "Our team is dedicated to serving you with expertise, knowledge, and professionalism working to fuel the growth of your business. Choose Go InfoTech Solution for a reliable digital partner."
     },
     {
-      "slug": "startup-mvp-development",
-      "category": "custom software",
-      "title": "Startup MVP Development",
-      "description": "Launch your startup with a minimum viable product built fast and lean.",
-      "icon": "Rocket"
+      "title": "INDUSTRIES' EXPERTISE:",
+      "description": "We are a trusted Software Development company in Udaipur, with expertise from different industries all around the world using innovation, knowledge, and skills."
     },
     {
-      "slug": "cross-platform-app-development",
-      "category": "custom software",
-      "title": "Cross-Platform App Development",
-      "description": "One codebase for multiple platforms. Efficient and cost-effective mobile solutions.",
-      "icon": "Layout"
+      "title": "HIGH SATISFACTION RATES",
+      "description": "Empower your business with promising results and IT solutions by professionals who are dedicated to serving you right."
     },
     {
-      "slug": "android-app-development",
-      "category": "custom software",
-      "title": "Android App Development",
-      "description": "Expert Android development for phones, tablets, and wearables.",
-      "icon": "AndroidIcon"
+      "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+      "description": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
     },
     {
-      "slug": "ai-ml",
-      "category": "intelligent automation",
-      "title": "AI & Machine Learning",
-      "description": "Leverage AI and machine learning to transform your business operations.",
-      "icon": "BrainCircuit"
-    },
-    {
-      "slug": "ai-chatbot-development",
-      "category": "intelligent automation",
-      "title": "AI Chatbot Development",
-      "description": "Intelligent chatbots that enhance customer engagement and support.",
-      "icon": "MessageCircle"
-    },
-    {
-      "slug": "machine-learning-consulting",
-      "category": "intelligent automation",
-      "title": "Machine Learning Consulting",
-      "description": "Expert consulting to guide your machine learning journey.",
-      "icon": "Lightbulb"
-    },
-    {
-      "slug": "digital-marketing-services",
-      "category": "intelligent automation",
-      "title": "Digital Marketing Services",
-      "description": "Grow your online presence with strategic digital marketing.",
-      "icon": "TrendingUp"
-    },
-    {
-      "slug": "search-engine-optimization-in-udaipur",
-      "category": "intelligent automation",
-      "title": "Search Engine Optimization",
-      "description": "Improve your search rankings and organic visibility.",
-      "icon": "Search"
-    },
-    {
-      "slug": "cloud-and-devops-services",
-      "category": "managed IT services",
-      "title": "Cloud & DevOps Development",
-      "description": "Cloud infrastructure and DevOps solutions for enterprise scalability.",
-      "icon": "Cloud"
-    },
-    {
-      "slug": "staff-augmentation",
-      "category": "managed IT services",
-      "title": "Staff Augmentation",
-      "description": "Extend your team with skilled developers and IT professionals.",
-      "icon": "Users"
+      "title": "WIDE RANGE OF SERVICES",
+      "description": "Offering software development services, including custom software development, mobile app development, web application development, software maintenance and support, and more."
     }
-  ],
-  "categoriesData": [
+  ]
+},
+"industriesData":{
+  "title": "INDUSTRIES Go InfoTech SOLUTION SERVES:",
+  "description": "",
+  "data": [
     {
-      "category": "CUSTOM SOFTWARE",
-      "description": "Build tailored software solutions for your unique business needs.",
-      "services_count": 5
+      "title": "FINANCE",
+      "description": "Empowering the financial sector by incorporating the expertise of Software Development company in Udaipur to enhance the security and efficiency of the services."
     },
     {
-      "category": "INTELLIGENT AUTOMATION",
-      "description": "Leverage AI and automation to streamline your processes.",
-      "services_count": 5
+      "title": "HEALTHCARE",
+      "description": "We offer cutting-edge solutions for healthcare by making use of managed IT services at web Development company in Udaipur and digital health technologies."
     },
     {
-      "category": "MANAGED IT SERVICES",
-      "description": "Enterprise-grade IT infrastructure and support.",
-      "services_count": 2
+      "title": "MEDIA & ENTERTAINMENT",
+      "description": "Robust IT Solutions at Digital Marketing Company in Udaipur offering innovative solutions for digital platforms along with SEO Services in Udaipur."
+    },
+    {
+      "title": "AUTOMOTIVE",
+      "description": "Dedicated experts providing advanced IT Solutions by making use of innovative and effective solutions for the automotive industry offering operational efficiency."
+    },
+    {
+      "title": "EDUCATION",
+      "description": "Leveraging the excellence of our IT Company in Udaipur to empower educational institutions with digital assistance by our professionals."
+    },
+    {
+      "title": "E-COMMERCE",
+      "description": "Ensuring that the website generates enhanced customer engagement and optimizes user experience Digital Marketing Agency in Udaipur generating higher sales."
+    },
+    {
+      "title": "GIS",
+      "description": "Accurate data visualization and incorporation of geospatial data for designing advanced Geographic Information Systems at a Web Development company in Udaipur."
     }
-  ],
-  "cta": {
-    "title": "Ready to Discuss Your Project?",
-    "description": "Let's explore how our services can help your business thrive.",
-    "buttonText": "GET IN TOUCH"
-  }
+  ]
+}
 }

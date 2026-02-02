@@ -1,3 +1,4 @@
+import { UserCheck,BadgeCheck,ShieldCheck,TrendingUp,Globe,LayoutGrid } from 'lucide-react';
 
 interface BlueGridProps {
   title: string;
@@ -7,9 +8,19 @@ interface BlueGridProps {
   bgColor?: string;
   textColor?: string;
   button?: { text: string; onClick: () => void; bgColor?: string };
+  icons?: boolean;
 };
 
-function BlueGrid({ title, industriesData = [], gridsize = 3, description = '', bgColor = "#2b428c", textColor = "white", button = { text: "", onClick: () => { }, bgColor: "orange-500" } }: BlueGridProps) {
+const iconMap = {
+  0: <UserCheck size={32}  />,
+  1: <BadgeCheck size={32}  />,
+  2: <ShieldCheck size={32}  />,
+  3: <TrendingUp size={32}  />,
+  4: <Globe size={32}  />,
+  5: <LayoutGrid size={32}  />,
+}
+
+function BlueGrid({ title, industriesData = [], gridsize = 3, description = '', bgColor = "#2b428c", textColor = "white", button = { text: "", onClick: () => { }, bgColor: "orange-500" },icons=false }: BlueGridProps) {
   
   const isHTML = (str: string) => /<[^>]*>/.test(str);
 
@@ -34,7 +45,7 @@ function BlueGrid({ title, industriesData = [], gridsize = 3, description = '', 
         <div className="flex flex-col items-start mb-10 sm:flex-row sm:justify-between sm:items-center w-full">
           <div>
             <h1 className='text-4xl font-semibold uppercase text-left mx-8'>{title}</h1>
-            {description && <p className='text-lg font-light max-w-3/4 p-2 mx-6'>{description}</p>}
+            {description.length > 0 && <p className='text-lg  font-light max-w-3/4 p-2 mx-6'>{description}</p>}
           </div>
           {button.text && (
             <button
@@ -67,9 +78,9 @@ function BlueGrid({ title, industriesData = [], gridsize = 3, description = '', 
                   minWidth: '300px' 
                 }}
               >
-                {industry.icon && (
+                {icons &&  (
                   <div className="m-4 p-5 max-w-20 rounded" style={{ backgroundColor: 'rgba(80, 109, 201, 0.72)' }}>
-                    {industry.icon}
+                    {iconMap[index]}
                   </div>
                 )}
                 <h3 className="text-xl font-semibold m-4">{industry.title}</h3>

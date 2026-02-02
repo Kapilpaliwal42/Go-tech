@@ -4,8 +4,18 @@ import StatCounter from '../StatCountDiv/StatCountDiv';
 import { usePathname, } from 'next/navigation';
 import Link from 'next/link';
 import { Breadcrumbs } from '@mui/material';
+import { useBooking } from '@/context/BookingContext';
 
 //if no loadcounter 
+
+interface HeroSectionProps {
+  title?: string;
+  loadCounter?: { limit: number; suffix: string; label: string }[];
+  description?: string;
+  children?: React.ReactNode;
+  button?: { text: string; bgColor: string; onClick: () => void };
+}
+
 
 const loadCounter=[
   {
@@ -15,9 +25,19 @@ const loadCounter=[
   }
 ]
 
-function HeroSection({title="SAMPLE",loadCounter=[],description="",children=null,button={text:"",bgColor:"#f97316",onClick:()=>{}}}) {
+function HeroSection({title="SAMPLE",loadCounter=[],description="",children=null,button}) {
+  const { openBooking } = useBooking();
+  
+  // Set default button values if not provided
+  const defaultButton = {
+    text: "",
+    bgColor: "#f97316",
+    onClick: openBooking,
+    ...button // Merge with provided button props
+  };
+  
   const buttonStyle = {
-    backgroundColor: button?.bgColor || "#f97316"
+    backgroundColor: defaultButton?.bgColor || "#f97316"
   };
   
   return (
@@ -63,7 +83,7 @@ function HeroSection({title="SAMPLE",loadCounter=[],description="",children=null
             </h1>
             <p className="text-[#2b428c] text-xl max-w-md">
 {description}            </p>
-           {button.text && <button style={buttonStyle} className="flex items-center gap-2 px-6 py-4 rounded-lg text-white font-semibold hover:opacity-90 transition-opacity" onClick={button.onClick}>{button.text} <ArrowRight /></button>}
+           {button.text && <button onClick={button.onClick} style={buttonStyle} className="flex items-center gap-2 px-6 py-4 rounded-lg text-white font-semibold hover:opacity-90 transition-opacity">{button.text} <ArrowRight /></button>}
           </div>
 
           {/* RIGHT STATS */}
