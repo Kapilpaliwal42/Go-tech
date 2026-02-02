@@ -1,0 +1,33 @@
+{
+  "hero": {
+    "title": "FINTECH SOFTWARE DEVELOPMENT",
+    "description": "Embrace your journey of stepping into the digital realm with our meticulously planned FinTech solutions for your business growth.",
+    "button": {
+      "text": "GET INFO",
+      "bgColor": "#f97316",
+      "onClick": "()=>{}"
+    },
+    "loadCounter": [
+      {
+        "label": "successful FinTech projects delivered",
+        "limit": 5,
+        "suffix": "+"
+      },
+      {
+        "label": "Specialist in the Financial sector",
+        "limit": 10,
+        "suffix": "+"
+      },
+      {
+        "label": "years of expertise in the business",
+        "limit": 2,
+        "suffix": "+"
+      },
+      {
+        "label": "review rating based on 55+ reviews",
+        "limit": 4.8,
+        "suffix": "/5"
+      }
+    ]
+  }
+}

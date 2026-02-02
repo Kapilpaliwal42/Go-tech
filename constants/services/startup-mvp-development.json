@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "title": "STARTUP MVP DEVELOPMENT",
+    "description": "Dedicated to empowering startups, we craft MVP (Minimum Viable Products) that enable you to evaluate your business concepts in typical market conditions while also mitigating the related risk.",
+    "button":{
+              "text":"GET INFO",
+              "bgColor":"#f97316",
+              "onClick":"()=>{}"
+
+    }
+
+  },
+  "methodologyData": [
+    { "title": "EFFECTIVE COSTING", "description": "Cost-effective development without compromising quality." },
+    { "title": "UI/UX DESIGN FOR APP SYSTEMS", "description": "Beautiful and intuitive user interfaces." },
+    { "title": "TRUSTED AND SKILLED DEVELOPERS", "description": "Experienced team dedicated to your success." }
+  ],
+  "approachesData": [
+    { "title": "IDENTIFY YOUR SCOPE", "description": "The initial start of your project requires clearly identifying the scope of your business and necessitating defining the key features of MPV, your goals associated with it, and its functionality." },
+    { "title": "FORMATION OF A VISION", "description": "Make sure that you have a vision in mind when planning to move forward with an MVP. Estimate the nature, time, extent, and budget involved to set a realistic expectation." },
+    { "title": "VALIDATE DESIGN", "description": "Before we embark on the development process, we urge you to approve the MPV designs through wireframes, prototypes, or mockups, which will enable us to gather your feedback." },
+    { "title": "MVP DEVELOPMENT STAGE", "description": "After clearly defining your needs and approving the prototype, our experts at GoTech, a reliable Software Development company in Udaipur, begin with the development of the MPV process. There are several procedures that the MVP undergoes before it is functional." },
+    { "title": "NECESSITATING USER FEEDBACK", "description": "We make sure that the feedback from your first users is given due importance and make the necessary changes accordingly. The amendments made are as per the feedback and gauging market response." },
+    { "title": "SCALE UP", "description": "In response to the initial feedback received, we made a decision regarding how to expand your MVP. At this stage we make sure that we add new features, improve the functionality, and increase your customer base." }
+  ],
+  "industriesData": [
+    { "title": "Finance", "description": "Financial technology and payment solutions." },
+    { "title": "Healthcare", "description": "Healthcare innovation and wellness apps." },
+    { "title": "E-commerce", "description": "Online retail and marketplace solutions." },
+    { "title": "Education", "description": "EdTech platforms and learning solutions." }
+  ]
+}

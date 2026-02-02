@@ -1,0 +1,54 @@
+{
+  "hero": {
+    "title": "SEARCH ENGINE OPTIMIZATION",
+    "subtitle": "Optimize your website using our meticulously planned SEO Services in Udaipur at Go-InfoTech to elevate your business's growth to exponential heights."
+  },
+  "loadCounter": [
+    { "limit": 18, "label": "SEO specialists", "suffix": "+" },
+    { "limit": 120, "label": "websites ranked on page 1", "suffix": "+" },
+    { "limit": 7, "label": "of SEO expertise", "suffix": "years" },
+    { "limit": 4.9, "label": "client satisfaction", "suffix": "/5" }
+  ],
+  "whyChooseUsData": [
+    { "icon": "UserCheck", "title": "OUR CLIENT'S EXPERIENCE", "description": "Proven results across industries." },
+    { "icon": "BadgeCheck", "title": "TOP SEO SPECIALISTS", "description": "Expert SEO consultants." },
+    { "icon": "ShieldCheck", "title": "PROPRIETARY TECHNOLOGY", "description": "Advanced SEO tools and techniques." },
+    { "icon": "TrendingUp", "title": "GUARANTEED PROJECT CONSISTENCY", "description": "Consistent ranking improvements." },
+    { "icon": "Globe", "title": "GLOBAL COVERAGE", "description": "International SEO expertise." },
+    { "icon": "LayoutGrid", "title": "WIDE RANGE OF SERVICES", "description": "Complete SEO solutions." }
+  ],
+  "servicesData": [
+    {
+      "title": "ON-PAGE SEO",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Optimize your website content and structure.</p></div>"
+    },
+    {
+      "title": "OFF-PAGE SEO",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Build quality backlinks and authority.</p></div>"
+    },
+    {
+      "title": "TECHNICAL SEO",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Fix technical SEO issues.</p></div>"
+    },
+    {
+      "title": "LOCAL SEO",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Dominate local search results.</p></div>"
+    },
+    {
+      "title": "SEO AUDITS",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Comprehensive SEO analysis.</p></div>"
+    },
+    {
+      "title": "CONTENT OPTIMIZATION",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Optimize content for search and users.</p></div>"
+    }
+  ],
+  "industriesData": [
+    { "title": "FINANCE", "description": "Financial SEO services." },
+    { "title": "HEALTHCARE", "description": "Healthcare website optimization." },
+    { "title": "MEDIA & ENTERTAINMENT", "description": "Entertainment SEO." },
+    { "title": "AUTOMOTIVE", "description": "Auto industry SEO." },
+    { "title": "EDUCATION", "description": "Educational SEO." },
+    { "title": "E-COMMERCE", "description": "E-commerce SEO optimization." }
+  ]
+}

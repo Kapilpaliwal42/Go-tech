@@ -1,0 +1,499 @@
+{
+  "statsSection": {
+    "content": {
+       "bread": {
+        "prefix": "Go-Tech Solution | Services | ",
+        "text": "Staff Augmentation"
+      },
+      "heading": "STAFF AUGMENTATION SERVICES",
+      "subheading": "Add the expertise of Go InfoTech Solution to your existing team, and make sure you augment it with highly specialized and experienced professionals from the most trusted Custom Software Development Company in Udaipur."
+    },
+    "stats": [
+      {
+        "value": 80,
+        "suffix": "+",
+        "label": "specialists"
+      },
+      {
+        "value": 4.8,
+        "decimals":"1",
+        "suffix": "/5",
+        "label": "review rating based on 60+ reviews"
+        
+      },
+      {
+        "value": 2,
+        "suffix": "+ years",
+        "label": "of expertise in business"
+      },
+      {
+        "value": 40,
+        "suffix": "+",
+        "label": "projects successfully delivered"
+      }
+    ]
+  },
+ 
+  "techStack": {
+    "heading": "TECH STACK",
+    "categories": [
+      {
+        "key": "frontend",
+        "label": "FRONT-END DEVELOPMENT",
+        "department": {
+          "title": "FRONT-END DEVELOPMENT",
+          "description": "Empower your business with our expert front-end solutions focusing fundamentally on the smooth user experience and effectively handle your needs and preferences and aligning it to the industry’s unique requirement.",
+          "subtitle": "OUR FRONT-END DEPARTMENT HAS:",
+          "stats": [
+            "20+ Front-end developers",
+            "8 years of experience",
+            "4.8 rating on Google"
+          ],
+          "technologies": [
+            { "name": "Angular", "icon": "/Angular-icon.png"  },
+            { "name": "React JS", "icon": "/React-JS.png" },
+            { "name": "Vue", "icon": "/Vue.png" }
+          ]
+        }
+      },
+      {
+        "key": "backend",
+        "label": "BACK-END DEVELOPMENT",
+        "department": {
+          "title": "BACK-END DEVELOPMENT",
+          "description": "We help you build a strong foundation for your software and applications with scalable and secure back-end systems that will enable you to handle all your tasks seamlessly and result in the robust growth of your business. ",
+           "subtitle": "OUR BACK-END DEPARTMENT HAS:",
+          "stats": [
+            "20+ Back-end developers;",
+            "8 years of experience;",
+            "4.8 rating on Google"
+          ],
+          "technologies": [
+           { "name": ".NET", "icon": "/NET-1.png" },
+{ "name": "Go", "icon": "/GOlang-1.png" },
+{ "name": "Java", "icon": "/Java-1.png" },
+{ "name": "Scala", "icon": "/Scala-1.png" },
+{ "name": "Node JS", "icon": "/NodeJS-1.png" },
+{ "name": "PHP", "icon": "/PHP-1.png" },
+{ "name": "Python", "icon": "/Python-1.png" },
+{ "name": "Ruby", "icon": "/Ruby-1.png" },
+{ "name": "Rust", "icon": "/Rust-1.png" }
+
+          ]
+        }
+      },
+      {
+        "key": "mobile",
+        "label": "MOBILE APP DEVELOPMENT",
+        "department": {
+          "title": "MOBILE APP DEVELOPMENT",
+          "description": "Our team of dedicated experts and developers at the leading IT Company in Udaipur is here to skillfully craft captivating and functional mobile apps for Android and iOS platforms, crafted to meet your unique needs and reach out target audience.",
+           "subtitle": "OUR MOBILE DEPARTMENT HAS:",
+          "stats": [
+            "10+ Mobile developers",
+            "8 years of experience",
+            "4.8 rating on Google"
+          ],
+          "technologies": [
+            { "name": "Flutter", "icon": "/Angular-icon.png" },
+{ "name": "Ionic", "icon": "/Ionic-1.png" },
+{ "name": "Kotlin", "icon": "/Kotlin-1.png" },
+{ "name": "React Native", "icon": "/React-Native-1.png" },
+{ "name": "Swift", "icon": "/Swift-1.png" }
+
+          ]
+        }
+      },
+      {
+        "key": "uiux",
+        "label": "UI/UX DESIGN",
+        "department": {
+          "title": "UI/UX DESIGN",
+          "description": "Through our user-centric approach we are successful in reaching the target audience via our  visually appealing UI/UX designs that are user-friendly and lead to an exceptional user experience on all platforms.",
+          "subtitle": "OUR MOBILE DEPARTMENT HAS:",
+          "stats": [
+            "12+ Designers",
+            "6 years of experience",
+            "4.7 rating on Google"
+          ],
+          "technologies": [
+          { "name": "Figma", "icon": "/Figma-1.png" },
+{ "name": "Adobe XD", "icon": "/Adobe_XD-1.png" },
+{ "name": "Sketch", "icon": "/Sketch-1.png" },
+{ "name": "InVision", "icon": "/Invision-1.png" },
+{ "name": "Zeplin", "icon": "/Zeplin-1.png" },
+{ "name": "FigJam", "icon": "/FigJam-1.png" },
+{ "name": "Miro", "icon": "/Miro-1.png" },
+{ "name": "Maze", "icon": "/Maze-1.png" },
+{ "name": "Protopie", "icon": "/Protopie-1.png" }
+
+          ]
+        }
+      }
+    ]
+  },
+ "iconTopCard": {
+    "heading": "WHY CHOOSE GO INFOTECH AS YOUR PARTNER",
+    "items": [
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "SWIFT TALENT ONBOARDING",
+        "description": "At Go InfoTech, we make available the CVs of talented candidates to engage in your advancing business with relevant proficiency in web development."
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "TOP AI & ML SPECIALISTS",
+        "description": "Through our comprehensive procedure, we make sure that our experts and specialists are engaged in your crucial project. We are dedicated to the seamless success of your project."
+      },
+      {
+        "iconPath": "/cardSvg/shield.svg",
+        "title": "TRAIL PERIOD",
+        "description": "We aim to provide you with the best fit for your business, which is why we also ensure that you appoint the fit that suits the best for your crucial projects by offering a week's trial period to assess the candidate correctly and then deploy them to your important projects."
+        
+      },
+      {
+        "iconPath": "/cardSvg/folder.svg",
+        "title": "OUR CLIENT’S EXPERIENCE",
+        "description": "Our clients have said it too, Go InfoTech has proved to be an expert custom Software Development Company in Udaipur driving seamless growth for our clients and showcasing our proficiency in web development."
+        
+      },
+      {
+        "iconPath": "/cardSvg/globe.svg",
+        "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+        "description": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "WIDE RANGE OF SERVICES",
+        "description": "As a leading Web Development company in Udaipur, we offer custom team augmentation in software development, mobile app development, web application development, software maintenance and support, and more."
+        
+      }
+    ]
+  },
+  "gridBlueCard": {
+    "heading": "INDUSTRIES Go InfoTech SOLUTION SERVES:",
+    
+    "items": [
+      {
+        "title": "FINANCE",
+        "description": "Empowering the financial sector by incorporating the expertise of Software Development company in Udaipur to enhance the security and efficiency of the services.",
+        "path": "/industry/fintech",
+        "highlight": "Software Development company in Udaipur",
+        "highlightLink": "/services/web-development"
+      },
+      {
+        "title": "HEALTHCARE",
+        "description": "We offer cutting-edge solutions for healthcare by making use of managed IT services at web Development company in Udaipur and digital health technologies.",
+        "highlight": "web Development company in Udaipur",
+        "highlightLink": "/"
+      },
+      {
+        "title": "MEDIA & ENTERTAINMENT",
+        "description": "Robust IT Solutions at Digital Marketing Company in Udaipur offering innovative solutions for digital platforms along with SEO Services in Udaipur.",
+        "highlight": "Digital Marketing Company in Udaipur" ,
+        "highlightLink": "/technology"
+      },
+       {
+        "title": "AUTOMOTIVE",
+        "description": "Dedicated experts providing advanced IT Solutions by making use of innovative and effective solutions for the automotive industry offering operational efficiency."
+       
+      },
+      {
+        "title": "EDUCATION",
+        "description": "Leveraging the excellence of our IT Company in Udaipur to empower educational institutions with digital assistance by our professionals.",
+        "highlight": "IT Company in Udaipur" ,
+        "highlightLink": "/"
+      },
+      {
+        "title": "E-COMMERCE",
+        "description": "Ensuring that the website generates enhanced customer engagement and optimizes user experience Digital Marketing Agency in Udaipur generating higher sales.",
+        "highlight": "Digital Marketing Agency in Udaipur" ,
+        "highlightLink": "/services"
+      },
+      {
+        "title": "GIS",
+        "description": "Accurate data visualization and incorporation of geospatial data for designing advanced Geographic Information Systems at a Web Development company in Udaipur.",
+        "highlight": "Web Development company in Udaipur" ,
+        "highlightLink": "/"
+      }
+    ]
+  },
+    "selectSidebar2": {
+    "headingSidebar": "OUR SERVICES",
+    
+    "services": [
+      {
+        "title": "SHORT-TERM STAFF AUGMENTATION",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Augment your existing team with the talent of the Go InfoTech solution to foster the growth of your business in multiple folds."
+            
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "TAILORED FOR SCENARIOS SUCH AS:"
+             
+            }
+          ],
+          "list": [
+            "Enhanced performance enables you to focus on core tasks",
+            "Managing escalated project workload during peak season",
+            "Augment with specialized expertise during critical project milestones."
+           
+          ]
+        }
+        
+      },
+      {
+        "title": "LONG-TERM STAFF AUGMENTATION",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Partner with us and equip your business with dedicated specialists who are here to fulfill the long-term needs of your business and provide enhanced operational efficiency. "
+           
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "TAILORED FOR SCENARIOS SUCH AS:"
+             
+            }
+          ],
+          "list": [
+            "Sustained upkeep and updates of intricate software solutions.",
+            "Development of long-scale projects with relevant talent and expertise",
+            "Managed IT services for advancing ventures"
+            
+          ]
+        }
+         
+      },
+      {
+        "title": "EXPANDING YOUR EXISTING TEAM",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Collaborate with us to elevate the knowledge and expertise of your existing team with our highly skilled professionals. We swiftly recognize the proficiency of our team and deploy it to enable the robust expansion of your business. "
+           
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "TAILORED FOR SCENARIOS SUCH AS:"
+             
+            }
+          ],
+          "list": [
+            "Recruit more developers to keep up with the advancing projects",
+            "Customized project solutions for emerging projects and business plans",
+            "Equip your projects with talent that catalyzes the growth of your business"
+            
+          ]
+        }
+        
+      },
+      {
+        "title": "VENDOR TRANSITION",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Transition seamlessly from one vendor to another with the assistance of Go InfoTech Solution. Swift transition without any hassle."
+           
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "   TAILORED FOR SCENARIOS SUCH AS:"
+             
+            }
+          ],
+          "list": [
+            "Smooth IT agency transition without any disruption",
+            "Managed IT services for optimizing the operations",
+            "Transition to a service-driven approach rather than a project-centric model"
+
+          ]
+        }
+         
+      }
+      
+     
+    ]
+  },
+    "callToAction": {
+    "title": "CONSULT WITH US TODAY",
+    "subtitle": "Our team at Go InfoTech will ensure that you are equipped with tailored solutions to your unique business needs and augmentation facilities. Don’t hesitate to reach out.",
+    "buttonText": "BOOK A CONSULTATION",
+    "textColor1": "text-primary",
+    "textColor": "text-secondary"
+    
+
+  },
+  "cardGridHovBase": {
+    "heading": "ABOUT OUR APPROACH",
+    "subdescription": "As a renowned IT company in Udaipur, at Go InfoTech Solution, we offer Staff Augmentation Services for your business’s exponential growth with the expertise of our experienced professionals in your existing team.",
+    
+    "cards": [
+      {
+        "title": "DOMAIN EXPERTISE",
+        "description": "At Go InfoTech, we are dedicated to serving you with the expertise of professionals who possess the knowledge and experience of a range of industries and ensure to equip them with relevant skills and proficiency."
+      },
+      {
+        "title": "SMART OUTSOURCING AUTOMATION PARADIGM",
+        "description": "Our experts and professionals are ready to serve you with excellence and optimize your operational performance while collaborating with our client’s businesses and serving their unique needs."
+      },
+      {
+        "title": "BUSINESS-SCALE SUPPORT",
+        "description": "Supporting several industries and equipping them with relevant expertise and technical guidance to scale up their businesses exponentially, Go InfoTech Solution offers assistance to your business following the best practices."
+      },
+      {
+        "title": "FAST ONBOARDING",
+        "description": "A seamless collaboration process without much hassle enables us to use emerging resources in no time."
+      },
+      {
+        "title": "INTERNSHIP PROGRAM",
+        "description": "At Go InfoTech Solution, we offer an internship program for students who wish to learn and educate themselves in a cohesive learning environment. Work alongside the expertise of highly talented individuals who possess several years of experience in the field."
+      },{
+        "title": "PREMIUM TECH TALENT",
+        "description": "We make use of highly updated and cutting-edge technology, which goes beyond coding and development. We take pride in our team of exceptionally talented professionals who are highly skilled and have years of experience."
+      }
+    ]
+  },
+    "boxBaseBord": {
+    "headsection": "STEPS TO COLLABORATION",
+    
+    "steps": [
+      {
+        "title": "1. IDENTIFY YOUR PROJECT’S NEEDS",
+       "description": "Identify the unique needs of your business or specific project and what you are searching for in a candidate, such as qualifications, experience level, or project scope, to ease up the process."
+      },
+      {
+        "title": "2. RECEIVE THE CV",
+        "description": "Communicate your specific requirements to us and be prepared to embark on the hiring process as we make available the CVs of talented candidates to engage in your advancing business with relevant proficiency in web development within 24 hours."
+      },
+      {
+        "title": "3. CONNECT WITH THE CANDIDATE",
+        "description": "Upon receiving the CV of the eligible candidate, connect with them by scheduling an interview with them and assessing their capabilities and competencies to check their ability to adapt to your project’s requirements."
+      },
+        {
+        "title": "4. FAST ONBOARDING",
+       "description": "We ensure the swift onboarding of the candidate to reduce the downtime period and avoid any unnecessary delay in your project’s productivity."
+      },
+      {
+        "title": "5. TRIAL PERIOD",
+        "description": "We aim to provide you with the best fit for your business, which is why we also ensure that you appoint the fit that suits the best for your crucial projects by offering a week’s trial period to assess the candidate correctly and then deploy them to your important projects."
+      },
+      {
+        "title": "6. TEAM EXPANSION",
+        "description": "Collaborate with Go InfoTech and equip your business with dedicated specialists who are here to fulfill the specific project requirements of your business and provide enhanced operational efficiency."
+      }
+    ]
+  },
+    "cardMethodology": {
+    "heading": "WHO WE WORK WITH",
+    
+    "items": [
+      {
+        "title": "STARTUPS",
+        "description": "We empower our startups with digital excellence, by essentially aiding their journey from inception and regularly updating them.",
+        "iconPath": "/cardSvg/globe.svg",
+        
+        "iconLink": "/",
+        "titleLink": "/services"
+      },
+      {
+        "title": "SMALL TO MEDIUM-SIZED ENTERPRISES (SMES)",
+        "description": "We are also a trusted IT Company in Udaipur with cost-effective digital solutions to your unique needs for SMEs by focusing on their robust growth in the competitive environment.",
+        "iconPath": "/cardSvg/folder.svg",
+        
+        "iconLink": "/",
+        "titleLink": "/services"
+      },
+      {
+        "title": "BIG CORPORATIONS",
+        "description": "We provide tailored IT solutions for large corporations by equipping them for their persistent success in the ever-evolving digital tapestry.",
+         
+        "iconPath": "/cardSvg/contact.svg",
+        "iconLink": "/industry",
+        "titleLink": "/services"
+      
+      },
+        {
+        "title": "ORGANIZATIONS TRANSITIONING TO REMOTE WORK",
+        "description": "We enable businesses to transition to a remote work model effortlessly by making use of cutting-edge technology.",
+         
+        "iconPath": "/cardSvg/contact.svg",
+        "iconLink": "/services/ai-ml",
+        "titleLink": "/services"
+      
+      }
+    ]
+  },
+  "iconTopCard2": {
+    "heading": "WHAT WE OFFER",
+    "items": [
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "PROJECT ASSESSMENT",
+        "description": "Ensuring that your project is assessed with the relevant expertise and knowledge to enable you to optimize your operations. We make available software developers who will help accelerate the growth of your business."
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "KNOWLEDGE BASE",
+        "description": "At Go InfoTech, we operate within a highly conducive learning environment, ensuring that each individual grows and builds their own core competencies. Making it easier for our clients to reach out to us with their specific requirements."
+      },
+      {
+        "iconPath": "/cardSvg/shield.svg",
+        "title": "TECH EXPERTISE",
+        "description": "Our tech experts specialize in providing you with technical assistance for the exponential business growth of your platform."
+        
+      },
+      {
+        "iconPath": "/cardSvg/folder.svg",
+        "title": "ACCOUNT MANAGER",
+        "description": "At Go InfoTech, we even provide account management services for the expansion of your business. We will help you onboard a project manager who will handle your core tasks and meet deadlines."
+        
+      },
+      {
+        "iconPath": "/cardSvg/globe.svg",
+        "title": "DIRECT COMMUNICATION",
+        "description": "Schedule an interview with the potential employees or the candidates we recommend. Connect with our professionals and augment them with your existing team to optimize your operations."
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "FAST RECRUITMENT",
+        "description": "We believe in reducing unnecessary delay in the process of onboarding a potential candidate, allowing on time advancement of your business/ projects."
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "OUR RESPONSIBILITY",
+        "description": "At Go InfoTech, we take care of crucial tasks like managing remunerations, adhering to legal compliances, human resource management, and more, helping you to focus on core areas."
+        
+      },
+      {
+        "iconPath": "/cardSvg/globe.svg",
+        "title": "TRIAL PERIOD",
+        "description": "We offer a one-week trial period for the potential candidate. So that you hire the candidate who suits the best to your project’s requirements."
+        
+      }
+
+    ]
+  }
+ 
+}

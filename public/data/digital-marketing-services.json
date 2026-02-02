@@ -1,0 +1,215 @@
+{
+  "statsSection": {
+    "content": {
+      "bread": {
+        "prefix": "Go-Tech Solution | Services | ",
+        "text": "Digital Marketing Services"
+      },
+      "heading": "DIGITAL MARKETING SOLUTIONS",
+      "subheading": "Partner with Go InfoTech Solution to experience a prominent presence in the digital realm."
+    },
+    "stats": [
+      {
+        "value": 30,
+        "suffix": "+",
+        "label": "Team of experts"
+      },
+       {
+        "value": 8,
+        "suffix": "years",
+        "label": "of expertise in business"
+      },
+      {
+        "value": 60,
+        "suffix": "+",
+        "label": "projects delivered successfully"
+      },
+      {
+        "value": 4.5,
+        "decimals":"1",
+        "suffix": "/5 stars",
+        "label": "review rating based on 55+ reviews"
+        
+      }
+      
+     
+    ]
+  },
+ 
+  "techStack": {
+    "heading": "OUR SERVICES",
+    "categories": [
+      {
+        "key": "frontend",
+        "label": "SOCIAL MEDIA MANAGEMENT",
+        "department": {
+          "title": "SOCIAL MEDIA MANAGEMENT (SMM)",
+          "description": "Social media marketing to put your business on the map. As a leading IT Company in Udaipur, our experienced social media marketing team will help you attract and retain your target audience with slick campaigns to build and grow your online presence. Go InfoTech conducts rigorous research into the business industry you are in and crafts bespoke social media marketing campaigns to help draw customers to your online platforms. Our data analytics team observes traffic to your platforms to help optimize ongoing and future campaigns. Our team is one of the most trusted Digital Marketing Company in Udaipur and has proven to be a tapestry of excellence in the realm of digital marketing. ",
+          "subtitle": "AT GO INFOTECH, WE OFFER:",
+          "stats": [
+            "Social media strategy development",
+            "Content creation and curation",
+            "Social media management",
+            "Paid social advertising",
+            "Social media analytics and reporting"
+          ],
+          "technologies": [
+            { "name": "Python", "icon": "/Python-1.png"  }
+
+          ]
+        }
+      },
+      {
+        "key": "backend",
+        "label": "SEARCH ENGINE OPTIMIZATION",
+        "department": {
+          "title": "SEARCH ENGINE OPTIMIZATION (SEO)",
+          "description": "At Go InfoTech Solution, a Custom Software Development Company in Udaipur, we offer personalized SEO services in Udaipur to elevate the online presence and visibility of your businesses. Our team of SEO specialists considers several elements of search engine optimization, including intricate keyword analysis, when crafting a strategic plan for organic growth. We incorporate on-page optimization techniques to ensure that the web page is optimized for search engines. Further, our off-page optimization strategies focus on developing high-quality backlinks and building credibility in the industry. At Go InfoTech Solution, we develop comprehensive SEO strategies that are personalized to align with our client’s goals and objectives, leveraging data-driven insights and best practices to drive sustainable results. ",
+           "subtitle": "AT GO INFOTECH, WE OFFER:",
+          "stats": [
+            "Keyword Research",
+            "On-Page SEO",
+            "Off-Page SEO",
+            "Content Optimization",
+            "SEO Audits and Reporting"
+
+          ],
+          "technologies": [
+            { "name": "Python", "icon": "/Python-1.png" }
+
+          ]
+        }
+      },
+      {
+        "key": "mobile",
+        "label": "E-MAIL MARKETING",
+        "department": {
+          "title": "E-MAIL MARKETING",
+          "description": "Empower your business with the best practices, followed by the leading Software Development company in Udaipur. We incorporate strong e-mail marketing tools to ensure that you build stronger business relations with your customers and further enable you to drive sales. E-mail marketing is a powerful tool for businesses to engage with their audience, generate leads, and enhance conversion rates.",
+           "subtitle": "AT GO INFOTECH, WE OFFER:",
+          "stats": [
+            "Integration with CRM Systems",
+            "A/B Testing and Optimization",
+            "Compliance with Email Marketing Regulations (e.g., CAN-SPAM Act, GDPR)",
+            "Measuring Email Marketing Performance (e.g., open rates, click-through rates)",
+            "Email Marketing Strategy Development"
+          ],
+          "technologies": [
+            { "name": "Python", "icon": "/Python-1.png"  }
+
+          ]
+        }
+      },
+       {
+         "key": "uiux",
+        "label": "SOCIAL MEDIA ",
+        "department": {
+          "title": "SOCIAL MEDIA CAMPAIGNS (SMC)",
+          "description": "At Go InfoTech Solution, we design Social Media Campaigns (SMC) which are strategic initiatives that will enable you to achieve unique marketing objectives through social media platforms. We focus our expertise on planning that outlines your social media goals and the use of best practices and techniques that will help us achieve them, as well as a thorough analysis of the tricks and tactics that work best for the growth of your business and metrics tracked to measure performance.",
+           "subtitle": "AT GO INFOTECH, WE OFFER:",
+          "stats": [
+            "Campaign strategy development",
+            "Content calendar management",
+            "Audience research and targeting",
+            "Paid advertising management",
+            "Campaign monitoring and adjustments"
+          ],
+          "technologies": [
+            { "name": "Python", "icon": "/Python-1.png" }
+
+          ]
+        }
+      }
+      
+    ]
+  },
+  
+ "iconTopCard": {
+    "heading": "WHY CHOOSE GO INFOTECH AS YOUR PARTNER FOR DIGITAL SOLUTIONS",
+    "items": [
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "OUR CLIENT’S EXPERIENCE",
+        "description": "Our clients have said it too, Go InfoTech has proved to be an expert Custom Software Development Company in Udaipur driving seamless growth for our clients and showcasing our proficiency in web development.",
+        "highlight": "Custom Software Development Company in Udaipur",
+        "highlightLink": "/services/digital-marketing-services"
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "TOP DIGITAL MARKETING SPECIALISTS",
+        "description": "Through our comprehensive procedures and tactics, we make sure that our digital marketing specialists deliver excellence in your crucial project. We are dedicated to driving sales for the success of your business."
+        
+      },
+      {
+        "iconPath": "/cardSvg/shield.svg",
+        "title": "PROPRIETARY TECHNOLOGY FOR EFFICIENCY",
+        "description": "We are a leading Digital Marketing Company in Udaipur to integrate cutting-edge, smart technology for your project’s success. Incorporating strong tools for lead generation, targeting the audience, content deployment, and running social media campaigns",
+         "highlight": "Digital Marketing Company in Udaipur",
+        "highlightLink": "/services/digital-marketing-services"
+      },
+      {
+        "iconPath": "/cardSvg/folder.svg",
+        "title": "GUARANTEED PROJECT CONSISTENCY:",
+        "description": "Benefit from the seamless and consistent delivery of excellence for uninterrupted success. Our team of professionals is dedicated to serving you with excellence in the field of digital marketing and social media solutions for the robust growth of your business."
+        
+      },
+      {
+        "iconPath": "/cardSvg/globe.svg",
+        "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+        "description": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "WIDE RANGE OF SERVICES",
+        "description": "As a leading Web Development company in Udaipur, we offer custom team augmentation in software development, mobile app development, web application development, software maintenance and support, and more.",
+        "highlight": "Web Development company in Udaipur",
+        "highlightLink": "/services/digital-marketing-services"
+      }
+    ]
+  },
+  
+  
+    
+ 
+    "boxBaseBord": {
+    "headsection": "INDUSTRIES WE SERVE",
+    "subtitle": "The exponential growth of our client’s businesses is living proof of our expertise in digital marketing and social media solutions tailored to each industry’s nuances.",
+    
+    "steps": [
+      {
+        "title": "1. FINANCE",
+       "description": "Empowering the financial sector by incorporating social media marketing tactics into several platform content that enhances security and elevates the user experience. "
+      },
+      {
+        "title": "2. HEALTHCARE",
+        "description": "We offer cutting-edge solutions for the healthcare industry by designing awareness social media campaigns and digital marketing techniques to reach the target audience."
+      },
+      {
+        "title": "3. MEDIA & ENTERTAINMENT",
+        "description": "With robust social media marketing campaigns and similar digital solutions, the leading SEO Company in Udaipur offers content marketing for media and entertainment purposes."
+      },
+        {
+        "title": "4. AUTOMOTIVE",
+       "description": "Dedicated experts provide advanced social media solutions for the automotive industry, offering comprehensive services with customized solutions to grab the target audience’s attention."
+      },
+      {
+        "title": "5. EDUCATION",
+        "description": "Leveraging the excellence of our SEO Services to empower educational institutions with digital assistance using social media expertise and digital marketing solutions by our professionals to reach out to your target audience."
+      },
+      {
+        "title": "6. E-COMMERCE",
+        "description": "Ensuring that the website generates enhanced customer engagement through the use of social media campaigns and email marketing techniques at the leading Digital Marketing Agency in Udaipur helps you generate higher sales."
+      },
+      {
+        "title": "7. GIS",
+        "description": "Content marketing and designing infographics for social media platforms for an elevated user experience in Geographic Information Systems using the best SEO agency in Udaipur."
+      }
+        
+    ]
+  }
+ 
+  
+ 
+}

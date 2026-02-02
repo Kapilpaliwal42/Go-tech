@@ -1,0 +1,97 @@
+{
+  "hero": {
+    "title": "Web Development Company",
+    "subtitle": "Providing comprehensive IT Solutions to your Digital needs in Udaipur.",
+    "ctaButton": "Get In Touch"
+  },
+  "topIncreaseNumbers": [
+    {
+      "label": " Projects",
+      "limit": 200
+    },
+    {
+      "label": "Years years of Business",
+      "limit": 5
+    },
+    {
+      "label": " Happy Clients",
+      "limit": 70
+    }
+  ],
+  "aboutUsTimerDivs": [
+    {
+      "limit": 200,
+      "label": "Successful Projects"
+    },
+    {
+      "limit": 7,
+      "label": "Satisfied Clients (out of 9)"
+    },
+    {
+      "limit": 4,
+      "label": "Years in Business"
+    },
+    {
+      "limit": 100,
+      "label": "Qualified Specialists"
+    },
+    {
+      "limit": 50,
+      "label": "Global Partners"
+    },
+    {
+      "limit": 15,
+      "label": "Awards Won"
+    }
+  ],
+  "whyChooseUsData": [
+    {
+      "title": "HIGH SATISFACTION RATES",
+      "icon": "UserCheck",
+      "desc": "Empower your business with promising results and IT solutions from professionals who are dedicated to serving you right."
+    },
+    {
+      "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+      "icon": "Globe",
+      "desc": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
+    },
+    {
+      "title": "WIDE RANGE OF SERVICES",
+      "icon": "ShieldCheck",
+      "desc": "Offering software development services, including custom software development, mobile app development, web application development, software maintenance and support, and more."
+    }
+  ],
+  "servicesData": [
+    {
+      "title": "Staff Augmentation",
+      "icon": "IdCard",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p class='font-light mt-6 text-xl leading-relaxed'>Go-Infotech Solution Pvt Ltd is a custom <span class='font-semibold underline-offset-1 underline'>Web Development Company in Udaipur</span> aiming to provide seamless project execution by staff augmentation for optimal resource management:</p><h2 class=\"text-2xl font-semibold mt-4 underline-offset-1 underline\">IT STAFF AUGMENTATION</h2><p class='font-light mt-4 text-xl leading-relaxed'>We are dedicated to providing you with highly skilled and experienced IT professionals who will help you focus on core aspects so that your business reaches new heights.</p><h2 class=\"text-2xl font-semibold mt-4\">COMMITTED TEAM</h2><p class='font-light mt-4 text-xl leading-relaxed'>Our team at Go Tech Solution is a living testament of expertise and knowledge who are committed to meeting your unique business needs.</p></div>"
+    },
+    {
+      "title": "IT Consulting",
+      "icon": "FileSearchCorner",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p class='font-light mt-6 text-xl leading-relaxed'>Our IT Company in Udaipur is here to navigate you in the evolving tapestry of Technology while providing appropriate guidance from highly qualified professionals:</p><h2 class=\"text-2xl font-semibold mt-4\">TECHNICAL DUE DILIGENCE</h2><p class='font-light mt-4 text-xl leading-relaxed'>After conducting a thorough evaluation of your business while assessing the project feasibility, relevant risks, and growth ambition.</p><h2 class=\"text-2xl font-semibold mt-4\">PROJECT MANAGEMENT</h2><p class='font-light mt-4 text-xl leading-relaxed'>Our team ensures that your project delivery is timely and effective through proper management.</p></div>"
+    },
+    {
+      "title": "Custom Software Development",
+      "icon": "FileCode",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p class='font-light mt-6 text-xl leading-relaxed'>Our team is committed to delivering unique software solutions to your specific business requirements.</p><h2 class=\"text-2xl font-semibold mt-4 underline-offset-1 underline\">WEB DEVELOPMENT</h2><p class='font-light mt-4 text-xl leading-relaxed'>Aim to develop a user-centric web application that is adaptive, intuitive, and visually engaging.</p></div>"
+    },
+    {
+      "title": "Intelligent Automation",
+      "icon": "BrainCircuit",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p class='font-light mt-6 text-xl leading-relaxed'>We are dedicated to serving you with the best services incorporating state-of-the-art technologies like AI and ML.</p><h2 class=\"text-2xl font-semibold mt-4 underline-offset-1 underline\">AI & ML SOLUTIONS</h2><p class='font-light mt-4 text-xl leading-relaxed'>Empower your business to grow by incorporating Artificial Intelligence to enhance decision making.</p></div>"
+    }
+  ],
+  "cta": {
+    "title": "Ready to start your digital journey?",
+    "buttonText": "GET INFO"
+  },
+  "whyChooseUsSection": {
+    "title": "Why Choose Us",
+    "expertiseBox": {
+      "title": "Expertise & Quality",
+      "description": "Our team is a living testament of expertise, committed to ensuring your project delivery is timely, effective, and secure across global markets."
+    }
+  }
+}

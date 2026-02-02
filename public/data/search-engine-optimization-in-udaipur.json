@@ -1,0 +1,122 @@
+{
+  "statsSection": {
+    "content": {
+       "bread": {
+        "prefix": "Go-Tech Solution | Services | ",
+        "text": "Search Engine Optimization"
+      },
+      "heading": "SEARCH ENGINE OPTIMIZATION",
+      "subheading": "Optimize your website using our meticulously planned SEO Services in Udaipur at  Go-InfoTech to elevate your business's growth to exponential heights"
+    },
+    "stats": [
+      {
+        "value": 14,
+        "suffix": "+",
+        "label": "members in the SEO experts team"
+      },
+      {
+        "value": 4.8,
+        "decimals":"1",
+        "suffix": "/5",
+        "label": "rating based on 55+ reviews"
+        
+      },
+      {
+        "value": 50,
+        "suffix": "+",
+        "label": "projects successfully delivered"
+      },
+      {
+        "value": 8,
+        "suffix": "years",
+        "label": "expertise in business"
+      }
+    ]
+  },
+ 
+  
+ "iconTopCard": {
+    "heading": "WHY CHOOSE GO INFOTECH AS YOUR PARTNER FOR DIGITAL SOLUTIONS",
+    "items": [
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "OUR CLIENT’S EXPERIENCE",
+        "description": "Our clients have said it too, Go InfoTech has proved to be the Best SEO Company in Udaipur driving seamless growth for our clients and showcasing our proficiency in driving organic crowd to your website.",
+        "highlight": "Best SEO Company in Udaipur",
+        "highlightLink": "/services/search-engine-optimization-in-udaipur"
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "TOP SEO SPECIALISTS",
+        "description": "Through our comprehensive procedures and tactics, we make sure that our SEO specialists deliver excellence in your crucial project. We are dedicated to driving sales for the success of your business with our meticulously planned SEO Services in Udaipur.",
+         "highlight": "SEO Services in Udaipur",
+        "highlightLink": "/services/search-engine-optimization-in-udaipur"
+      },
+      {
+        "iconPath": "/cardSvg/shield.svg",
+        "title": "PROPRIETARY TECHNOLOGY FOR EFFICIENCY",
+        "description": "We are a leading Digital Marketing Company in Udaipur to integrate cutting-edge, smart technology for your project’s success. Incorporating strong tools for lead generation, targeting the audience, content deployment, and running social media campaigns",
+         "highlight": "Digital Marketing Company in Udaipur",
+        "highlightLink": "/services/search-engine-optimization-in-udaipur"
+      },
+      {
+        "iconPath": "/cardSvg/folder.svg",
+        "title": "GUARANTEED PROJECT CONSISTENCY:",
+        "description": "Benefit from the seamless and consistent delivery of excellence for uninterrupted success."
+        
+      },
+      {
+        "iconPath": "/cardSvg/globe.svg",
+        "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+        "description": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "WIDE RANGE OF SERVICES",
+        "description": "As a leading Web Development company in Udaipur, we offer custom team augmentation in software development, mobile app development, web application development, software maintenance and support, and more."
+        
+      }
+    ]
+  },
+  
+  
+    
+ 
+    "boxBaseBord": {
+    "headsection": "INDUSTRIES WE SERVE",
+    "subtitle": "The exponential growth of our client’s businesses is living proof of our expertise in digital marketing and social media solutions tailored to each industry’s nuances.",
+    
+    "steps": [
+      {
+        "title": "FINANCE",
+       "description": "Empowering the financial sector by incorporating social media marketing tactics into several platform content that enhances security and elevates the user experience. "
+      },
+      {
+        "title": "HEALTHCARE",
+        "description": "We offer cutting-edge solutions for the healthcare industry by designing awareness social media campaigns and digital marketing techniques to reach the target audience."
+      },
+      {
+        "title": "MEDIA & ENTERTAINMENT",
+        "description": "With robust social media marketing campaigns and similar digital solutions, the leading SEO Company in Udaipur offers content marketing for media and entertainment purposes."
+      },
+        {
+        "title": "AUTOMOTIVE",
+       "description": "Dedicated experts provide advanced social media solutions for the automotive industry, offering comprehensive services with customized solutions to grab the target audience’s attention."
+      },
+      {
+        "title": "EDUCATION",
+        "description": "Leveraging the excellence of our SEO Services to empower educational institutions with digital assistance using social media expertise and digital marketing solutions by our professionals to reach out to your target audience."
+      },
+      {
+        "title": "GIS",
+        "description": "Content marketing and designing infographics for social media platforms for an elevated user experience in Geographic Information Systems using the best SEO agency in Udaipur."
+      }
+        
+    ]
+  }
+ 
+  
+ 
+}

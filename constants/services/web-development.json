@@ -1,0 +1,180 @@
+{
+  "hero": {
+    "title": "TOP WEB DEVELOPMENT COMPANY IN INDIA",
+    "subtitle": "Exclusive web development services tailored to meet the specific needs of startups and global companies, available only at Go InfoTech."
+  },
+  "loadCounter": [
+    {
+      "limit": 140,
+      "label": "web development experts",
+      "suffix": "+"
+    },
+    {
+      "limit": 4.8,
+      "label": "rating based on 55+ reviews",
+      "suffix": "stars"
+    },
+    {
+      "limit": 50,
+      "label": "successful projects delivered",
+      "suffix": "+"
+    },
+    {
+      "limit": 8,
+      "label": "expertise in business",
+      "suffix": "years"
+    }
+  ],
+  "whyChooseUsData": [
+    {
+      "icon": "CheckCircleIcon",
+      "title": "TRUSTED AND RENOWNED",
+      "description": "As a renowned web development company in India, we take pride in the unwavering trust our clients place in our expertise. This trust serves as a testament to our firm commitment to delivering exceptional service and exceeding our clients' expectations."
+    },
+    {
+      "icon": "HandymanIcon",
+      "title": "EXPERTISE AT YOUR SERVICE",
+      "description": "Opt for Select Go InfoTech Solution as your dependable online partner, committed to offering professional, knowledgeable, and experienced service to aid in your company's expansion."
+    },
+    {
+      "icon": "BusinessCenterIcon",
+      "title": "INDUSTRIES' EXPERTISE",
+      "description": "We are a Top Web Development Company in India, with expertise from different industries all around the world using innovation, knowledge, and skills."
+    },
+    {
+      "icon": "SentimentVerySatisfiedIcon",
+      "title": "HIGH SATISFACTION RATES",
+      "description": "Harness the potential of your business with promising outcomes and IT solutions provided by dedicated professionals committed to serving your needs."
+    },
+    {
+      "icon": "PublicIcon",
+      "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+      "description": "Our team at Go InfoTech is dedicated to providing seamless communication and is available to serve you round-the-clock, operating across four different time zones."
+    },
+    {
+      "icon": "SentimentVerySatisfiedIcon",
+      "title": "WIDE RANGE OF SERVICES",
+      "description": "We provide a range of software development services, encompassing custom software development, mobile app development, web application development, software maintenance and support, and beyond."
+    }
+  ],
+  "webDevServicesData": [
+    {
+      "title": "CUSTOM WEB DEVELOPMENT",
+      "description": "As a custom web development company in India, we take pride in being globally trusted for our exceptional and high-quality standard services."
+    },
+    {
+      "title": "COMMITTED TEAM",
+      "description": "Our committed professionals and experts are poised to utilize their outstanding skills, talent, and experience to give your business a substantial boost."
+    },
+    {
+      "title": "WEB PRODUCT DESIGN",
+      "description": "For exceptional web development services in India, reach out to Go InfoTech. Experience meticulously crafted web product design services designed to foster the growth of your business."
+    },
+    {
+      "title": "ML/AI SERVICES",
+      "description": "We ensure the smooth integration of AI solutions into your existing systems, whether deploying AI models on-premises or in the cloud."
+    },
+    {
+      "title": "DEVOPS SERVICES",
+      "description": "Our comprehensive DevOps services help bridge the gap between development and operations, promoting seamless collaboration and accelerating software delivery."
+    },
+    {
+      "title": "WEB QUALITY ASSURANCE",
+      "description": "Our software undergoes thorough testing throughout development, with our experts providing continuous oversight from inception to launch and maintenance phases."
+    }
+  ],
+  "industriesData": [
+    {
+      "title": "FINANCE",
+      "description": "Leveraging the proficiency of a web development company in India to bolster security and efficiency, we empower the financial sector."
+    },
+    {
+      "title": "HEALTHCARE",
+      "description": "Offering cutting-edge solutions for healthcare by making use of managed IT services and digital health technologies at the Best Web Development Agencies in India."
+    },
+    {
+      "title": "MEDIA & ENTERTAINMENT",
+      "description": "Proactive IT Solutions offering an innovative and optimal solutions for digital platforms along with Web Developmet Services in India"
+    },
+    {
+      "title": "AUTOMOTIVE",
+      "description": "In the automotive industry, our dedicated experts utilize innovative and effective IT solutions to improve operational efficiency."
+    },
+    {
+      "title": "EDUCATION",
+      "description": "Utilizing the expertise of Go InfoTech, we offer digital support for educational institutions through our team of professionals."
+    },
+    {
+      "title": "E-COMMERCE",
+      "description": "We ensure that the website enhances customer engagement, optimizes user experience, and drives increased sales."
+    },
+    {
+      "title": "GIS",
+      "description": "Utilizing precise data visualization and integrating geospatial data to develop advanced Geographic Information Systems is a specialty at a web development company in India."
+    }
+  ],
+  "techStackData": [
+    {
+      "title": "FRONT-END DEVELOPMENT",
+      "desc": "Empower your business with our expert front-end solutions focusing fundamentally on the smooth user experience and effectively handle your needs and preferences and aligning it to the industry's unique requirement.",
+      "points": ["20+ Front-end developers", "8 years of experience", "4.8 rating on Google"],
+      "icons_path": ["/AngularIcon.png", "/Reacticon.png", "/Vueicon.png"]
+    },
+    {
+      "title": "BACK-END DEVELOPMENT",
+      "desc": "We help you build a strong foundation for your software and applications with scalable and secure back-end systems that will enable you to handle all your tasks seamlessly and result in the robust growth of your business.",
+      "points": ["20+ Back-end developers", "8 years of experience", "4.8 rating on Google"],
+      "icons_path": ["/DotNet.png", "/Golang.png", "/java.png", "/Laravel.png", "/NodeJS.png", "/PHP.png", "/Python.png"]
+    },
+    {
+      "title": "UI/UX DESIGN",
+      "desc": "Through our user-centric approach we are successful in reaching the target audience via our visually appealing UI/UX designs that are user-friendly and lead to an exceptional user experience on all platforms.",
+      "points": ["10+ Design specialists", "8 years of experience", "4.8 rating on Google"],
+      "icons_path": ["/Adobe_XD-1.png", "/FigJam-1.png", "/Invision-1.png"]
+    }
+  ],
+  "servicesData": [
+    {
+      "title": "Web Application Development",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p class='font-light mt-6 text-xl leading-relaxed'>At Go InfoTech Solution, a leading <span class='font-semibold underline-offset-1 underline'>Web Development Company in India</span>, we specialize in delivering outstanding services through the creation of state-of-the-art web solutions. Whether you require a robust e-commerce platform, a dynamic content management system, or a tailored web-based tool, our skilled developers are committed to utilizing their expertise to realize your vision.</p><h2 class=\"text-2xl font-semibold mt-4 \">PARTNER WITH GO INFOTECH FOR:</h2><ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">Tailored Web Application Development</li><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">Seamless Transitions in Web Applications.</li><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">Creating Scalable, Mobile-Optimized Web Apps.</li><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">Full Lifecycle Support for Web Applications.</li></ul></div>"
+    },
+    {
+      "title": "SAAS Platform Development",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p class='font-light mt-6 text-xl leading-relaxed'>We specialize in cloud technologies and strongly advocate for the design and development of scalable, interactive, feature-rich, and secure SaaS solutions. Our commitment lies in crafting solutions that accelerate business growth and deliver impactful results swiftly.</p><h2 class=\"text-2xl font-semibold mt-4 \">PARTNER WITH Go InfoTech FOR:</h2><ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">Custom SaaS Solutions for your Projects</li><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">Responsive SaaS Architectural Design</li><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">Seamless SaaS Migrations and Integrations</li><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">Optimal SaaS security and high performance</li></ul></div>"
+    },
+    {
+      "title": "E-Commerce Platform Development",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p class='font-light mt-6 text-xl leading-relaxed'>With expertise in building dynamic online retail platforms and responsive applications, we propel your business to unprecedented heights. By harnessing our proficiency in technologies like Shopify and WooCommerce platforms, we craft seamless user experiences that drive heightened leads and sales for your business.</p><h2 class=\"text-2xl font-semibold mt-4 \">PARTNER WITH Go InfoTech FOR:</h2><ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">E-Commerce Platform Development that aligns with your Business needs</li><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">Streamlined Shopping Carts and Secure Payment Gateways</li><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">Mobile-friendly E-Commerce Solutions</li><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">High-performing E-Commerce platforms with SEO optimization</li></ul></div>"
+    },
+    {
+      "title": "Enterprise Software Development",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p class='font-light mt-6 text-xl leading-relaxed'>We understand the complexity of enterprise software systems and the importance of reliability and security. Our team excels in developing robust, scalable enterprise software solutions that meet the exacting standards of major organizations.</p><h2 class=\"text-2xl font-semibold mt-4 \">PARTNER WITH Go InfoTech FOR:</h2><ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">Custom Enterprise Software Solutions</li><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">Seamless ERP and CRM integrations</li><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">Secure and compliant enterprise systems</li></ul></div>"
+    },
+    {
+      "title": "ERP Development Services",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p class='font-light mt-6 text-xl leading-relaxed'>We specialize in implementing and developing customized ERP solutions that help organizations streamline their business processes and enhance operational efficiency.</p><h2 class=\"text-2xl font-semibold mt-4 \">PARTNER WITH Go InfoTech FOR:</h2><ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">Custom ERP Development</li><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">ERP System Integration and Migration</li><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">ERP Support and Maintenance</li></ul></div>"
+    },
+    {
+      "title": "MVP Development",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p class='font-light mt-6 text-xl leading-relaxed'>We help entrepreneurs and startups launch their minimum viable products quickly and cost-effectively, enabling them to test their business concepts with real users before full-scale development.</p><h2 class=\"text-2xl font-semibold mt-4 \">PARTNER WITH Go InfoTech FOR:</h2><ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">Rapid MVP Development</li><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">Cost-effective solutions</li><li class=\"mb-2 border-b-2 h-auto  border-gray-300 pb-4\">Iterative Development Support</li></ul></div>"
+    }
+  ],
+  "techInnovationData": [
+    {
+      "title": "ARTIFICIAL INTELLIGENCE",
+      "description": "Leverage AI to drive innovation and automate complex business processes."
+    },
+    {
+      "title": "CLOUD INTEGRATION",
+      "description": "Build scalable, cloud-native applications that grow with your business."
+    },
+    {
+      "title": "AUGMENTED REALITY",
+      "description": "Create immersive experiences that engage your customers like never before."
+    },
+    {
+      "title": "INTERNET OF THINGS",
+      "description": "Connect devices and data to unlock new business opportunities."
+    }
+  ]
+}

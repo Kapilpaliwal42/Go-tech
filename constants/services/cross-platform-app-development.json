@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "title": "CROSS-PLATFORM MOBILE APP DEVELOPMENT SERVICES",
+    "subtitle": "Delivering an exceptional user experience in the Android tapestry: Customize solutions that align with your unique business needs."
+  },
+  "loadCounter": [
+    { "limit": 30, "label": "cross-platform development experts", "suffix": "+" },
+    { "limit": 60, "label": "successful projects delivered", "suffix": "+" },
+    { "limit": 8, "label": "of expertise", "suffix": "years" },
+    { "limit": 4.8, "label": "overall review rating based on 55+ reviews", "suffix": "/5 stars" }
+  ],
+  "whyChooseUsData": [
+    { "icon": "UserCheck", "title": "Trusted and renowned", "description": "We are dedicated to serving you with excellence." },
+    { "icon": "BadgeCheck", "title": "Expertise at your service", "description": "Our team has extensive cross-platform development experience." },
+    { "icon": "ShieldCheck", "title": "Industries's Expertise", "description": "We have expertise across diverse industries." },
+    { "icon": "TrendingUp", "title": "High Satisfaction Rates", "description": "Empower your business with promising results." },
+    { "icon": "Globe", "title": "Global Coverage", "description": "We are available 24/7 across multiple time zones." },
+    { "icon": "LayoutGrid", "title": "Wide Range of Services", "description": "Comprehensive software development services." }
+  ],
+  "crossPlatformAdvantages": [
+    { "title": "COST-EFFECTIVE DEVELOPMENT", "description": "Reduce development costs with a single codebase." },
+    { "title": "FLEXIBILITY AND SCALABILITY", "description": "Build scalable apps that adapt to your business." },
+    { "title": "CONSISTENT USER EXPERIENCE", "description": "Deliver consistent experience across platforms." },
+    { "title": "EASIER MAINTENANCE AND UPDATES", "description": "Simplify app maintenance and updates." },
+    { "title": "FASTER TIME TO MARKET", "description": "Launch your app faster with less overhead." },
+    { "title": "WIDER REACH", "description": "Support both iOS and Android with one codebase." }
+  ],
+  "industriesData": [
+    { "title": "Finance", "description": "Financial services and banking solutions." },
+    { "title": "Healthcare", "description": "Healthcare and wellness applications." },
+    { "title": "Media & Entertainment", "description": "Streaming and media delivery platforms." },
+    { "title": "Automotive", "description": "Connected vehicle applications." },
+    { "title": "Education", "description": "Educational technology platforms." },
+    { "title": "E-commerce", "description": "E-commerce and retail platforms." },
+    { "title": "GIS", "description": "Geographic information systems." }
+  ]
+}

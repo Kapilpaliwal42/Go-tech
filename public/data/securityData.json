@@ -1,0 +1,211 @@
+{
+  "title": "Privacy Policy",
+  "sections": [
+    {
+      "heading": "Privacy Policy",
+      "paragraphs": [
+        "Last updated on (DATE WHEN THIS GETS UPLOADED).",
+        "At GoTech Solutions, your trust is our top priority. The protection of the data and privacy of users of our websites is highly important for us. As a global IT company headquartered in India, GoTech Solutions is committed to safeguarding your personal data and to collecting, processing, and using it only in compliance with the international and other national data protection laws applicable to our operations.",
+        "This Privacy Policy explains in detail which of your personal data is collected on our websites and digital platforms, how it is processed, and for what purposes. It also describes your rights as a data subject and how you may exercise them. Because legal and technical requirements evolve regularly, this Privacy Policy is reviewed and updated frequently. Please always refer to the latest version available on our website.",
+        "This Privacy Policy applies exclusively to the websites, online platforms, and digital services provided by GoTech Solutions and its affiliated entities worldwide."
+      ],
+      "list": [],
+      "subsections": []
+    },
+    {
+      "heading": "1. Name and Address of the Controller",
+      "paragraphs": [
+        "The controller within the meaning of the General Data Protection Regulation and other national data protection laws and regulations is:",
+        "GoTech Solutions",
+        "515-517, 5th floor, Amrit Shree, University Road, Udaipur, Rajasthan 313001",
+        "Email: career@go-techsolution.com",
+        "If you have any questions about this privacy policy or wish to exercise your rights, you can contact our Data Protection Officer at (EMAIL)."
+      ],
+      "list": [],
+      "subsections": []
+    },
+    {
+      "heading": "2. Why Do We Process Your Data and On What Legal Basis?",
+      "paragraphs": [
+        "GoTech Solutions processes personal data only when permitted by law, and always under one of the legal bases established in Article 6 of the GDPR, equivalent provisions under UK GDPR, or other applicable laws such as CCPA. The following sections describe in detail the categories of data we process, the purposes of processing, and the corresponding legal bases."
+      ],
+      "list": [],
+      "subsections": [
+        {
+          "heading": "2.1 Server Log Files",
+          "paragraphs": [
+            "When you visit our website for informational purposes, i.e., without actively submitting information through forms or other means, we automatically collect data transmitted by your browser to our servers. This data includes:"
+          ],
+          "list": [
+            "IP address of the requesting device",
+            "Date and time of access",
+            "Time zone difference to Greenwich Mean Time (GMT)",
+            "Requested content (specific webpage or resource)",
+            "Access status/HTTP status code",
+            "Amount of data transferred per request",
+            "Referring website (referrer URL)",
+            "Browser type, version, and settings",
+            "Operating system and device type",
+            "Language and version of the browser software"
+          ]
+        },
+        {
+          "heading": "",
+          "paragraphs": [
+            "This information is stored in server log files for a short period (generally a few days) for technical and security reasons, such as ensuring system stability, detecting unauthorized access, and preventing misuse. In cases where data must be retained for evidence purposes (e.g., cyber incidents or fraud investigations), it will be stored until the case is fully resolved.",
+            "Legal basis: Art. 6 (1) (f) GDPR – our legitimate interest in maintaining website security, functionality, and preventing misuse."
+          ],
+          "list": []
+        },
+        {
+          "heading": "2.2 Cookies",
+          "paragraphs": [
+            "Like most modern websites, we use cookies and similar technologies to make our online presence functional, user-friendly, and efficient. Cookies are small text files stored on your device and linked to the browser you use."
+          ],
+          "list": [],
+          "subsections": [
+            {
+              "heading": "Types of Cookies We Use",
+              "paragraphs": [],
+              "list": [
+                "Strictly Necessary Cookies – Required for the website to function (e.g., login sessions, load balancing).",
+                "Functional Cookies – Enable enhanced personalization, such as remembering user preferences.",
+                "Performance/Analytics Cookies – Help us understand how users interact with the website (e.g., Google Analytics).",
+                "Marketing/Advertising Cookies – Used to deliver relevant advertising and measure campaign performance."
+              ]
+            },
+            {
+              "heading": "Session vs. Persistent Cookies",
+              "paragraphs": [],
+              "list": [
+                "Session cookies store a session ID and are automatically deleted when you close your browser.",
+                "Persistent cookies remain on your device until they expire or are manually deleted."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "",
+          "paragraphs": [
+            "You may configure your browser to refuse all cookies or to display a warning before a cookie is set. Please note that disabling certain cookies may limit the functionality of our website."
+          ],
+          "list": []
+        },
+        {
+          "heading": "",
+          "paragraphs": [
+            "Legal basis:"
+          ],
+          "list": [
+            "Art. 6(1)(f) GDPR – legitimate interest in providing a functional and optimized website.",
+            "Art. 6(1)(a) GDPR – for cookies that require user consent (e.g., analytics, marketing)."
+          ]
+        },
+        {
+          "heading": "2.3 Contact Forms, Email Communication, and Applications",
+          "paragraphs": [
+            "When you contact us via a form on our website, by email, or through other digital channels, the data you provide (e.g., name, email, phone number, company details, and the content of your inquiry) will be processed exclusively to respond to your request.",
+            "If your inquiry relates to a potential or existing business relationship, the data will be processed as part of pre-contractual or contractual measures. If it is unrelated to a contract, we process the data based on our legitimate interest in responding to inquiries.",
+            "Data collected through applications for employment is handled under separate applicant privacy notices but generally follows the same principles of confidentiality, lawful processing, and limited retention."
+          ],
+          "list": []
+        },
+        {
+          "heading": "",
+          "paragraphs": [
+            "Legal basis:"
+          ],
+          "list": [
+            "Art. 6 (1) (b) GDPR – where processing is necessary for contract performance or pre-contractual steps.",
+            "Art. 6 (1) (f) GDPR – legitimate interest in responding to general inquiries."
+          ]
+        },
+        {
+          "heading": "2.4 International Data Transfers",
+          "paragraphs": [
+            "As a global IT company, GoTech Solutions may transfer personal data to servers, subsidiaries, or service providers located outside the European Economic Area (EEA) or the United Kingdom. Such transfers occur, for example, when data is processed by cloud hosting providers or global customer support teams.",
+            "To ensure adequate protection of your data in third countries where no adequacy decision by the European Commission exists (e.g., the United States, India), we rely on safeguards such as:"
+          ],
+          "list": [
+            "EU Standard Contractual Clauses (SCCs) in accordance with Art. 46 (2) GDPR.",
+            "Supplementary measures such as encryption, anonymization, and strict access controls.",
+            "Binding corporate rules (BCRs), where applicable, for intra-group transfers."
+          ]
+        },
+        {
+          "heading": "2.5 Analytics and Tracking Tools",
+          "paragraphs": [
+            "We use analytics and tracking technologies to measure website performance, understand user behavior, and improve services. These tools may collect pseudonymized data such as:"
+          ],
+          "list": [
+            "Page views and navigation paths",
+            "Referrer URLs",
+            "Device and browser details",
+            "Geolocation (general, not precise)",
+            "Timestamped interactions"
+          ]
+        },
+        {
+          "heading": "",
+          "paragraphs": [
+            "Examples include Google Analytics, LinkedIn Insight Tag, and other similar tools. Where possible, IP addresses are anonymized or truncated, and data is deleted within 90 days."
+          ],
+          "list": []
+        },
+        {
+          "heading": "2.6 Consent Management (Cookie Banner)",
+          "paragraphs": [
+            "To comply with GDPR and ePrivacy Directive requirements, our website uses a consent management tool (cookie banner). This system records your consent choices regarding cookies and ensures that non-essential cookies are only set when you have opted in. The cookie storing your preferences remains valid for one year, after which you may be asked to provide consent again.",
+            "Legal basis: Art. 6 (1) (f) GDPR – legitimate interest in complying with GDPR and ePrivacy requirements."
+          ],
+          "list": []
+        }
+      ]
+    },
+    {
+      "heading": "3. Who Gets Your Data?",
+      "paragraphs": [
+        "Only the teams within GoTech Solutions that need your personal data to provide our services will access it. Additionally, trusted service providers who maintain or operate our systems may process your data on our behalf. Your information is never shared outside these necessary channels."
+      ],
+      "list": [],
+      "subsections": []
+    },
+    {
+      "heading": "4. What Rights Do You Have?",
+      "paragraphs": [],
+      "list": [
+        "Right to information: access the personal data we store about you and understand how we use your data.",
+        "Right to rectification, erasure, and restriction: request correction, restriction, or erasure of your data if inaccurate or no longer required.",
+        "Right to data portability: receive your personal data in a structured format and transmit it to another provider.",
+        "Right of revocation: revoke consent for processing your data (does not affect processing prior to withdrawal).",
+        "Right to object: object to processing of your data, including for analytics, marketing, or profiling.",
+        "Right to complain: contact our privacy team or supervisory authority if you believe data is mishandled."
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "5. When Will My Personal Data Be Deleted?",
+      "paragraphs": [
+        "We keep your data only as long as necessary to provide our services. Once it is no longer needed, we securely delete it, unless retention is required for business or regulatory reasons."
+      ],
+      "list": [],
+      "subsections": []
+    },
+    {
+      "heading": "6. Is There an Obligation to Provide Personal Data?",
+      "paragraphs": [
+        "You are not required to provide personal data. However, without it, some features of our website or services may not be available to you."
+      ],
+      "list": [],
+      "subsections": []
+    },
+    {
+      "heading": "7. Does Automated Decision-Making or Profiling Take Place?",
+      "paragraphs": [
+        "GoTech Solutions does not use automated decision-making or profiling unless explicitly stated. Your data is reviewed and used only to improve our services and support your interactions with us."
+      ],
+      "list": [],
+      "subsections": []
+    }
+  ]
+}

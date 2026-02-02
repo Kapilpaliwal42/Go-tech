@@ -1,0 +1,159 @@
+{
+    "hero": {
+        "title": "STAFF AUGMENTATION SERVICES",
+        "description": "Add the expertise of Go InfoTech Solution to your existing team, and make sure you augment it with highly specialized and experienced professionals from the most trusted Custom Software Development Company in Udaipur.",
+        "button": {
+            "text": "GET INFO",
+            "bgColor": "#f97316",
+            "onClick": "()=>{}"
+        },
+        "loadCounter": [
+            {
+                "label": "specialists",
+                "limit": 80,
+                "suffix": "+"
+            },
+            {
+                "label": "review rating based on 60+ reviews",
+                "limit": 4.8,
+                "suffix": "/5 stars"
+            },
+            {
+                "label": "of expertise in business",
+                "limit": 2,
+                "suffix": "years"
+            },
+            {
+                "label": "projects successfully delivered",
+                "limit": 40,
+                "suffix": "+"
+            }
+        ]
+    },
+    "advantagesData": {
+        "title": "ABOUT OUR APPROACH",
+        "description": "As a renowned IT company in Udaipur, at Go InfoTech Solution, we offer Staff Augmentation Services for your business’s exponential growth with the expertise of our experienced professionals in your existing team.",
+        "data": [
+            {
+                "title": "DOMAIN EXPERTISE",
+                "description": "At Go InfoTech, we are dedicated to serving you with the expertise of professionals who possess the knowledge and experience of a range of industries and ensure to equip them with relevant skills and proficiency."
+            },
+            {
+                "title": "SMART OUTSOURCING AUTOMATION PARADIGM",
+                "description": "Our experts and professionals are ready to serve you with excellence and optimize your operational performance while collaborating with our client’s businesses and serving their unique needs."
+            },
+            {
+                "title": "BUSINESS-SCALE SUPPORT",
+                "description": "Supporting several industries and equipping them with relevant expertise and technical guidance to scale up their businesses exponentially, Go InfoTech Solution offers assistance to your business following the best practices."
+            },
+            {
+                "title": "FAST ONBOARDING",
+                "description": "A seamless collaboration process without much hassle enables us to use emerging resources in no time."
+            },
+            {
+                "title": "INTERNSHIP PROGRAM",
+                "description": "At Go InfoTech Solution, we offer an internship program for students who wish to learn and educate themselves in a cohesive learning environment. Work alongside the expertise of highly talented individuals who possess several years of experience in the field."
+            },
+            {
+                "title": "PREMIUM TECH TALENT",
+                "description": "We make use of highly updated and cutting-edge technology, which goes beyond coding and development. We take pride in our team of exceptionally talented professionals who are highly skilled and have years of experience."
+            }
+        ]
+    },
+    "services": {
+        "title": "OUR SERVICES",
+        "serviceData": [
+            {
+                "title": "SHORT-TERM STAFF AUGMENTATION",
+                "Desc_html": "<div class='p-4 text-inherit '>    <p>Augment your existing team with the talent of the Go InfoTech solution to foster the growth of your business in multiple folds. This flexible model allows for immediate scalability without long-term overhead.</p>    <h2 class=\"text-2xl font-semibold mt-4 \">TAILORED FOR SCENARIOS SUCH AS:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class=\"mb-2 border-b-2 h-auto border-gray-300 pb-4\">Enhanced performance enables you to focus on core tasks.</li>          <li class=\"mb-2 border-b-2 h-auto border-gray-300 pb-4\">Managing escalated project workload during peak season.</li>          <li class=\"mb-2 border-b-2 h-auto border-gray-300 pb-4\">Augment with specialized expertise during critical project milestones.</li>        </ul>   </div>"
+            },
+            {
+                "title": "LONG-TERM STAFF AUGMENTATION",
+                "Desc_html": "<div class='p-4 text-inherit '>\n    <p>Partner with us and equip your business with dedicated specialists who are here to fulfill the long-term needs of your business and provide enhanced operational efficiency.</p>\n    <h2 class=\"text-2xl font-semibold mt-4 \">TAILORED FOR SCENARIOS SUCH AS:</h2>\n    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>\n          <li class=\"mb-2 border-b-2 h-auto border-gray-300 pb-4\">Sustained upkeep and updates of intricate software solutions.</li>\n          <li class=\"mb-2 border-b-2 h-auto border-gray-300 pb-4\">Development of long-scale projects with relevant talent and expertise.</li>\n          <li class=\"mb-2 border-b-2 h-auto border-gray-300 pb-4\">Managed IT services for advancing ventures.</li>\n        </ul>\n    </div>"
+            },
+            {
+                "title": "EXPANDING YOUR EXISTING TEAM",
+                "Desc_html": "<div class='p-4 text-inherit '>\n    <p>Collaborate with us to elevate the knowledge and expertise of your existing team with our highly skilled professionals. We swiftly deploy talent to enable the robust expansion of your business.</p>\n    <h2 class=\"text-2xl font-semibold mt-4 \">TAILORED FOR SCENARIOS SUCH AS:</h2>\n    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>\n          <li class=\"mb-2 border-b-2 h-auto border-gray-300 pb-4\">Recruit more developers to keep up with advancing projects.</li>\n          <li class=\"mb-2 border-b-2 h-auto border-gray-300 pb-4\">Customized project solutions for emerging projects and business plans.</li>\n          <li class=\"mb-2 border-b-2 h-auto border-gray-300 pb-4\">Equip your projects with talent that catalyzes the growth of your business.</li>\n        </ul>\n    </div>"
+            },
+            {
+                "title": "VENDOR TRANSITION",
+                "Desc_html": "<div class='p-4 text-inherit '>\n    <p>Transition seamlessly from one vendor to another with the assistance of Go InfoTech Solution. We ensure a swift transition without any disruption to your ongoing operations.</p>\n    <h2 class=\"text-2xl font-semibold mt-4 \">TAILORED FOR SCENARIOS SUCH AS:</h2>\n    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>\n          <li class=\"mb-2 border-b-2 h-auto border-gray-300 pb-4\">Smooth IT agency transition without any disruption.</li>\n          <li class=\"mb-2 border-b-2 h-auto border-gray-300 pb-4\">Managed IT services for optimizing the operations.</li>\n          <li class=\"mb-2 border-b-2 h-auto border-gray-300 pb-4\">Transition to a service-driven approach rather than a project-centric model.</li>\n        </ul>\n    </div>"
+            }
+        ]
+    },
+    "whyChooseUs": {
+        "title": "WHY CHOOSE GO INFOTECH AS YOUR PARTNER",
+        "description": "",
+        "data": [
+            {
+                "title": "SWIFT TALENT ONBOARDING",
+                "description": "At Go InfoTech, we make available the CVs of talented candidates to engage in your advancing business with relevant proficiency in web development."
+            },
+            {
+                "title": "TOP AI & ML SPECIALISTS",
+                "description": "Through our comprehensive procedure, we make sure that our experts and specialists are engaged in your crucial project. We are dedicated to the seamless success of your project."
+            },
+            {
+                "title": "TRAIL PERIOD",
+                "description": "We aim to provide you with the best fit for your business, which is why we also ensure that you appoint the fit that suits the best for your crucial projects by offering a week's trial period to assess the candidate correctly and then deploy them to your important projects."
+            },
+            {
+                "title": "OUR CLIENT’S EXPERIENCE",
+                "description": "Our clients have said it too, Go InfoTech has proved to be an expert custom Software Development Company in Udaipur driving seamless growth for our clients and showcasing our proficiency in web development."
+            },
+            {
+                "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+                "description": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
+            },
+            {
+                "title": "WIDE RANGE OF SERVICES",
+                "description": "As a leading Web Development company in Udaipur, we offer custom team augmentation in software development, mobile app development, web application development, software maintenance and support, and more."
+            }
+        ]
+    },
+    "collabSteps": {
+        "title": "STEPS TO COLLABORATION",
+        "description": "",
+        "data": [
+            {
+                "step": 1,
+                "title": "IDENTIFY YOUR PROJECT’S NEEDS",
+                "description": "Identify the unique needs of your business or specific project and what you are searching for in a candidate, such as qualifications, experience level, or project scope, to ease up the process."
+            },
+            {
+                "step": 2,
+                "title": "RECEIVE THE CV",
+                "description": "Communicate your specific requirements to us and be prepared to embark on the hiring process as we make available the CVs of talented candidates to engage in your advancing business with relevant proficiency in web development within 24 hours."
+            },
+            {
+                "step": 3,
+                "title": "CONNECT WITH THE CANDIDATE",
+                "description": "Upon receiving the CV of the eligible candidate, connect with them by scheduling an interview with them and assessing their capabilities and competencies to check their ability to adapt to your project’s requirements."
+            },
+            {
+                "step": 4,
+                "title": "FAST ONBOARDING",
+                "description": "We ensure the swift onboarding of the candidate to reduce the downtime period and avoid any unnecessary delay in your project’s productivity."
+            },
+            {
+                "step": 5,
+                "title": "TRIAL PERIOD",
+                "description": "We aim to provide you with the best fit for your business, which is why we also ensure that you appoint the fit that suits the best for your crucial projects by offering a week’s trial period to assess the candidate correctly and then deploy them to your important projects."
+            },
+            {
+                "step": 6,
+                "title": "TEAM EXPANSION",
+                "description": "Collaborate with Go InfoTech and equip your business with dedicated specialists who are here to fulfill the specific project requirements of your business and provide enhanced operational efficiency."
+            }
+        ]
+    },
+    "shortHeading":{
+        "title":"CONSULT WITH US TODAY",
+        "description":"Our team at Go InfoTech will ensure that you are equipped with tailored solutions to your unique business needs and augmentation facilities. Don’t hesitate to reach out.",
+        "button":{
+            "text":"GET IN TOUCH",
+            "bgColor":"#f97316",
+            "onClick":"()=>{}"
+        }
+    }
+}

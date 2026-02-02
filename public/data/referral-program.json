@@ -1,0 +1,255 @@
+{
+     "statsSection": {
+    "content": {
+      "heading": "REFERRAL PROGRAM",
+      "subheading": "Join our Referral Program and help others find our world-class services while reaping the rewards."
+    },
+    "stats": [
+      {
+        "value": 150,
+        "suffix": "+",
+        "label": "successful projects"
+      },
+      {
+        "value": 7,
+        "suffix": "/10+",
+        "label": "are satisfied with our services"
+        
+      },
+      {
+        "value": 3,
+        "suffix": "+ years",
+        "label": "in business"
+      },
+      {
+        "value": 70,
+        "suffix": "+",
+        "label": "qualified employees within the team"
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": 1,
+      "title": "STAFF AUGMENTATION",
+      "icon": "/Aug.svg",
+      "description": [
+        { "content": "Go-Infotech Solution Pvt Ltd is a custom [Software Development Company in Udaipur](https://example.com/services) aiming to provide seamless project execution by staff augmentation for optimal resource management:" },
+        { "title": "IT STAFF AUGMENTATION",
+          "link": "/referral-program",
+         "content": "We are dedicated to providing you with highly skilled and experienced IT professionals who will help you focus on core aspects so that your business reaches new heights." 
+        },
+        {
+           "title": "COMMITTED TEAM",
+         "content": "Our team at Go Tech Solution is a living testament of expertise and knowledge who are committed to meeting your unique business needs."
+        },
+        {
+          "title": "ON-DEMAND CTO",
+          "content": "We offer CTO services for strategic technological assistance so that your business reaches exponential heights without any overhead of hiring a full-time professional."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "IT CONSULTING",
+      "icon": "/ItConsul.svg",
+     "description": [
+      {
+        "content": "Our IT Company in Udaipur is here to navigate you in the evolving tapestry of Technology while providing appropriate guidance from highly qualified professionals:"
+      },
+      {
+        "title": "TECHNICAL DUE DILIGENCE",
+        "content": "After conducting a thorough evaluation of your business while assessing the project feasibility, relevant risks, and growth ambition of your project, our team provides strategic insights for your project growth."
+      },
+      {
+        "title": "PROJECT MANAGEMENT AND COORDINATION",
+        "content": "Our team ensures that your project delivery is timely and effective through proper management and streamlined communication with the development teams."
+      },
+      {
+        "title": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "content": "Ensure that you make data-driven decisions by thorough evaluation of your data and gain a competitive advantage over your rivals with our Data analytics and BI services."
+      }
+    ]
+    },
+     {
+      "id": 3,
+      "title": "CUSTOM SOFTWARE DEVELOPMENT",
+      "icon": "/CUS.svg",
+      "description": [
+        { 
+         "content": "Our team is committed to delivering unique software solutions to your specific business requirements. Our end-to-end development service results in high-performance outcomes that are structured to your business needs."
+        },
+         { "title": "WEB DEVELOPMENT",
+         "link": "/referral-program",
+         "content": "Aim to develop a user-centric web application that is adaptive, intuitive, visually engaging, and designed to meet the unique needs of your business."
+        },
+         { "title": "MOBILE DEVELOPMENT",
+         "link": "/",
+         "content": "Crafting a mobile application that is user-friendly, visually appealing, and can be used on Android and iOS platforms to stay updated with the evolving tech."
+        },
+         { "title": "DISCOVERY PHASE",
+         "content": "We assist you in a thorough evaluation of your business for properly crafting the vision, goals, and intent of the business."
+        }
+      ]
+    },
+     {
+      "id": 4,
+      "title": "INTELLIGENT AUTOMATION",
+      "icon": "/intel.svg",
+     "description": [
+        { 
+         "content": " We are dedicated to serving you with the best services incorporating state-of-the-art technologies like AI, machine learning, blockchain, and IoT, while we transform your business to achieve new heights."
+        },
+         { "title": "AI & ML SOLUTIONS",
+         "link": "/services",
+         "content": "Empower your business to grow by incorporating Artificial Intelligence and Machine Learning to enhance the decision making process and robust growth of business."
+        },
+         { "title": "BLOCKCHAIN SOLUTIONS",
+         "link": "/technology",
+         "content": "Secure and transparent blockchain solutions tailored to your unique needs and industry requirements, ranging from cryptocurrencies to decentralized applications (DApps)."
+        },
+         { "title": "IoT Solutions",
+         "content": "A seamless interlinkage and data exchange using our IoT Solutions between devices, systems and individuals which will fuel the growth of the business."
+        }
+      ]
+    },
+     {
+      "id": 5,
+      "title": "MANAGED IT SERVICES",
+      "icon": "/manage.svg",
+      "description": [
+        { 
+         "content": "At Go InfoTech Solution, a leading [Software Development company in Udaipur](https://example.com/services) we offer managed IT services to foster the growth of your business:"
+         },
+          { "title": "DATABASE DEVELOPMENT SERVICES",
+         "content": "To ensure the effective storage, retrieval, and management of business data we design, develop and optimize database development services."
+         },
+          { "title": "CLOUD & DEVOPS SOLUTIONS",
+         "content": "We incorporate the best practices of DevOps and cloud solutions to expedite software delivery and collaborative space along with streamlining the entire development and deployment lifecycle."
+         },
+          { "title": "SOLUTION ARCHITECTURE SERVICES",
+         "content": "Our team is dedicated to designing and deploying adaptive, secure, and high-performance IT infrastructure that is crafted to align with your business objectives."
+         }
+      ]
+    }
+  ],
+  "gridBlueCard": {
+    "heading": "INDUSTRIES Go InfoTech SOLUTION SERVES:",
+    
+    "items": [
+      {
+        "title": "FINANCE",
+        "description": "Empowering the financial sector by incorporating the expertise of Software Development company in Udaipur to enhance the security and efficiency of the services.",
+        "path": "/industry/fintech",
+        "highlight": "Software Development company in Udaipur",
+        "highlightLink": "/services/web-development"
+      },
+      {
+        "title": "HEALTHCARE",
+        "description": "We offer cutting-edge solutions for healthcare by making use of managed IT services at web Development company in Udaipur and digital health technologies.",
+        "highlight": "web Development company in Udaipur",
+        "highlightLink": "/services/web-development"
+      },
+      {
+        "title": "MEDIA & ENTERTAINMENT",
+        "description": "Robust IT Solutions at Digital Marketing Company in Udaipur offering innovative solutions for digital platforms along with SEO Services in Udaipur.",
+        "highlight": "Digital Marketing Company in Udaipur" ,
+        "highlightLink": "/services/web-development"
+      },
+       {
+        "title": "AUTOMOTIVE",
+        "description": "Dedicated experts providing advanced IT Solutions by making use of innovative and effective solutions for the automotive industry offering operational efficiency."
+       
+      },
+      {
+        "title": "EDUCATION",
+        "description": "Leveraging the excellence of our IT Company in Udaipur to empower educational institutions with digital assistance by our professionals.",
+        "highlight": "IT Company in Udaipur" ,
+        "highlightLink": "/industry/fintech"
+      },
+      {
+        "title": "E-COMMERCE",
+        "description": "Ensuring that the website generates enhanced customer engagement and optimizes user experience Digital Marketing Agency in Udaipur generating higher sales.",
+        "highlight": "Digital Marketing Agency in Udaipur" ,
+        "highlightLink": "/"
+      },
+      {
+        "title": "GIS",
+        "description": "Accurate data visualization and incorporation of geospatial data for designing advanced Geographic Information Systems at a Web Development company in Udaipur.",
+        "highlight": "Web Development company in Udaipur" ,
+        "highlightLink": "/technology"
+      }
+    ]
+  },
+  "cardMethodology": {
+    "heading": "WHO MIGHT BE SUITABLE FOR THE PROGRAM",
+    
+    "items": [
+      {
+        "title": "CURRENT OR FORMER CLIENT",
+        "iconPath": "/cardSvg/globe.svg"
+       
+      },
+      {
+        "title": "STARTUP CONSULTING FIRMS",
+        "iconPath": "/cardSvg/folder.svg"
+        
+      },
+      {
+        "title": "INDIVIDUAL CONSULTANT",
+         
+        "iconPath": "/cardSvg/contact.svg" 
+      
+      },
+      {
+        "title": "SALES PROFESSIONAL",
+        "iconPath": "/cardSvg/globe.svg"
+       
+      },
+      {
+        "title": "DESIGN STUDIO",
+        "iconPath": "/cardSvg/folder.svg"
+        
+      },
+      {
+        "title": "DEVELOPMENT COMPANY",
+         
+        "iconPath": "/cardSvg/contact.svg" 
+      
+      },
+       {
+        "title": "MARKETING AGENCY",
+        "iconPath": "/cardSvg/globe.svg"
+       
+      },
+      {
+        "title": "YOU’VE JUST FOUND OUR COMPANY!",
+        "iconPath": "/cardSvg/folder.svg"
+        
+      }
+    ]
+  },
+   "cardGridHovBase": {
+    "heading": "WHAT WE OFFER TO YOU AS A REFERRAL PARTNER",
+    
+    "cards": [
+      {
+        "title": "10% REFERRAL COMMISSION",
+        "description": "With an average project budget of around $150,000, your commission will be approximately $15,000."
+      },
+      {
+        "title": "PAYMENT PROCESS",
+        "description": "You will receive your payment once we have collected it from the client."
+      },
+      {
+        "title": "QUALITY ASSURANCE",
+        "description": "Our services are guaranteed to be of the highest quality, protecting your reputation."
+      },
+      {
+        "title": "ZERO FINANCIAL RISK",
+        "description": "No financial investments or program fees are required, ensuring a worry-free experience."
+      }
+     
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "techStack": {
+    "heading": "TECH STACK",
+    "categories": [
+      {
+        "key": "frontend",
+        "label": "FRONT-END DEVELOPMENT",
+        "department": {
+          "title": "FRONT-END DEVELOPMENT",
+          "description": "Empower your business with our expert front-end solutions focusing fundamentally on the smooth user experience and effectively handle your needs and preferences and aligning it to the industry’s unique requirement.",
+          "subtitle": "OUR FRONT-END DEPARTMENT HAS:",
+          "stats": [
+            "20+ Front-end developers",
+            "8 years of experience",
+            "4.8 rating on Google"
+          ],
+          "technologies": [
+            { "name": "Angular", "icon": "/Angular-icon.png"},
+            { "name": "React JS", "icon": "/React-JS.png" },
+            { "name": "Vue", "icon": "/Vue.png" }
+          ]
+        }
+      },
+      {
+        "key": "backend",
+        "label": "BACK-END DEVELOPMENT",
+        "department": {
+          "title": "BACK-END DEVELOPMENT",
+          "description": "We help you build a strong foundation for your software and applications with scalable and secure back-end systems that will enable you to handle all your tasks seamlessly and result in the robust growth of your business. ",
+           "subtitle": "OUR BACK-END DEPARTMENT HAS:",
+          "stats": [
+            "20+ Back-end developers;",
+            "8 years of experience;",
+            "4.8 rating on Google"
+          ],
+          "technologies": [
+           { "name": ".NET", "icon": "/NET-1.png" },
+{ "name": "Go", "icon": "/GOlang-1.png" },
+{ "name": "Java", "icon": "/Java-1.png" },
+{ "name": "Scala", "icon": "/Scala-1.png" },
+{ "name": "Node JS", "icon": "/NodeJS-1.png" },
+{ "name": "PHP", "icon": "/PHP-1.png" },
+{ "name": "Python", "icon": "/Python-1.png" },
+{ "name": "Ruby", "icon": "/Ruby-1.png" },
+{ "name": "Rust", "icon": "/Rust-1.png" }
+
+          ]
+        }
+      },
+      {
+        "key": "mobile",
+        "label": "MOBILE APP DEVELOPMENT",
+        "department": {
+          "title": "MOBILE APP DEVELOPMENT",
+          "description": "Our team of dedicated experts and developers at the leading IT Company in Udaipur is here to skillfully craft captivating and functional mobile apps for Android and iOS platforms, crafted to meet your unique needs and reach out target audience.",
+           "subtitle": "OUR MOBILE DEPARTMENT HAS:",
+          "stats": [
+            "10+ Mobile developers",
+            "8 years of experience",
+            "4.8 rating on Google"
+          ],
+          "technologies": [
+            { "name": "Flutter", "icon": "/Angular-icon.png" },
+{ "name": "Ionic", "icon": "/Ionic-1.png" },
+{ "name": "Kotlin", "icon": "/Kotlin-1.png" },
+{ "name": "React Native", "icon": "/React-Native-1.png" },
+{ "name": "Swift", "icon": "/Swift-1.png" }
+
+          ]
+        }
+      },
+      {
+        "key": "uiux",
+        "label": "UI/UX DESIGN",
+        "department": {
+          "title": "UI/UX DESIGN",
+          "description": "Through our user-centric approach we are successful in reaching the target audience via our  visually appealing UI/UX designs that are user-friendly and lead to an exceptional user experience on all platforms.",
+          "subtitle": "OUR MOBILE DEPARTMENT HAS:",
+          "stats": [
+            "12+ Designers",
+            "6 years of experience",
+            "4.7 rating on Google"
+          ],
+          "technologies": [
+          { "name": "Figma", "icon": "/Figma-1.png" },
+{ "name": "Adobe XD", "icon": "/Adobe_XD-1.png" },
+{ "name": "Sketch", "icon": "/Sketch-1.png" },
+{ "name": "InVision", "icon": "/Invision-1.png" },
+{ "name": "Zeplin", "icon": "/Zeplin-1.png" },
+{ "name": "FigJam", "icon": "/FigJam-1.png" },
+{ "name": "Miro", "icon": "/Miro-1.png" },
+{ "name": "Maze", "icon": "/Maze-1.png" },
+{ "name": "Protopie", "icon": "/Protopie-1.png" }
+
+          ]
+        }
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": 1,
+      "title": "STAFF AUGMENTATION",
+      "icon": "/Aug.svg",
+      "description": [
+        { "content": "Go-Infotech Solution Pvt Ltd is a custom [Software Development Company in Udaipur](/services) aiming to provide seamless project execution by staff augmentation for optimal resource management:" },
+        { "title": "IT STAFF AUGMENTATION",
+          "link": "/services",
+         "content": "We are dedicated to providing you with highly skilled and experienced IT professionals who will help you focus on core aspects so that your business reaches new heights." 
+        },
+        {
+           "title": "COMMITTED TEAM",
+         "content": "Our team at Go Tech Solution is a living testament of expertise and knowledge who are committed to meeting your unique business needs."
+        },
+        {
+          "title": "ON-DEMAND CTO",
+          "content": "We offer CTO services for strategic technological assistance so that your business reaches exponential heights without any overhead of hiring a full-time professional."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "IT CONSULTING",
+      "icon": "/ItConsul.svg",
+     "description": [
+      {
+        "content": "Our IT Company in Udaipur is here to navigate you in the evolving tapestry of Technology while providing appropriate guidance from highly qualified professionals:"
+      },
+      {
+        "title": "TECHNICAL DUE DILIGENCE",
+        "content": "After conducting a thorough evaluation of your business while assessing the project feasibility, relevant risks, and growth ambition of your project, our team provides strategic insights for your project growth."
+      },
+      {
+        "title": "PROJECT MANAGEMENT AND COORDINATION",
+        "content": "Our team ensures that your project delivery is timely and effective through proper management and streamlined communication with the development teams."
+      },
+      {
+        "title": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "content": "Ensure that you make data-driven decisions by thorough evaluation of your data and gain a competitive advantage over your rivals with our Data analytics and BI services."
+      }
+    ]
+    },
+     {
+      "id": 3,
+      "title": "CUSTOM SOFTWARE DEVELOPMENT",
+      "icon": "/CUS.svg",
+      "description": [
+        { 
+         "content": "Our team is committed to delivering unique software solutions to your specific business requirements. Our end-to-end development service results in high-performance outcomes that are structured to your business needs."
+        },
+         { "title": "WEB DEVELOPMENT",
+         "link": "/services/devops",
+         "content": "Aim to develop a user-centric web application that is adaptive, intuitive, visually engaging, and designed to meet the unique needs of your business."
+        },
+         { "title": "MOBILE DEVELOPMENT",
+         "link": "/services/devops",
+         "content": "Crafting a mobile application that is user-friendly, visually appealing, and can be used on Android and iOS platforms to stay updated with the evolving tech."
+        },
+         { "title": "DISCOVERY PHASE",
+         "content": "We assist you in a thorough evaluation of your business for properly crafting the vision, goals, and intent of the business."
+        }
+      ]
+    },
+     {
+      "id": 4,
+      "title": "INTELLIGENT AUTOMATION",
+      "icon": "/intel.svg",
+     "description": [
+        { 
+         "content": " We are dedicated to serving you with the best services incorporating state-of-the-art technologies like AI, machine learning, blockchain, and IoT, while we transform your business to achieve new heights."
+        },
+         { "title": "AI & ML SOLUTIONS",
+         "link": "/services/ai-ml",
+         "content": "Empower your business to grow by incorporating Artificial Intelligence and Machine Learning to enhance the decision making process and robust growth of business."
+        },
+         { "title": "BLOCKCHAIN SOLUTIONS",
+         "link": "/services/ai-ml",
+         "content": "Secure and transparent blockchain solutions tailored to your unique needs and industry requirements, ranging from cryptocurrencies to decentralized applications (DApps)."
+        },
+         { "title": "IoT Solutions",
+         "content": "A seamless interlinkage and data exchange using our IoT Solutions between devices, systems and individuals which will fuel the growth of the business."
+        }
+      ]
+    },
+     {
+      "id": 5,
+      "title": "MANAGED IT SERVICES",
+      "icon": "/manage.svg",
+      "description": [
+        { 
+         "content": "At Go InfoTech Solution, a leading [Software Development company in Udaipur](https://example.com/services) we offer managed IT services to foster the growth of your business:"
+         },
+          { "title": "DATABASE DEVELOPMENT SERVICES",
+         "content": "To ensure the effective storage, retrieval, and management of business data we design, develop and optimize database development services."
+         },
+          { "title": "CLOUD & DEVOPS SOLUTIONS",
+         "content": "We incorporate the best practices of DevOps and cloud solutions to expedite software delivery and collaborative space along with streamlining the entire development and deployment lifecycle."
+         },
+          { "title": "SOLUTION ARCHITECTURE SERVICES",
+         "content": "Our team is dedicated to designing and deploying adaptive, secure, and high-performance IT infrastructure that is crafted to align with your business objectives."
+         }
+      ]
+    }
+  ],
+   
+   "callToAction": {
+    "title": "READY TO START YOUR DIGITAL TRANSFORMATION JOURNEY?",
+    "subtitle": "With our innovative and industry-proven services, we’ll help you unlock new growth opportunities.",
+    "buttonText": "Get Started",
+    "textColor": "text-blue-900"
+  },
+
+
+
+  
+  "statsSection": {
+    "content": {
+      "heading": "Our Achievements",
+      "subheading": "We have consistently delivered growth and innovation across multiple industries."
+    },
+    "stats": [
+      {
+        "value": 100,
+        "suffix": "+",
+        "label": "Projects Delivered"
+      },
+      {
+        "value": 50,
+        "suffix": "+",
+        "label": "Happy Clients"
+      },
+      {
+        "value": 10,
+        "suffix": "+",
+        "label": "Years of Experience"
+      },
+      {
+        "value": 5,
+        "suffix": "",
+        "label": "Global Offices"
+      }
+    ]
+  }
+}
+
+

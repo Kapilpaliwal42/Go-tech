@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "title": "AI ML DEVELOPMENT SERVICES",
+    "subtitle": "Navigating you through the intricate tapestry of the digital world by incorporating AI and ML into your projects for success."
+  },
+  "loadCounter": [
+    { "limit": 15, "label": "AI/ML Experts", "suffix": "+" },
+    { "limit": 8, "label": "AI/ML Projects", "suffix": "+" },
+    { "limit": 4.8, "label": "AI/ML Rating", "suffix": "stars" },
+    { "limit": 20, "label": "Industries Served", "suffix": "+" }
+  ],
+  "whyChooseUsData": [
+    { "icon": "UserCheck", "title": "OUR CLIENT'S EXPERIENCE", "description": "Proven track record with satisfied clients globally." },
+    { "icon": "BadgeCheck", "title": "TOP AI & ML SPECIALISTS", "description": "Industry-leading AI and ML experts on our team." },
+    { "icon": "ShieldCheck", "title": "PROPRIETARY TECHNOLOGY", "description": "Our own cutting-edge AI/ML frameworks and tools." },
+    { "icon": "TrendingUp", "title": "GUARANTEED PROJECT CONSISTENCY", "description": "Reliable delivery with consistent quality standards." },
+    { "icon": "Globe", "title": "GLOBAL COVERAGE", "description": "Available 24/7 across multiple time zones." },
+    { "icon": "LayoutGrid", "title": "WIDE RANGE OF SERVICES", "description": "Comprehensive AI and ML solutions portfolio." }
+  ],
+  "servicesData": [
+    {
+      "title": "STAFF AUGMENTATION FOR AI & ML IT PRODUCTS",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Access highly-skilled AI and ML engineers to augment your team.</p></div>"
+    },
+    {
+      "title": "CHATBOT DEVELOPMENT SERVICES",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Build intelligent conversational agents powered by NLP.</p></div>"
+    },
+    {
+      "title": "GENERATIVE AI",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Leverage generative AI for content creation and innovation.</p></div>"
+    },
+    {
+      "title": "DEEP LEARNING SOLUTIONS",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Build sophisticated neural network-based solutions.</p></div>"
+    },
+    {
+      "title": "NATURAL LANGUAGE PROCESSING",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Extract insights from unstructured text data.</p></div>"
+    },
+    {
+      "title": "PREDICTIVE ANALYTICS",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Forecast future trends and behaviors with ML models.</p></div>"
+    },
+    {
+      "title": "AR/VR ENHANCED AI SOLUTIONS",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Combine AR/VR with AI for immersive experiences.</p></div>"
+    }
+  ],
+  "techStackData": [
+    {
+      "title": "DEEP LEARNING",
+      "desc": "Advanced neural networks for complex pattern recognition.",
+      "points": ["TensorFlow", "PyTorch", "Keras"]
+    },
+    {
+      "title": "MACHINE LEARNING",
+      "desc": "Scikit-learn, XGBoost, and other ML frameworks.",
+      "points": ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning"]
+    },
+    {
+      "title": "NATURAL LANGUAGE PROCESSING",
+      "desc": "Text processing and language understanding.",
+      "points": ["Transformers", "NLTK", "spaCy"]
+    }
+  ],
+  "masteryData": [
+    { "title": "FINANCE", "description": "Risk assessment and fraud detection." },
+    { "title": "HEALTHCARE", "description": "Diagnostic AI and medical imaging." },
+    { "title": "MEDIA & ENTERTAINMENT", "description": "Recommendation engines and content analysis." },
+    { "title": "AUTOMOTIVE", "description": "Autonomous vehicles and predictive maintenance." },
+    { "title": "EDUCATION", "description": "Personalized learning systems." },
+    { "title": "E-COMMERCE", "description": "Product recommendations and customer analytics." },
+    { "title": "GIS", "description": "Geospatial analysis and mapping." }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "title": "MACHINE LEARNING CONSULTING",
+    "subtitle": "Embark on the journey of technological enchantment with our specialists in Machine Learning for the exponential growth of your business with Go InfoTech Solution."
+  },
+  "loadCounter": [
+    { "limit": 12, "label": "ML consulting experts", "suffix": "+" },
+    { "limit": 80, "label": "ML projects completed", "suffix": "+" },
+    { "limit": 6, "label": "of ML expertise", "suffix": "years" },
+    { "limit": 4.8, "label": "average client rating", "suffix": "/5" }
+  ],
+  "whyChooseUsData": [
+    { "icon": "UserCheck", "title": "IT SOLUTIONS FOR STARTUPS", "description": "Affordable ML solutions for startups." },
+    { "icon": "BadgeCheck", "title": "RAPID DEVELOPMENT AND PROTOTYPING", "description": "Quick proof of concepts and prototypes." },
+    { "icon": "ShieldCheck", "title": "UNDERSTANDING THE STARTUPS", "description": "We understand startup challenges and constraints." },
+    { "icon": "TrendingUp", "title": "INDUSTRY NETWORK ACCESS", "description": "Connections to industry leaders and experts." },
+    { "icon": "Globe", "title": "AI R&D LAB", "description": "Cutting-edge research and innovation." },
+    { "icon": "LayoutGrid", "title": "HIGH SATISFACTION RATES", "description": "Proven track record of successful projects." }
+  ],
+  "servicesData": [
+    {
+      "title": "STAFF AUGMENTATION FOR ML PROJECTS",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Augment your team with ML experts.</p></div>"
+    },
+    {
+      "title": "DEEP LEARNING SOLUTIONS",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Advanced neural network-based solutions.</p></div>"
+    },
+    {
+      "title": "NATURAL LANGUAGE PROCESSING",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Extract value from text data.</p></div>"
+    },
+    {
+      "title": "PREDICTIVE ANALYTICS",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Forecast business outcomes and trends.</p></div>"
+    },
+    {
+      "title": "ML MODEL OPTIMIZATION",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Optimize and maintain existing ML models.</p></div>"
+    }
+  ],
+  "techStackData": [
+    {
+      "title": "PROGRAMMING LANGUAGES",
+      "desc": "Python, R, and Scala for ML development.",
+      "points": ["Python", "R", "Scala"]
+    },
+    {
+      "title": "TECHNOLOGIES & FRAMEWORKS",
+      "desc": "Industry-standard ML tools.",
+      "points": ["TensorFlow", "PyTorch", "Scikit-learn"]
+    },
+    {
+      "title": "CLOUD PLATFORMS",
+      "desc": "Scalable cloud ML infrastructure.",
+      "points": ["AWS SageMaker", "Google Cloud ML", "Azure ML"]
+    }
+  ],
+  "expertizeData": [
+    { "title": "MEDIA & ENTERTAINMENT", "description": "Recommendation engines and content analysis." },
+    { "title": "AUTOMOTIVE", "description": "Autonomous vehicles and predictive maintenance." },
+    { "title": "EDUCATION", "description": "Personalized learning systems." },
+    { "title": "E-COMMERCE", "description": "Product recommendations and demand forecasting." },
+    { "title": "FINTECH", "description": "Risk assessment and fraud detection." },
+    { "title": "GIS", "description": "Geospatial analysis and pattern recognition." },
+    { "title": "HEALTHCARE", "description": "Diagnostic systems and treatment planning." }
+  ],
+  "mlSolutions": [
+    { "title": "PREDICTIVE ANALYTICS", "description": "Forecast future trends and behaviors." },
+    { "title": "NATURAL LANGUAGE PROCESSING", "description": "Understand and process human language." },
+    { "title": "IMAGE RECOGNITION", "description": "Computer vision and image analysis." },
+    { "title": "RECOMMENDATION SYSTEMS", "description": "Personalized content and product recommendations." },
+    { "title": "ANOMALY DETECTION", "description": "Identify unusual patterns and outliers." },
+    { "title": "OPTIMIZATION ALGORITHMS", "description": "Optimize complex business processes." }
+  ]
+}

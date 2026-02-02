@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "title": "DIGITAL SOLUTIONS CUSTOM CRAFTED FOR EVERY INDUSTRY",
+    "description": "Partner with Go InfoTech for IT solutions that are personalized to align with the specific requirements of your business and lead it toward exponential growth.",
+    "button": {
+      "text": "GET INFO",
+      "bgColor": "#f97316",
+      "onClick": "()=>{}"
+    },
+    "loadCounter": [
+      {
+        "label": "specialists",
+        "limit": 80,
+        "suffix": "+"
+      },
+      {
+        "label": "review rating based on 60+ reviews",
+        "limit": 4.8,
+        "suffix": "/5 stars"
+      },
+      {
+        "label": "of expertise in business",
+        "limit": 2,
+        "suffix": " years"
+      },
+      {
+        "label": "projects successfully delivered",
+        "limit": 40,
+        "suffix": "+"
+      }
+    ]
+  },
+  "showcaseItems": [
+  {
+    "title": "GO FINANCE SOFTWARE",
+    "description": "Go Finance Software is a comprehensive solution designed to revolutionize operations within the finance industry. It serves as a pivotal tool for businesses, offering a range of features aimed at enhancing efficiency and optimizing customer interactions.",
+    "milestones": [
+      "5+ projects delivered successfully.",
+      "20+ committed FinTech software developers.",
+      "4.8/5 Google rating.",
+      "Compliance with financial industry norms and relevant regulations."
+    ],
+    "button": { "text": "VIEW MORE", "bgColor": "#f08a26", "href": "/industries" },
+    "imageSrc": "/industries1.png",
+    "imageAlt": "Go Finance Software illustration"
+  },
+  {
+    "title": "CUSTOMER RELATIONSHIP MANAGEMENT (CRM) SOFTWARE",
+    "description": "Go InfoTech’s meticulously crafted CRM software revolutionizes how your business manages customer relationships. By centralizing customer data and interactions, it offers a comprehensive view of each customer, enabling personalized engagement strategies that drive loyalty and retention.",
+    "milestones": [
+      "7+ projects delivered successfully.",
+      "20+ committed software developers and experts.",
+      "4.8/5 Google rating.",
+      "Centralized customer data management and streamlined interaction"
+    ],
+    "button": { "text": "VIEW MORE", "bgColor": "#f08a26", "href": "/industries" },
+    "imageSrc": "/industries1.png",
+    "imageAlt": "CRM software interface illustration"
+  },
+  {
+    "title": "PHOTO SCANNER SOFTWARE",
+    "description": "Our Photo scanner software is a valuable tool engineered to digitize physical photographs, slides, and documents, preserving memories and enabling easy access to visual content. Our software offers a range of features to ensure high-quality scanning and efficient management of digitized images.",
+    "milestones": [
+      "2+ projects successfully delivered.",
+      "20+ members of our experienced team of developers.",
+      "A team of experts and developers dedicated to project success"
+    ],
+    "button": { "text": "VIEW MORE", "bgColor": "#f08a26", "href": "/industries" },
+    "imageSrc": "/industries1.png",
+    "imageAlt": "Photo scanner software illustration"
+  }
+ ],
+ "solutions":[
+  {
+    "title": "MEDIA & ENTERTAINMENT",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Robust IT Solutions at <b>Digital Marketing Company in Udaipur</b> offers innovative solutions for digital platforms along with <b>SEO Services in Udaipur</b>.</p>    <h2 class='text-2xl font-semibold mt-4 '>AT GO INFOTECH EXPERIENCE:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Interactive Media Platforms</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Content Distribution Networks (CDN)</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Content Management Systems (CMS)</li>        </ul>    <button class='flex items-center gap-2 p-4 text-2xl text-white m-3 rounded-lg bg-orange-400 w-3xs justify-around'>READ MORE > <ArrowRight /></button>    </div>"
+  },
+  {
+    "title": "E-COMMERCE",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Ensuring that the website generates enhanced customer engagement and optimizes the user experience through <b>Digital Marketing Agency in Udaipur</b> generating higher sales.</p>    <h2 class='text-2xl font-semibold mt-4 '>AT GO INFOTECH EXPERIENCE:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>User Experience (UX) Design</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Mobile Commerce (M-commerce)</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Digital Marketing Solutions</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Analytics and Business Intelligence</li>        </ul>    <button class='flex items-center gap-2 p-4 text-2xl text-white m-3 rounded-lg bg-orange-400 w-3xs justify-around'>READ MORE > <ArrowRight /></button>    </div>"
+  },
+  {
+    "title": "FINANCE",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Empowering the financial sector by incorporating the expertise of <b>Software Development company in Udaipur</b> to enhance the security and efficiency of the services.</p>    <h2 class='text-2xl font-semibold mt-4 '>AT GO INFOTECH EXPERIENCE:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Data Analytics and Business Intelligence</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Mobile Banking and Fintech Apps</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Customer Relationship Management (CRM)</li>        </ul>    <button class='flex items-center gap-2 p-4 text-2xl text-white m-3 rounded-lg bg-orange-400 w-3xs justify-around'>READ MORE > <ArrowRight /></button>    </div>"
+  },
+  {
+    "title": "HEALTHCARE",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>We offer cutting-edge solutions for healthcare by making use of managed IT services at <b>Web Development company in Udaipur</b> and digital health technologies.</p>    <h2 class='text-2xl font-semibold mt-4 '>AT GO INFOTECH EXPERIENCE:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Electronic Health Records (EHR) Systems</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Medical Imaging, Picture Archiving and Communication Systems (PACS)</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Health Information Exchange (HIE)</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Clinical Decision Support Systems (CDSS)</li>        </ul>    <button class='flex items-center gap-2 p-4 text-2xl text-white m-3 rounded-lg bg-orange-400 w-3xs justify-around'>READ MORE > <ArrowRight /></button>    </div>"
+  },
+  {
+    "title": "EDUCATION",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Leveraging the excellence of our <b>IT Company in Udaipur</b> to empower educational institutions with digital assistance by our professionals.</p>    <h2 class='text-2xl font-semibold mt-4 '>AT GO INFOTECH EXPERIENCE:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Learning Management Systems (LMS)</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Virtual Classroom Solutions</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Assessment and Evaluation Tools</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Student Information Systems (SIS)</li>        </ul>    </div>"
+  },
+  {
+    "title": "GIS",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Accurate data visualization and incorporation of geospatial data for designing advanced Geographic Information Systems at a <b>Web Development company in Udaipur</b>.</p>    <h2 class='text-2xl font-semibold mt-4 '>AT GO INFOTECH EXPERIENCE:</h2>    <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Spatial Data Capture</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Data Storage and Management</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Spatial Analysis</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Mapping and Visualization</li>          <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Geospatial Modeling</li>        </ul>    </div>"
+  }
+],
+    "whyChooseUs":{
+  "title": "WHY CHOOSE US?",
+  "description": "",
+  "data": [
+    {
+      "title": "TRUSTED AND RENOWNED",
+      "description": "We are dedicated to serving you with excellence, and this is vouched by our client’s unwavering trust in our services, as we are a trusted custom Software Development Company in Udaipur."
+    },
+    {
+      "title": "EXPERTISE AT YOUR SERVICE",
+      "description": "Our team is dedicated to serving you with expertise, knowledge, and professionalism, working to fuel the growth of your business. Choose Go InfoTech Solution for a reliable digital partner."
+    },
+    {
+      "title": "INDUSTRIES' EXPERTISE",
+      "description": "We are a trusted Software Development company in Udaipur, with expertise from different industries all around the world using innovation, knowledge, and skills."
+    }
+  ]
+},
+    "ourServices":{
+  "title": "OUR SERVICES",
+  "description": "",
+  "data": [
+  {
+    "title": "STAFF AUGMENTATION",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p><span style='color: #405ea9;'><b>IT STAFF AUGMENTATION</b></span></p>    <p>We are dedicated to providing you with highly skilled and experienced IT professionals who will help you focus on core aspects so that your business reaches new heights.</p>    <p><span style='color: #405ea9;'><b>COMMITTED TEAM</b></span></p>    <p>Our team at Go InfoTech Solution is a living testament of expertise and knowledge who are committed to meeting your unique business needs.</p>    <p><span style='color: #405ea9;'><b>ON-DEMAND CTO</b></span></p>    <p>We offer CTO services for strategic technological assistance so that your business reaches exponential heights without the overhead of hiring a full-time professional.</p>    </div>"
+  },
+  {
+    "title": "IT CONSULTING",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Our IT Company in Udaipur is here to navigate you in the evolving tapestry of Technology while providing appropriate guidance from highly qualified professionals:</p>    <p><b>TECHNICAL DUE DILIGENCE</b></p>    <p>After conducting a thorough evaluation of your business while assessing the project feasibility, relevant risks, and growth ambition of your project, our team provides strategic insights for your project growth.</p>    <p><b>PROJECT MANAGEMENT AND COORDINATION</b></p>    <p>Our team ensures that your project delivery is timely and effective through proper management and streamlined communication with the development teams.</p>    <p><b>DATA ANALYTICS AND BUSINESS INTELLIGENCE</b></p>    <p>Ensure that you make data-driven decisions by thorough evaluation of your data and gain a competitive advantage over your rivals with our Data analytics and BI services.</p>    </div>"
+  },
+  {
+    "title": "CUSTOM SOFTWARE DEVELOPMENT",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>Our team is committed to delivering unique software solutions to meet your specific business requirements. Our end-to-end development service results in high-performance outcomes that are tailored to your business needs.</p>    <p><span style='color: #405ea9;'><b>WEB DEVELOPMENT</b></span></p>    <p>Aim to develop a user-centric web application that is adaptive, intuitive, visually engaging, and designed to meet the unique needs of your business.</p>    <p><span style='color: #405ea9;'><b>MOBILE DEVELOPMENT</b></span></p>    <p>Crafting a mobile application that is user-friendly, visually appealing, and can be used on Android and iOS platforms to stay updated with the evolving tech.</p>    <p><span style='color: #405ea9;'><b>DISCOVERY PHASE</b></span></p>    <p>We assist you in a thorough evaluation of your business to properly crafting the vision, goals, and intent of the business.</p>    </div>"
+  },
+  {
+    "title": "INTELLIGENCE AUTOMATION",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>We are dedicated to serving you with the best services, incorporating state-of-the-art technologies like AI, machine learning, blockchain, and IoT, while we transform your business to achieve new heights.</p>    <p><span style='color: #405ea9;'><b>AI & ML SOLUTIONS:</b></span></p>    <p>Empower your business to grow by incorporating Artificial Intelligence and Machine Learning to enhance the decision-making process and ensure robust business growth.</p>    <p><span style='color: #405ea9;'><b>BLOCKCHAIN SOLUTIONS:</b></span></p>    <p>Secure and transparent blockchain solutions tailored to your unique needs and industry requirements, ranging from cryptocurrencies to decentralized applications (DApps).</p>    <p><span style='color: #405ea9;'><b>IoT Solutions:</b></span></p>    <p>A seamless interlinkage and data exchange using our IoT solutions between devices, systems, and individuals will fuel the business’s growth.</p>    </div>"
+  },
+  {
+    "title": "MANAGED IT SERVICE",
+    "Desc_html": "<div class='p-4 text-inherit '>    <p>At Go InfoTech Solution, a leading <b>Software Development company in Udaipur</b> we offer managed IT services to foster the growth of your business:</p>    <p><span style='color: #405ea9;'><b>DATABASE DEVELOPMENT SERVICES</b></span></p>    <p>To ensure the effective storage, retrieval, and management of business data, we design, develop, and optimize database development services.</p>    <p><span style='color: #405ea9;'><b>CLOUD & DEVOPS SOLUTIONS</b></span></p>    <p>We incorporate the best practices of DevOps and cloud solutions to expedite software delivery and collaborative space, along with streamlining the entire development and deployment lifecycle.</p>    <p><span style='color: #405ea9;'><b>SOLUTION ARCHITECTURE SERVICES</b></span></p>    <p>Our team is dedicated to designing and deploying adaptive, secure, and high-performance IT infrastructure that is crafted to align with your business objectives.</p>    </div>"
+  }
+]}
+}

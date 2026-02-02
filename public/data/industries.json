@@ -1,0 +1,354 @@
+{
+    "statsSection": {
+    "content": {
+       "bread": {
+        "prefix": "Go-tech Solution| Industries | ",
+        "text": "Healthcare"
+      },
+      "heading": "DIGITAL SOLUTIONS CUSTOM CRAFTED FOR EVERY INDUSTRY",
+      "subheading": "Partner with Go InfoTech for IT solutions that are personalized to align with the specific requirements of your business and lead it toward exponential growth." },
+    "stats": [
+      {
+        "value": 80,
+        "suffix": "+",
+        "label": "specialists"
+      },
+      {
+        "value": 4.8,
+        "suffix": "/5 stars",
+        "label": "review rating based on 60+ reviews",
+        "decimals": 1
+        
+      },
+      {
+        "value": 2,
+        "suffix": " years",
+        "label": "of expertise in business"
+      },
+      {
+        "value": 40,
+        "suffix": "+",
+        "label": "projects successfully delivered"
+      }
+    ]
+  },
+  "selectSidebar": {
+    "headingSidebar": "OUR SOLUTIONS FOR DIFFERENT INDUSTRIES",
+    
+    "services": [
+      {
+        "title": "Media & entertainment",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Robust IT Solutions at Digital Marketing Company in Udaipur offers innovative solutions for digital platforms along with SEO Services in Udaipur.",
+            "highlights": [
+              { "text": "Digital Marketing Company in Udaipur", "link": "/services/digital-marketing-services" },
+              {"text": "SEO Services in Udaipur", "link": "/services/digital-marketing-services"}
+              ]
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "AT GO INFOTECH EXPERIENCE:"
+             
+            }
+          ],
+          "list": [
+            "Interactive Media Platforms",
+            "Content Distribution Networks (CDN)",
+            "Content Management Systems (CMS) "
+          ]
+        },
+        "button": "Read More"
+      },
+      {
+        "title": "e-commerce",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Ensuring that the website generates enhanced customer engagement and optimizes the user experience Digital Marketing Agency in Udaipur generating higher sales.",
+            "highlights": [
+              { "text": "Digital Marketing Agency in Udaipur", "link": "/services/digital-marketing-services" }
+              
+              ]
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "AT GO INFOTECH EXPERIENCE:"
+             
+            }
+          ],
+          "list": [
+            "User Experience (UX) Design",
+            "Mobile Commerce (M-commerce)",
+            "Digital Marketing Solutions ",
+            "Analytics and Business Intelligence"
+          ]
+        },
+         "button": "Read More"
+      },
+      {
+        "title": "Finance",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Empowering the financial sector by incorporating the expertise of Software Development company in Udaipur to enhance the security and efficiency of the services.",
+            "highlights": [
+              { "text": "Software Development company in Udaipur", "link": "/services" }
+              
+              ]
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "AT GO INFOTECH EXPERIENCE:"
+             
+            }
+          ],
+          "list": [
+            "Data Analytics and Business Intelligence",
+            "Mobile Banking and Fintech Apps",
+            "Customer Relationship Management (CRM):",
+            "Mobile Banking and Fintech Apps"
+          ]
+        },
+         "button": "Read More"
+      },
+      {
+        "title": "healthcare",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "We offer cutting-edge solutions for healthcare by making use of managed IT services at Web Development company in Udaipur and digital health technologies.",
+            "highlights": [
+              { "text": "Web Development company in Udaipur", "link": "/services/web-development" }
+              
+              ]
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "AT GO INFOTECH EXPERIENCE:"
+             
+            }
+          ],
+          "list": [
+            "Electronic Health Records (EHR) Systems",
+            "Medical Imaging, Picture Archiving and Communication Systems (PACS)",
+            "Health Information Exchange (HIE)",
+            "Clinical Decision Support Systems (CDSS)"
+          ]
+        },
+         "button": "Read More",
+         "buttonLink": "/industry/healthcare"
+      },
+      {
+        "title": "Education",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Leveraging the excellence of our IT Company in Udaipur to empower educational institutions with digital assistance by our professionals.",
+            "highlights": [
+              { "text": "IT Company in Udaipur", "link": "/industry/fintech" }
+              
+              ]
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "AT GO INFOTECH EXPERIENCE:"
+             
+            }
+          ],
+          "list": [
+            "Learning Management Systems (LMS) ",
+            "Virtual Classroom Solutions",
+            "Assessment and Evaluation Tools ",
+            "Student Information Systems (SIS) "
+          ]
+        },
+         "button": "Read More",
+         "buttonLink":"/industry"
+      },
+      {
+        "title": "Gis",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Leveraging the excellence of our IT Company in Udaipur to empower educational institutions with digital assistance by our professionals.",
+            "highlights": [
+              { "text": "IT Company in Udaipur", "link": "/services/digital-marketing-services" }
+              
+              ]
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "AT GO INFOTECH EXPERIENCE:"
+             
+            }
+          ],
+          "list": [
+            "Spatial Data Capture",
+            "Data Storage and Management",
+            "Spatial Analysis",
+            "Mapping and Visualization",
+            "Geospatial Modeling"
+          ]
+        },
+         "button": "Read More",
+         "buttonLink":"/industry"
+      }
+    ]
+  },
+  "iconTopCard": {
+    "heading": "Why Choose Us",
+    "items": [
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "TRUSTED AND RENOWNED",
+        "description": "We are dedicated to serving you with excellence, and this is vouched by our client’s unwavering trust in our services, as we are a trusted custom Software Development Company in Udaipur.",
+        "highlight": "custom Software Development Company in Udaipur",
+        "highlightLink": "/industry"
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "EXPERTISE AT YOUR SERVICE:",
+        "description": "Our team is dedicated to serving you with expertise, knowledge, and professionalism working to fuel the growth of your business. Choose Go InfoTech Solution for a reliable digital partner."
+      },
+      {
+        "iconPath": "/cardSvg/shield.svg",
+        "title": "INDUSTRIES' EXPERTISE:",
+        "description": "We are a trusted Software Development company in Udaipur, with expertise from different industries all around the world using innovation, knowledge, and skills.",
+        "highlight": "Software Development company in Udaipur",
+        "highlightLink": "/industry"
+      }
+      
+    ]
+  },
+   "services": [
+    {
+      "id": 1,
+      "title": "STAFF AUGMENTATION",
+      "icon": "/Aug.svg",
+      "description": [
+        
+        { "title": "IT STAFF AUGMENTATION",
+         "link": "/industry",
+         "content": "We are dedicated to providing you with highly skilled and experienced IT professionals who will help you focus on core aspects so that your business reaches new heights."
+        },
+        {
+           "title": "COMMITTED TEAM",
+         "content": "Our team at Go Tech Solution is a living testament of expertise and knowledge who are committed to meeting your unique business needs."
+        },
+        {
+          "title": "ON-DEMAND CTO",
+          "content": "We offer CTO services for strategic technological assistance so that your business reaches exponential heights without any overhead of hiring a full-time professional."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "IT CONSULTING",
+      "icon": "/ItConsul.svg",
+     "description": [
+      {
+        "content": "Our IT Company in Udaipur is here to navigate you in the evolving tapestry of Technology while providing appropriate guidance from highly qualified professionals:"
+      },
+      {
+        "title": "TECHNICAL DUE DILIGENCE",
+        "content": "After conducting a thorough evaluation of your business while assessing the project feasibility, relevant risks, and growth ambition of your project, our team provides strategic insights for your project growth."
+      },
+      {
+        "title": "PROJECT MANAGEMENT AND COORDINATION",
+        "content": "Our team ensures that your project delivery is timely and effective through proper management and streamlined communication with the development teams."
+      },
+      {
+        "title": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "content": "Ensure that you make data-driven decisions by thorough evaluation of your data and gain a competitive advantage over your rivals with our Data analytics and BI services."
+      }
+    ]
+    },
+     {
+      "id": 3,
+      "title": "CUSTOM SOFTWARE DEVELOPMENT",
+      "icon": "/CUS.svg",
+      "description": [
+        { 
+         "content": "Our team is committed to delivering unique software solutions to your specific business requirements. Our end-to-end development service results in high-performance outcomes that are structured to your business needs."
+        },
+         { "title": "WEB DEVELOPMENT",
+         "link": "/industry",
+         "content": "Aim to develop a user-centric web application that is adaptive, intuitive, visually engaging, and designed to meet the unique needs of your business."
+        },
+         { "title": "MOBILE DEVELOPMENT",
+         "link": "/industry",
+         "content": "Crafting a mobile application that is user-friendly, visually appealing, and can be used on Android and iOS platforms to stay updated with the evolving tech."
+        },
+         { "title": "DISCOVERY PHASE",
+         "content": "We assist you in a thorough evaluation of your business for properly crafting the vision, goals, and intent of the business."
+        }
+      ]
+    },
+     {
+      "id": 4,
+      "title": "INTELLIGENT AUTOMATION",
+      "icon": "/intel.svg",
+     "description": [
+        { 
+         "content": " We are dedicated to serving you with the best services incorporating state-of-the-art technologies like AI, machine learning, blockchain, and IoT, while we transform your business to achieve new heights."
+        },
+         { "title": "AI & ML SOLUTIONS",
+         "link": "/industry",
+         "content": "Empower your business to grow by incorporating Artificial Intelligence and Machine Learning to enhance the decision making process and robust growth of business."
+        },
+         { "title": "BLOCKCHAIN SOLUTIONS",
+         "link": "/industry",
+         "content": "Secure and transparent blockchain solutions tailored to your unique needs and industry requirements, ranging from cryptocurrencies to decentralized applications (DApps)."
+        },
+         { "title": "IoT Solutions",
+         "content": "A seamless interlinkage and data exchange using our IoT Solutions between devices, systems and individuals which will fuel the growth of the business."
+        }
+      ]
+    },
+     {
+      "id": 5,
+      "title": "MANAGED IT SERVICES",
+      "icon": "/manage.svg",
+      "description": [
+        { 
+         "content": "At Go InfoTech Solution, a leading [Software Development company in Udaipur](https://example.com/services) we offer managed IT services to foster the growth of your business:"
+         },
+          { "title": "DATABASE DEVELOPMENT SERVICES",
+         "content": "To ensure the effective storage, retrieval, and management of business data we design, develop and optimize database development services."
+         },
+          { "title": "CLOUD & DEVOPS SOLUTIONS",
+         "content": "We incorporate the best practices of DevOps and cloud solutions to expedite software delivery and collaborative space along with streamlining the entire development and deployment lifecycle."
+         },
+          { "title": "SOLUTION ARCHITECTURE SERVICES",
+         "content": "Our team is dedicated to designing and deploying adaptive, secure, and high-performance IT infrastructure that is crafted to align with your business objectives."
+         }
+      ]
+    }
+  ]
+}

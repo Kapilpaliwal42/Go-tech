@@ -1,0 +1,77 @@
+{
+  "hero": {
+    "title": "DIGITAL MARKETING SERVICES",
+    "subtitle": "Boost your online presence and drive business growth with our expert digital marketing services. From SEO to social media management, we tailor strategies to meet your unique needs."
+  },
+  "loadCounter": [
+    { "limit": 25, "label": "digital marketing experts", "suffix": "+" },
+    { "limit": 150, "label": "successful campaigns", "suffix": "+" },
+    { "limit": 5, "label": "of digital expertise", "suffix": "years" },
+    { "limit": 4.8, "label": "client satisfaction", "suffix": "/5" }
+  ],
+  "whyChooseUsData": [
+    { "icon": "UserCheck", "title": "OUR CLIENT'S EXPERIENCE", "description": "Proven results for diverse businesses." },
+    { "icon": "BadgeCheck", "title": "TOP DIGITAL MARKETING SPECIALISTS", "description": "Industry experts on our team." },
+    { "icon": "ShieldCheck", "title": "PROPRIETARY TECHNOLOGY", "description": "Advanced analytics and automation tools." },
+    { "icon": "TrendingUp", "title": "GUARANTEED PROJECT CONSISTENCY", "description": "Reliable execution and delivery." },
+    { "icon": "Globe", "title": "GLOBAL COVERAGE", "description": "24/7 support across time zones." },
+    { "icon": "LayoutGrid", "title": "WIDE RANGE OF SERVICES", "description": "Complete digital marketing solutions." }
+  ],
+  "servicesData": [
+    {
+      "title": "SOCIAL MEDIA MARKETING",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Build and engage your audience on social platforms.</p></div>"
+    },
+    {
+      "title": "SEO OPTIMIZATION",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Improve search rankings and organic traffic.</p></div>"
+    },
+    {
+      "title": "CONTENT MARKETING",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Create compelling content that converts.</p></div>"
+    },
+    {
+      "title": "EMAIL MARKETING",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Automated campaigns that drive conversions.</p></div>"
+    },
+    {
+      "title": "PAID ADVERTISING",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Strategic PPC and display campaigns.</p></div>"
+    },
+    {
+      "title": "ANALYTICS & REPORTING",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Data-driven insights and performance tracking.</p></div>"
+    }
+  ],
+  "techStackData": [
+    {
+      "title": "SOCIAL MEDIA MANAGEMENT",
+      "desc": "Tools for managing social presence.",
+      "points": ["Hootsuite", "Buffer", "Sprout Social"]
+    },
+    {
+      "title": "SEARCH ENGINE OPTIMIZATION",
+      "desc": "SEO tools and techniques.",
+      "points": ["Ahrefs", "SEMrush", "Moz"]
+    },
+    {
+      "title": "EMAIL MARKETING",
+      "desc": "Email marketing platforms.",
+      "points": ["HubSpot", "Mailchimp", "ConvertKit"]
+    },
+    {
+      "title": "SOCIAL MEDIA CAMPAIGNS",
+      "desc": "Campaign management and optimization.",
+      "points": ["Facebook Ads", "Google Ads", "LinkedIn Ads"]
+    }
+  ],
+  "industriesData": [
+    { "title": "FINANCE", "description": "Financial services marketing." },
+    { "title": "HEALTHCARE", "description": "Healthcare and wellness marketing." },
+    { "title": "MEDIA & ENTERTAINMENT", "description": "Entertainment and media promotion." },
+    { "title": "AUTOMOTIVE", "description": "Automotive industry marketing." },
+    { "title": "EDUCATION", "description": "Educational institution marketing." },
+    { "title": "E-COMMERCE", "description": "E-commerce growth and optimization." },
+    { "title": "GIS", "description": "Geospatial services marketing." }
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "statsSection": {
+    "content": {
+       "bread": {
+        "prefix": "Go-Tech Solution | Services | ",
+        "text": "Android App Development Services"
+      },
+      "heading": "ANDROID APP DEVELOPMENT SERVICE",
+      "subheading": "Delivering an exceptional user experience in the Android tapestry: Customize solutions that align with your unique business needs."
+    },
+    "stats": [
+      {
+        "value": 30,
+        "suffix": "+",
+        "label": "mobile development experts"
+      },
+      {
+        "value": 60,
+        "suffix": "+",
+        "label": "successful projects"
+        
+      },
+      {
+        "value": 8,
+        "suffix": " years",
+        "label": "of expertise in business"
+      },
+      {
+        "value": 4.8,
+        "suffix": "/5 stars",
+        "label": "overall review rating based on 55+ reviews",
+        "decimals": "1"
+      }
+    ]
+
+  },
+  
+  "techStack": {
+    "heading": "ANDROID TECH EXPERTISE",
+    "categories": [
+      {
+        "key": "frontend",
+        "label": "MOBILE TECHNOLOGIES",
+        "department": {
+          "title": "MOBILE TECHNOLOGIES",
+          "description": "Our team comprises highly skilled Full Stack developers with extensive experience in delivering successful projects across diverse industries.",
+          "subtitle": "WHERE DO WE IMPLEMENT:",
+          "stats": [
+            "Developing Android apps using Java & Kotlin",
+            "Designing cross-platform applications with Dart (Flutter) & JavaScript (React Native)",
+            "High-quality, compatibility & optimized performance across devices"
+          ],
+          "technologies": [
+            { "name": "Angular", "icon": "/Angular-icon.png" },
+            { "name": "React JS", "icon": "/React-JS.png" },
+            { "name": "Vue", "icon": "/Vue.png" }
+          ]
+        }
+      },
+      {
+        "key": "backend",
+        "label": "BACKEND TECHNOLOGIES",
+        "department": {
+          "title": "BACKEND TECHNOLOGIES",
+          "description": "We utilize advanced backend technologies to develop powerful, scalable, and effective server-side solutions that support Android applications.",
+           "subtitle": "WHERE DO WE IMPLEMENT:",
+          "stats": [
+            "Designing scalable APIs by making use of Node.js and Django.",
+            "Developing resilient web services with Ruby on Rails and .NET Core.",
+            "Integrating databases & safeguarding protocols with Java Spring Boot."
+          ],
+          "technologies": [
+           { "name": ".NET", "icon": "/NET-1.png" },
+{ "name": "Go", "icon": "/GOlang-1.png" },
+{ "name": "Java", "icon": "/Java-1.png" },
+{ "name": "Scala", "icon": "/Scala-1.png" },
+{ "name": "Node JS", "icon": "/NodeJS-1.png" },
+{ "name": "PHP", "icon": "/PHP-1.png" },
+{ "name": "Python", "icon": "/Python-1.png" },
+{ "name": "Ruby", "icon": "/Ruby-1.png" },
+{ "name": "Rust", "icon": "/Rust-1.png" }
+
+          ]
+        }
+      },
+      {
+        "key": "mobile",
+        "label": "CLOUD PLATFORMS",
+        "department": {
+          "title": "CLOUD PLATFORMS",
+          "description": "Establishing a safe, secure, scalable, and interactive environment for global access of the Android application across all platforms.",
+           "subtitle": "WHERE DO WE IMPLEMENT:",
+          "stats": [
+            "Deploying apps on Amazon Web Services (AWS) and Google Cloud Platform (GCP).",
+            "Harnessing Microsoft Azure’s tools for refined app functionalities.",
+            "Validating rapid deployment & scalability via Heroku and DigitalOcean."
+          ],
+          "technologies": [
+            { "name": "Flutter", "icon": "/Angular-icon.png" },
+{ "name": "Ionic", "icon": "/Ionic-1.png" },
+{ "name": "Kotlin", "icon": "/Kotlin-1.png" },
+{ "name": "React Native", "icon": "/React-Native-1.png" },
+{ "name": "Swift", "icon": "/Swift-1.png" }
+
+          ]
+        }
+      }
+      
+    ]
+  },
+ "iconTopCard": {
+    "heading": "Why Choose Us",
+    "items": [
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "TRUSTED AND RENOWNED",
+        "description": "We are dedicated to serving you with excellence, and this is vouched by our client’s unwavering trust in our services, as we are a trusted custom Software Development Company in Udaipur.",
+        "highlight": "custom Software Development Company in Udaipur",
+        "highlightLink": "/services/web-development"
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "EXPERTISE AT YOUR SERVICE:",
+        "description": "Our team is dedicated to serving you with expertise, knowledge, and professionalism working to fuel the growth of your business. Choose Go InfoTech Solution for a reliable digital partner."
+      },
+      {
+        "iconPath": "/cardSvg/shield.svg",
+        "title": "INDUSTRIES' EXPERTISE:",
+        "description": "We are a trusted Software Development company in Udaipur, with expertise from different industries all around the world using innovation, knowledge, and skills.",
+        "highlight": "Software Development company in Udaipur",
+        "highlightLink": "/services/web-development"
+      },
+      {
+        "iconPath": "/cardSvg/folder.svg",
+        "title": "HIGH SATISFACTION RATES",
+        "description": "Empower your business with promising results and IT solutions by professionals who are dedicated to serving you right."
+        
+      },
+      {
+        "iconPath": "/cardSvg/globe.svg",
+        "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+        "description": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "WIDE RANGE OF SERVICES",
+        "description": "Offering software development services, including custom software development, mobile app development, web application development, software maintenance and support, and more."
+        
+      }
+    ]
+  },
+  "gridBlueCard": {
+    "heading": "TECH INNOVATIONS FOR YOUR ANDROID APP",
+    "subheading": "Bridging the gap between technology and diverse industries with customized Android applications that drive growth and innovation",
+    "items": [
+      {
+        "title": "WEB DEVELOPMENT",
+        "description": "Our specialty is building gorgeous, responsive websites that are customized to your company's requirements.",
+        "path": "/services/web-development"
+        
+      },
+      {
+        "title": "MOBILE APP",
+        "description": "For the iOS and Android operating systems, we develop beautiful, intuitive mobile applications.",
+        "path": "/services/mobile-app-development"
+      },
+      {
+        "title": "DEVOPS",
+        "description": "Robust IT Solutions at Digital Marketing Company in Udaipur offering innovative solutions for digital platforms along with SEO Services in Udaipur.",
+        "path": "/services/devops"
+      },
+       {
+        "title": "DIGITAL MARKETING",
+        "description": "Our premium digital marketing services are intended to increase your online visibility and quicken the expansion of your company.",
+       "path": "/services/digital-marketing-services"
+      }
+     
+    ]
+  },
+  "selectSidebar": {
+    "headingSidebar": "OUR SERVICES",
+    
+    "services": [
+      {
+        "title": "STAFF AUGMENTATION FOR ANDROID PRODUCTS",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "We make sure to enhance your team’s proficiency with seasoned Android developers. We are dedicated to serving you with excellence while incorporating scalability, efficiency, and expertise that is custom-curated to your unique needs."
+           
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "WHY PARTNER WITH US:"
+             
+            }
+          ],
+          "list": [
+            "Access to highly-skilled Android developers.",
+            "Flexible models that align with your project’s scale & complexity.",
+            "Streamlined integration with your existing team & operations.",
+            "Cost-effective solutions for your unique development needs.",
+            "Expertise in the evolving Android technologies."
+          ]
+        }
+        
+      },
+      {
+        "title": "ANDROID NATIVE APP DEVELOPMENT",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "We offer exceptional services by designing high-quality Android Native Apps that are custom-curated by using your ideas as a base and making sure that they are responsive to the Android platform’s capabilities."
+           
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": " REACH OUT TO US FOR:"
+             
+            }
+          ],
+          "list": [
+            "Seamless & Efficient Native Android apps;",
+            "Harnessing Android-specific Features & functionalities",
+            "Compatibility with Diverse Android Devices."
+            
+          ]
+        }
+         
+      },
+      {
+        "title": "HYBRID APP DEVELOPMENT",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "We specialize in developing hybrid apps that are integrated with native and web solutions that are crafted by making use of standard web technologies and enclosed within a native app shell."
+            
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "PARTNER WITH US FOR:"
+             
+            }
+          ],
+          "list": [
+            "Uniform Applications across various Platforms.",
+            "Rapid development cycles utilizing a single codebase.",
+            "Cost-effective solutions that are akin to native applications."
+            
+          ]
+        }
+         
+      },
+      {
+        "title": "MOBILE APP UI/UX DESIGN",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "We stand as a prominent Web Development company in Udaipur, known for our exceptional delivery of quality mobile applications to entrepreneurs, startups, and businesses that are feature-rich and visually appealing.",
+            "highlights": [
+              { "text": "Web Development company in Udaipur", "link": "https://example.com/digital" }
+              
+              ]
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": " WORK WITH US FOR:"
+             
+            }
+          ],
+          "list": [
+            "User-Centric Designs that boost engagement.",
+            "Engaging Wireframing and Prototyping.",
+            "Uniform Design coherence across diverse Android Devices"
+           
+          ]
+        }
+        
+      },
+      {
+        "title": "MULTI-DEVICE ANDROID DEVELOPMENT",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Our custom Android apps provide intelligent business solutions for clients across multiple industries. Go-Tech’s Android apps for smartphones, tablets, and Android TV help our partners carve out a niche using apps that are fully compatible with all devices and the latest Android operating systems and make a real impact in the online marketplace. "
+           
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "HARMONIZING THE USE OF ANDROID:"
+             
+            }
+          ],
+          "list": [
+            "Crafting adaptable Apps for different screens & resolutions",
+            "Leveraging Android’s adaptability for diverse devices",
+            "Maintaining Uniform UI/UX across Android devices",
+            "Improving performance on resource-limited devices",
+            "Seamless Incorporation of device-specific features & capabilities"
+          ]
+        }
+       
+      },
+       {
+        "title": "TECHNICAL AUDIT & CONSULTATION",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Harnessing the expertise of our team in responsive Android app development. We meticulously ensure that the app is optimized and feature-rich while conducting thorough audits and consultations with the client."
+            
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "PARTNER WITH US FOR:"
+             
+            }
+          ],
+          "list": [
+            "Technical issues & infrastructural flaws",
+            "Comprehensive reports with actionable suggestions",
+            "Optimizing Android solutions for efficient performance."
+            
+          ]
+        }
+       
+      },
+      {
+        "title": "THIRD-PARTY INTEGRATION",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "We make sure to streamline your Android apps with external systems and data sources, elevated functionality, and user experience."
+            
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "JOIN HANDS WITH US FOR:"
+             
+            }
+          ],
+          "list": [
+            "Smooth integration of payment processors, analytics, and more",
+            "Secure data exchange with third-party services.",
+            "Feature-rich app & external functionality"
+            
+          ]
+        }
+        
+      }
+     
+    ]
+  },
+    "callToAction": {
+    "title": "Go Infotech Solution — SOFTWARE DEVELOPMENT COMPANY, INFUSES YOUR BUSINESS WITH DYNAMIC MOBILITY.",
+    
+    "buttonText": "contact us",
+    "textColor1": "text-white",
+    "textColor": "text-white"
+    
+
+  },
+   "whiteBgCard": {
+    
+    "heading":"ANDROID SOLUTIONS TO INDUSTRY-SPECIFIC NEEDS",
+    "subheading":"Connecting technology with different industries through tailored Android applications for enhanced growth and innovation.",
+    
+    "whitecards": [
+        
+      {
+        "title": "EDUCATION",
+        "description": ["Developing Android apps that result in e-learning, integration of assignments, and elevated student engagement."]
+      },
+     {
+        "title": "HEALTHCARE",
+        "description": ["Integrating operations like telemedicine, scheduling appointments, monitoring healthcare, & more by developing Android Solutions."]
+      },
+      {
+        "title": "FINTECH",
+        "description": ["Crafting an Android application that is secure for monetary monitoring sectors like banking, insurance, and fintech with an interactive and scalable user interface."]
+      },
+      {
+        "title": "MEDIA & ENTERTAINMENT",
+        "description": ["Designing Android apps for seamless content management, a visually appealing user interface, & engaging platforms. "]
+      },
+      {
+        "title": "E-COMMERCE",
+        "description": ["Creating Android platforms for hassle-free product browsing, predictive analysis, enhanced customer engagement, & value delivery."]
+      },
+      {
+        "title": "AUTOMOTIVE",
+        "description": ["Developing apps that optimize the vehicle's capabilities by offering navigation, diagnostics, & a car stereo system."]
+      },
+      
+      
+      {
+        "title": "GIS",
+        "description": ["Creating Android applications for gathering data, conducting spatial analysis, and visualizing maps within Geographic Information Systems." ]
+      }
+      
+    ]
+  },
+   "cardMethodology": {
+    "heading": "WHOM WE SERVE",
+    
+    "items": [
+      {
+        "title": "LAUNCHING ANEW",
+        "description": "Trusted partners for businesses that are stepping into the mobile world for the first time, especially startups, for a responsive, interactive, and feature-rich Android application tailored to the unique needs of your business.",
+        "iconPath": "/cardSvg/globe.svg",
+        "titleLink": "/services",
+        "iconLink": "/services/web-development"
+      },
+      {
+        "title": "MIGRATING FROM MVP TO NATIVE",
+        "description": "Organizations that initially incorporated a low code/no code MVP and are now migrating to a native product to enhance their ROI and offer an improved user experience.",
+        "iconPath": "/cardSvg/folder.svg",
+         "titleLink": "/services",
+        "iconLink": "/services/web-development"
+      },
+      {
+        "title": "IN-HOUSE TEAM AUGMENTATION",
+        "description": "Companies are planning on expanding with Android experts within their existing teams. We integrate productivity and knowledge into your organizational operations.",
+          "titleLink": "/services",
+        "iconPath": "/cardSvg/contact.svg",
+        "iconLink": "/services/web-development"
+      
+      },
+       {
+        "title": "SIMULTANEOUS ANDROID AND IOS DEVELOPMENT",
+        "description": "Businesses that are aiming for expansion on the Android and iOS platforms simultaneously. We specialize in providing a unified mobile app experience to users of different devices by complementing the existing in-house teams.",
+          "titleLink": "/services",
+        "iconPath": "/cardSvg/contact.svg",
+        "iconLink": "/services/web-development"
+      
+      }
+    ]
+  }
+
+}

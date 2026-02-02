@@ -1,0 +1,413 @@
+{
+  "statsSection": {
+    "content": {
+       "bread": {
+        "prefix": "Go-tech Solution | Industries | ",
+        "text": "Automotive"
+      },
+      "heading": "AUTOMOTIVE SOFTWARE DEVELOPMENT",
+      "subheading": "Empower your automotive business with meticulously crafted software solutions for your automotive business at Go InfoTech."
+    },
+    "stats": [
+      {
+        "value": 5,
+        "suffix": "+",
+        "label": "successful FinTech projects delivered"
+      },
+      {
+        "value": 10,
+        "suffix": "+",
+        "label": "Specialist in the Financial sector"
+      },
+      {
+        "value": 2,
+        "suffix": "+",
+        "label": "years of expertise in the business"
+      },
+      {
+        "value": 4.8,
+        "suffix": "/5",
+        "label": "review rating based on 55+ reviews",
+        "decimals": "1"
+      }
+    ]
+  },
+  "iconTopCard": {
+    "heading": "WHY CHOOSE GO INFOTECH AS YOUR PARTNER",
+    "items": [
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "OUR CLIENT'S EXPERIENCE",
+        "description": "Our clients have said it too, Go InfoTech has proved to be an expert custom Software Development Company in Udaipur driving seamless growth for our clients and showcasing our proficiency in web development.",
+        "highlight": "custom Software Development Company in Udaipur",
+        "highlightLink": "/services/web-development"
+      },
+      {
+        "iconPath": "/cardSvg/globe.svg",
+        "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+        "description": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "WIDE RANGE OF SERVICES",
+        "description": "As a leading Web Development company in Udaipur, we offer custom team augmentation in software development, mobile app development, web application development, software maintenance and support, and more.",
+        "highlight": "Web Development company in Udaipur",
+        "highlightLink": "/services/web-development"
+      },
+      {
+        "iconPath": "/cardSvg/shield.svg",
+        "title": "TRUSTED AND RENOWNED",
+        "description": "We are dedicated to serving you with excellence, and this is vouched by our client's unwavering trust in our services, as we are a trusted custom Software Development Company in Udaipur.",
+        "highlight": "custom Software Development Company in Udaipur",
+        "highlightLink": "/services/web-development"
+      },
+      {
+        "iconPath": "/cardSvg/folder.svg",
+        "title": "INDUSTRIES' EXPERTISE",
+        "description": "We are a trusted Software Development company in Udaipur, with expertise in FinTech solutions while using innovation, knowledge, and skills from all around the world.",
+        "highlight": "Software Development company in Udaipur",
+        "highlightLink": "/services/web-development"
+      },
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "EXPERTISE AT YOUR SERVICE",
+        "description": "Our team is dedicated to serving you with expertise, knowledge, and professionalism, working to fuel the growth of your business. Choose Go InfoTech Solution for a reliable digital partner."
+      }
+    ]
+  },
+  "selectSidebar2": {
+    "headingSidebar": "GO FINANCE SOFTWARE DEVELOPMENT SERVICES WE OFFER",
+
+     "services": [
+    {
+      "title": "STAFF AUGMENTATION FOR AUTOMOTIVE IT PRODUCTS",
+      "content": {
+        "paragraphs": [
+          {
+            "text": "Add the expertise of Go InfoTech Solution to your existing team, and make sure you augment it with highly specialized and experienced professionals from the most trusted Custom Software Development Company in Udaipur.",
+            "highlights": [
+              { "text": "Custom Software Development Company in Udaipur", "link": "https://go-techsolution.com/web-development-company-in-udaipur/" }
+            ]
+          }
+        ],
+        "sections": [],
+        "list": []
+      },
+      "button": "READ MORE"
+    },
+    {
+      "title": "CAR RENTAL MANAGEMENT SOFTWARE SOLUTIONS",
+      "content": {
+        "paragraphs": [
+          {
+            "text": "At Go InfoTech, we offer comprehensive software solutions for car rental services designed to revolutionize operations within the automotive industry.",
+            "highlights": []
+          }
+        ],
+        "sections": [
+          {
+            "heading": "OFFERING FUNCTIONALITIES:"
+          }
+        ],
+        "list": [
+          "Scheduling and Booking administration",
+          "Automotive fleet administration", 
+          "Pricing policies"
+        ]
+      },
+      "button": null
+    },
+    {
+      "title": "VEHICLE DIAGNOSTIC SOFTWARE SOLUTIONS",
+      "content": {
+        "paragraphs": [
+          {
+            "text": "Incorporate meticulously planned, AI-driven risk assessment software solutions for vehicle diagnosis, which will include regular vehicle maintenance.",
+            "highlights": []
+          }
+        ],
+        "sections": [
+          {
+            "heading": "FUNCTIONALITIES OF OUR SOFTWARE SOLUTIONS:"
+          }
+        ],
+        "list": [
+          "Identify faults and issues",
+          "Assessment of vehicle performance",
+          "Recommending maintenance actions"
+        ]
+      },
+      "button": null
+    },
+    {
+      "title": "AUTONOMOUS CAR SOFTWARE DEVELOPMENT",
+      "content": {
+        "paragraphs": [
+          {
+            "text": "Lead the way in innovation with state-of-the-art autonomous vehicle software. We are excellent at enabling the smooth integration of many autonomous features.",
+            "highlights": []
+          }
+        ],
+        "sections": [
+          {
+            "heading": "AUTONOMOUS FEATURES:"
+          }
+        ],
+        "list": [
+          "Self-navigation",
+          "Obstacle detection", 
+          "Automated parking"
+        ]
+      },
+      "button": null
+    },
+    {
+      "title": "CONNECTIVITY AND TELEMATICS SOLUTIONS",
+      "content": {
+        "paragraphs": [
+          {
+            "text": "Responsive vehicle connectivity with telematics solutions.",
+            "highlights": []
+          }
+        ],
+        "sections": [
+          {
+            "heading": "FUNCTIONALITIES OF OUR SOFTWARE SOLUTIONS:"
+          }
+        ],
+        "list": [
+          "Implementation of real-time vehicle tracking",
+          "Remote diagnostics",
+          "Advanced navigation systems"
+        ]
+      },
+      "button": null
+    },
+    {
+      "title": "FLEET MANAGEMENT SOFTWARE",
+      "content": {
+        "paragraphs": [
+          {
+            "text": "We offer smooth fleet solutions for your customers with our fleet management software.",
+            "highlights": []
+          }
+        ],
+        "sections": [
+          {
+            "heading": "FUNCTIONALITIES OF OUR SOFTWARE SOLUTIONS:"
+          }
+        ],
+        "list": [
+          "Deployment of live vehicle tracking",
+          "Scheduling and easy vehicle booking options",
+          "Enhanced routing technology"
+        ]
+      },
+      "button": null
+    }
+  ]
+  },
+  "techStack": {
+    "heading": "TECH STACK",
+    "categories": [
+      {
+        "key": "frontend",
+        "label": "FRONT-END DEVELOPMENT",
+        "department": {
+          "title": "FRONT-END DEVELOPMENT",
+          "description": "Empower your business with our expert front-end solutions focusing fundamentally on the smooth user experience and effectively handle your needs and preferences and aligning it to the industry’s unique requirement.",
+          "subtitle": "OUR FRONT-END DEPARTMENT HAS:",
+          "stats": [
+            "20+ Front-end developers",
+            "8 years of experience",
+            "4.8 rating on Google"
+          ],
+          "technologies": [
+            {
+              "name": "Angular",
+              "icon": "/Angular-icon.png",
+              "url": "https://react.dev"
+            },
+            { "name": "React JS", "icon": "/React-JS.png" },
+            { "name": "Vue", "icon": "/Vue.png" }
+          ]
+        }
+      },
+      {
+        "key": "backend",
+        "label": "BACK-END DEVELOPMENT",
+        "department": {
+          "title": "BACK-END DEVELOPMENT",
+          "description": "We help you build a strong foundation for your software and applications with scalable and secure back-end systems that will enable you to handle all your tasks seamlessly and result in the robust growth of your business. ",
+          "subtitle": "OUR BACK-END DEPARTMENT HAS:",
+          "stats": [
+            "20+ Back-end developers;",
+            "8 years of experience;",
+            "4.8 rating on Google"
+          ],
+          "technologies": [
+            { "name": ".NET", "icon": "/NET-1.png" },
+            { "name": "Go", "icon": "/GOlang-1.png" },
+            { "name": "Java", "icon": "/Java-1.png" },
+            { "name": "Scala", "icon": "/Scala-1.png" },
+            { "name": "Node JS", "icon": "/NodeJS-1.png" },
+            { "name": "PHP", "icon": "/PHP-1.png" },
+            { "name": "Python", "icon": "/Python-1.png" },
+            { "name": "Ruby", "icon": "/Ruby-1.png" },
+            { "name": "Rust", "icon": "/Rust-1.png" }
+          ]
+        }
+      },
+      {
+        "key": "mobile",
+        "label": "MOBILE APP DEVELOPMENT",
+        "department": {
+          "title": "MOBILE APP DEVELOPMENT",
+          "description": "Our team of dedicated experts and developers at the leading IT Company in Udaipur is here to skillfully craft captivating and functional mobile apps for Android and iOS platforms, crafted to meet your unique needs and reach out target audience.",
+          "subtitle": "OUR MOBILE DEPARTMENT HAS:",
+          "stats": [
+            "10+ Mobile developers",
+            "8 years of experience",
+            "4.8 rating on Google"
+          ],
+          "technologies": [
+            { "name": "Flutter", "icon": "/Flutter-1.png" },
+            { "name": "Ionic", "icon": "/Ionic-1.png" },
+            { "name": "Kotlin", "icon": "/Kotlin-1.png" },
+            { "name": "React Native", "icon": "/React-Native-1.png" },
+            { "name": "Swift", "icon": "/Swift-1.png" }
+          ]
+        }
+      },
+      {
+        "key": "uiux",
+        "label": "UI/UX DESIGN",
+        "department": {
+          "title": "UI/UX DESIGN",
+          "description": "Through our user-centric approach we are successful in reaching the target audience via our  visually appealing UI/UX designs that are user-friendly and lead to an exceptional user experience on all platforms.",
+          "subtitle": "OUR MOBILE DEPARTMENT HAS:",
+          "stats": [
+            "12+ Designers",
+            "6 years of experience",
+            "4.7 rating on Google"
+          ],
+          "technologies": [
+            { "name": "Figma", "icon": "/Figma-1.png" },
+            { "name": "Adobe XD", "icon": "/Adobe_XD-1.png" },
+            { "name": "Sketch", "icon": "/Sketch-1.png" },
+            { "name": "InVision", "icon": "/Invision-1.png" },
+            { "name": "Zeplin", "icon": "/Zeplin-1.png" },
+            { "name": "FigJam", "icon": "/FigJam-1.png" },
+            { "name": "Miro", "icon": "/Miro-1.png" },
+            { "name": "Maze", "icon": "/Maze-1.png" },
+            { "name": "Protopie", "icon": "/Protopie-1.png" }
+          ]
+        }
+      }
+    ]
+  },
+  "callToAction": {
+    "title": "ADVANTAGES OF PARTNERING WITH GO INFOTECH FOR FINTECH SOFTWARE DEVELOPMENT",
+    "buttonText": "All Services",
+    "textColor1": "text-darkBlue",
+    "textColor": "text-darkBlue"
+  },
+  "whiteBgCard": {
+    "whitecards": [
+      {
+        "title": "BUSINESS-ORIENTED PERSONALIZATION",
+        "description": [
+          "We offer comprehensive software solutions that are custom-developed to your specific business requirements."
+        ]
+      },
+      {
+        "title": "OPTIMIZED PERFORMANCE AND FLEXIBILITY",
+        "description": [
+          "Explore the FinTech expertise of our professionals, offering high-quality performance and scalability in the software solutions offered."
+        ]
+      },
+      {
+        "title": "COLLABORATE WITH CUTTING-EDGE TECHNOLOGIES",
+        "description": [
+          "We partner with updated technology tools to elevate performance and drive sales. We make use of AI, blockchain, and data analytics for effective operations."
+        ]
+      },
+      {
+        "title": "ADHERENCE TO REGULATORY COMPLIANCE AND SECURITY",
+        "description": [
+          "At Go InfoTech, we value your credibility, which is why we prioritize security in our software solutions while simultaneously focusing on regulatory compliance."
+        ]
+      },
+      {
+        "title": "FACILITATING SCALABILITY AND INTEGRATION",
+        "description": [
+         "We offer scalable solutions for facilitating seamless transactions and the integration of social media platforms while offering a compatible and interactive interface."
+        ]
+      },
+      {
+        "title": "EFFECTIVE SUPPORT AND REAL-TIME MAINTENANCE",
+        "description": [
+          "We believe in offering real-time support and assistance to our clients while paying deliberate attention to their unique needs and requirements."
+        ]
+      }
+    ]
+  },
+  "boxBaseBord": {
+    "headsection": "PRODUCT DELIVERY ROADMAP",
+
+    "steps": [
+      {
+        "title": "DISCOVERY & PLANNING",
+        "description": "Embarking on the journey of manifesting your vision into reality through our expert assistance, we understand your vision and iteration and conduct comprehensive analysis and strategies for our move.",
+        "result": "Detailed planning and comprehensive analysis"
+      },
+      {
+        "title": "DESIGN & PROTOTYPING",
+        "description": "Designing and developing prototypes of your vision while engaging our UI/UX designers in the project.",
+        "result": "An engaging and feature-rich prototype"
+      },
+      {
+        "title": "PRODUCT DEVELOPMENT & TESTING",
+        "description": "Our team of developers is dedicated to building a product that is functional, feature-rich, and offers high-quality performance.",
+        "result": "Development and testing of MVP"
+      },
+      {
+        "title": "LAUNCH & CONTINUOUS IMPROVEMENT",
+        "description": "Our team is at your service to serve you with excellence. We take into account your unique feedback and aim for continuous improvement.",
+        "result": "Launching of MVP and incorporating feedback improvement."
+      }
+    ]
+  }, 
+  "cardMethodology": {
+    "heading": "WHOM WE SERVE",
+    "items": [
+      {
+        "title": "AUTOMOTIVE STARTUPS",
+        "description": "We take pride in our professional developers, designers, and specialists who have delivered excellence in software solutions customized to their unique automotive business needs.",
+        "iconPath": "/cardSvg/contact.svg",
+        "highlight": "Software Development company in Udaipur",
+        "iconLink": "/services/web-development"
+      },
+      {
+        "title": "CAR MANUFACTURING CORPORATIONS",
+        "description": "We meticulously crafted a powerful, security-rich, IT solution for several car manufacturing corporations to elevate the user experience while incorporating innovation.",
+        "iconPath": "/cardSvg/folder.svg",
+        "highlight": "custom Software Development Company in Udaipur",
+        "iconLink": "/services/web-development"
+      },
+      {
+        "title": "ELECTRIC & AUTONOMOUS VEHICLE VENTURES",
+        "description": "Empowering electric and autonomous vehicle ventures by unleashing the power of technology and innovation and providing solutions that are feature-rich, scalable, user-friendly, and safe to use.",
+        "iconPath": "/cardSvg/contact.svg",
+        "iconLink": "/services/web-development"
+      },
+      {
+        "title": "AUTOMOTIVE SOFTWARE PRODUCT COMPANIES",
+        "description": "A comprehensive solution designed to revolutionize the automotive industry. It serves as a pivotal tool for businesses, offering a range of features aimed at enhancing efficiency and optimizing for a swift driving experience.",
+        "iconPath": "/cardSvg/contact.svg",
+        "iconLink": "/services/web-development"
+      }
+    ]
+  }
+}
+

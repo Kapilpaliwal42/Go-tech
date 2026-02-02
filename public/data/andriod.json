@@ -1,0 +1,339 @@
+{
+    "statsSection": {
+    "content": {
+      "bread": {
+        "prefix": "Go-tech Solution | Technology | ",
+        "text": "Android Development Services"
+      },
+      "heading": "ANDROID APP DEVELOPMENT SERVICE",
+      "subheading": "Creating smooth and intuitive experiences within the Android ecosystem: Customized solutions that deeply connect with your target audience."
+    },
+    "stats": [
+      {
+        "value": 30,
+        "suffix": "+",
+        "label": "mobile development specialists"
+      },
+      {
+        "value": 60,
+        "suffix": "+",
+        "label": "Projects successfully delivered"
+        
+      },
+      {
+        "value": 8,
+        "suffix": " years",
+        "label": "of expertise in business"
+      },
+      {
+        "value": 4.8,
+        "suffix": "/5",
+        "decimals":"1",
+        "label": "qualified employees within the team"
+      }
+    ]
+  },
+  "iconTopCard": {
+    "heading": "WHY CHOOSE GO INFOTECH?",
+    "items": [
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "TRUSTED AND RENOWNED",
+        "description": "We are dedicated to serving you with excellence, and this is vouched by our client’s unwavering trust in our services, as we are a trusted custom Software Development Company in Udaipur.",
+        "highlight": "custom Software Development Company in Udaipur",
+        "highlightLink": "https://figma.com"
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "EXPERTISE AT YOUR SERVICE:",
+        "description": "Our team is dedicated to serving you with expertise, knowledge, and professionalism working to fuel the growth of your business. Choose Go InfoTech Solution for a reliable digital partner."
+      },
+      {
+        "iconPath": "/cardSvg/shield.svg",
+        "title": "INDUSTRIES' EXPERTISE:",
+        "description": "We are a trusted Software Development company in Udaipur, with expertise from different industries all around the world using innovation, knowledge, and skills.",
+        "highlight": "Software Development company in Udaipur",
+        "highlightLink": "https://aws.amazon.com"
+      },
+      {
+        "iconPath": "/cardSvg/folder.svg",
+        "title": "HIGH SATISFACTION RATES",
+        "description": "Empower your business with promising results and IT solutions by professionals who are dedicated to serving you right."
+        
+      },
+      {
+        "iconPath": "/cardSvg/globe.svg",
+        "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+        "description": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "WIDE RANGE OF SERVICES",
+        "description": "Offering software development services, including custom software development, mobile app development, web application development, software maintenance and support, and more."
+        
+      }
+    ]
+  },
+    "selectSidebar": {
+  "headingSidebar": "OUR SERVICES",
+  "services": [
+    {
+      "title": "STAFF AUGMENTATION FOR ANDROID PRODUCTS",
+      "content": {
+        "paragraphs": [
+          "Enhance your team’s potential with our experienced Android developers. Whether you aim to expedite your project, bridge skill disparities, or expand your development endeavors, we offer seasoned professionals customized to your requirements."
+        ],
+        "sections": [
+          {
+            "heading": "REASONS TO COLLABORATE WITH US:",
+            "paragraphs": []
+          }
+        ],
+        "list": [
+          "Gain access to a proficient pool of Android developers.",
+          "Choose from flexible engagement models adaptable to your project’s size and intricacy.",
+          "Seamlessly integrate with your current team and workflows.",
+          "Avail cost-efficient solutions aligned with your development objectives.",
+          "Benefit from expertise in cutting-edge Android technologies and industry standards."
+        ]
+      },
+      "button": "READ MORE",
+      "buttonLink": "/technology/andriod"
+    },
+    {
+      "title": "ANDROID NATIVE APP DEVELOPMENT",
+      "content": {
+        "paragraphs": [
+          "Our expertise lies in developing high-performance Android native applications customized to your unique requirements, maximizing the capabilities offered by the Android platform."
+        ],
+        "sections": [
+          {
+            "heading": "WHY COLLABORATE WITH US:",
+            "paragraphs": []
+          }
+        ],
+        "list": [
+          "Streamlined and seamless native Android applications.",
+          "Utilization of Android-specific features and functionalities to enhance user experience.",
+          "Compatibility ensured across an extensive array of Android devices."
+        ]
+      }
+    },
+    {
+      "title": "HYBRID APP DEVELOPMENT",
+      "content": {
+        "paragraphs": [
+          "We excel in crafting hybrid applications that amalgamate the strengths of both native and web solutions, employing standard web technologies encapsulated within a native app shell."
+        ],
+        "sections": [
+          {
+            "heading": "WHY PARTNER WITH US:",
+            "paragraphs": []
+          }
+        ],
+        "list": [
+          "Ensure uniformity across various platforms with consistent applications.",
+          "Expedite development cycles by leveraging a single codebase.",
+          "Attain cost-effective solutions while maintaining performance akin to native applications."
+        ]
+      },
+      "button": "READ MORE",
+      "buttonLink": "/technology/andriod"
+    },
+    {
+      "title": "MOBILE APP UI/UX DESIGN",
+      "content": {
+        "paragraphs": [
+          "Our emphasis lies in crafting intuitive mobile app designs that elevate user experience by seamlessly blending creativity with platform-specific design principles."
+        ],
+        "sections": [
+          {
+            "heading": "REASONS TO COLLABORATE WITH US:",
+            "paragraphs": []
+          }
+        ],
+        "list": [
+          "User-centric designs aimed at enhancing user engagement and satisfaction.",
+          "Interactive wireframing and prototyping to visualize and refine design concepts.",
+          "Ensured design consistency across diverse Android devices, ensuring a cohesive user experience."
+        ]
+      }
+    },
+    {
+      "title": "MULTI-DEVICE ANDROID DEVELOPMENT",
+      "content": {
+        "paragraphs": [
+          "We specialize in developing versatile Android applications optimized for a wide range of devices, including smartphones, tablets, wearables, and TVs, ensuring a uniform and superior user experience across all Android platforms."
+        ],
+        "sections": [
+          {
+            "heading": "EMBRACING THE ANDROID ECOSYSTEM:",
+            "paragraphs": []
+          }
+        ],
+        "list": [
+          "Crafting responsive applications that seamlessly adapt to various screen sizes and resolutions.",
+          "Leveraging Android’s flexibility to cater to the diverse landscape of devices.",
+          "Ensuring a consistent UI/UX design across all Android devices, enhancing user interaction.",
+          "Optimizing performance to deliver smooth operation even on resource-constrained devices.",
+          "Integrating seamlessly with device-specific features and capabilities to enhance functionality."
+        ]
+      }
+    },
+    {
+      "title": "TECHNICAL AUDIT & CONSULTATION",
+      "content": {
+        "paragraphs": [
+          "Benefit from our wealth of experience in Android app development. We provide consulting services on industry best practices, security measures, and performance optimization strategies."
+        ],
+        "sections": [
+          {
+            "heading": "PARTNER WITH US TO GAIN:",
+            "paragraphs": []
+          }
+        ],
+        "list": [
+          "In-depth analysis of technical issues and architectural weaknesses.",
+          "Comprehensive reports containing actionable recommendations for improvement.",
+          "Refinement of your Android solution to achieve optimal performance and functionality."
+        ]
+      }
+    },
+    {
+      "title": "THIRD-PARTY INTEGRATION",
+      "content": {
+        "paragraphs": [
+          "Partner with us to ensure the seamless integration of your Android applications with external systems and data sources, thereby enhancing functionality and user experience."
+        ],
+        "sections": [
+          {
+            "heading": "BENEFITS OF COLLABORATING WITH US:",
+            "paragraphs": []
+          }
+        ],
+        "list": [
+          "Smooth integration with payment processors, analytics services, and other third-party platforms.",
+          "Secure data exchange between your app and external services, prioritizing user privacy.",
+          "Enhancement of app features through the integration of external functionalities, expanding the app’s capabilities and appeal."
+        ]
+      }
+    }
+  ]
+}
+,
+   "whiteBgCard": {
+  "heading": "ANDROID SOLUTIONS TO INDUSTRY-SPECIFIC NEEDS",
+  "subheading": "Tailoring Android solutions to meet industry-specific demands, we bridge the gap between technology and diverse sectors, fostering growth and innovation through customized applications.",
+  "whitecards": [
+    {
+      "title": "EDUCATION",
+      "titlePath": "/services/web-development",
+      "description": [
+        "Empower e-learning initiatives, streamline administrative tasks, and boost student engagement with meticulously crafted Android apps."
+      ]
+    },
+    {
+      "title": "HEALTHCARE",
+      "titlePath": "/services/mobile-app-development",
+      "description": [
+        "Facilitate telemedicine services, simplify appointment scheduling, and enable health monitoring through tailored Android solutions for the healthcare sector."
+      ]
+    },
+    {
+      "title": "FINTECH",
+      "titlePath": "/services/devops",
+      "description": [
+        "Ensure secure transactions and intuitive user experiences with Android applications designed specifically for banking, insurance, and fintech purposes."
+      ]
+    },
+    {
+      "title": "MEDIA & ENTERTAINMENT",
+      "description": [
+        "Enhance the entertainment experience by developing Android apps for streaming, content management, and interactive platforms."
+      ]
+    },
+    {
+      "title": "E-COMMERCE",
+      "description": [
+        "Optimize customer engagement and facilitate secure transactions with Android platforms tailored for seamless product browsing and payment processing."
+      ]
+    },
+    {
+      "title": "AUTOMOTIVE",
+      "description": [
+        "Integrate seamlessly with vehicle systems to offer navigation, diagnostics, and in-car entertainment through custom Android applications."
+      ]
+    },
+    {
+      "title": "GIS",
+      "description": [
+        "Enable efficient data collection, spatial analysis, and map visualization in Geographic Information Systems (GIS) with purpose-built Android apps."
+      ]
+    }
+  ]
+}
+,
+  "gridBlueCard": {
+  "heading": "TECH INNOVATIONS FOR YOUR ANDROID APP",
+  "subheading": "Elevate your application with cutting-edge technological advancements, ensuring it goes beyond mere functionality to become truly revolutionary. Stay at the forefront of innovation, remain relevant, and captivate your audience with these transformative features:",
+  "items": [
+    {
+      "title": "ARTIFICIAL INTELLIGENCE",
+      "path": "/services/web-development",
+      "description": "Leverage the power of AI to infuse your app with intelligence, intuition, and responsiveness. From chatbots offering personalized assistance to predictive analytics predicting user preferences, AI can revolutionize user experiences and enhance engagement."
+    },
+    {
+      "title": "CLOUD INTEGRATION",
+      "path": "/services/mobile-app-development",
+      "description": "Integrate seamlessly with cloud services to enhance your app's scalability, performance, and storage capabilities. Enable real-time data syncing and ensure accessibility from anywhere, empowering users with uninterrupted access to their data."
+    },
+    {
+      "title": "AUGMENTED REALITY",
+      "path": "/services/devops",
+      "description": "Immerse your users in captivating experiences by integrating augmented reality (AR) features into your app. From virtual try-ons allowing users to visualize products in real-world environments to interactive 3D models bringing static content to life, AR has the potential to redefine user interactions and create unforgettable experiences."
+    },
+    {
+      "title": "INTERNET OF THINGS",
+      "path": "/services/devops",
+      "description": "Connect your app with smart devices and sensors to provide users with real-time data, automation, and enhanced functionalities. IoT integration opens up new possibilities for user engagement and utility, enabling seamless interaction with the physical world and enhancing the overall user experience. By embracing these technological innovations, your app can break new ground, delight users, and stay ahead of the competition in today's rapidly evolving digital landscape."
+    }
+  ]
+},
+    "cardMethodology": {
+    "heading": "WHOM WE SERVE",
+    
+    "items": [
+      {
+        "title": "BEGINNING FROM SCRATCH",
+        "description": "We cater to startups or businesses venturing into the mobile realm for the first time. We help build robust and scalable Android applications from the ground up, tailored to their unique requirements and aspirations.",
+        "iconPath": "/cardSvg/globe.svg",
+        "titleLink": "/services",
+        "iconLink": "/services/web-development"
+      },
+      {
+        "title": "MIGRATING FROM MVP TO NATIVE",
+        "description": "We assist enterprises that initially launched with a low code/no code MVP and are now transitioning to a native product. Our aim is to optimize their return on investments and provide a refined user experience.",
+        "iconPath": "/cardSvg/folder.svg",
+         "titleLink": "/services",
+        "iconLink": "/services/web-development"
+      },
+      {
+        "title": "TEAM AUGMENTATION",
+        "description": "We offer services for companies seeking to augment their existing teams with specialized Android expertise. By seamlessly integrating with your team, we enhance productivity and bring in-depth knowledge to the table.",
+          "titleLink": "/services",
+        "iconPath": "/cardSvg/contact.svg",
+        "iconLink": "/services/web-development"
+      
+      },
+       {
+        "title": "PARALLEL ANDROID & IOS DEVELOPMENT",
+        "description": "For businesses aiming to expand simultaneously on both Android and iOS platforms, we provide support. We work in tandem with your in-house iOS team to ensure a consistent and unified mobile experience across all devices.",
+          "titleLink": "/services",
+        "iconPath": "/cardSvg/contact.svg",
+        "iconLink": "/services/web-development"
+      
+      }
+    ]
+  }
+}

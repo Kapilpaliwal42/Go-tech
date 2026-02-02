@@ -1,0 +1,446 @@
+{
+    "statsSection": {
+    "content": {
+      "bread": {
+        "prefix": "Go-Tech Solution | Services | ",
+        "text": "Mobile App Development"
+      },
+      "heading": "MOBILE APPLICATION DEVELOPMENT BY EXPERTS",
+      "subheading": "Empower your business with the excellence of the experts in Mobile App Development at GoTech."
+    },
+    "stats": [
+      {
+        "value": 30,
+        "suffix": "+",
+        "label": "mobile development experts"
+      },
+      {
+        "value": 8,
+        "suffix": " years",
+        "label": "of expertise"
+        
+      },
+      {
+        "value": 60,
+        "suffix": "+",
+        "label": "successful projects delivered"
+      },
+      {
+        "value": 4.85,
+        "suffix": "+",
+        "label": "overall review rating based on 55+ reviews",
+        "decimals": "2"
+      }
+    ]
+  },
+  "iconTopCard": {
+    "heading": "Why Choose Us",
+    "items": [
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "TRUSTED AND RENOWNED",
+        "description": "We are dedicated to serving you with excellence, and this is vouched by our client’s unwavering trust in our services, as we are a trusted custom Software Development Company in Udaipur.",
+        "highlight": "custom Software Development Company in Udaipur"
+       
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "EXPERTISE AT YOUR SERVICE:",
+        "description": "Our team is dedicated to serving you with expertise, knowledge, and professionalism working to fuel the growth of your business. Choose Go InfoTech Solution for a reliable digital partner."
+      },
+      {
+        "iconPath": "/cardSvg/shield.svg",
+        "title": "INDUSTRIES' EXPERTISE:",
+        "description": "We are a trusted Software Development company in Udaipur, with expertise from different industries all around the world using innovation, knowledge, and skills.",
+        "highlight": "Software Development company in Udaipur"
+        
+      },
+      {
+        "iconPath": "/cardSvg/folder.svg",
+        "title": "HIGH SATISFACTION RATES",
+        "description": "Empower your business with promising results and IT solutions by professionals who are dedicated to serving you right."
+        
+      },
+      {
+        "iconPath": "/cardSvg/globe.svg",
+        "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+        "description": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "WIDE RANGE OF SERVICES",
+        "description": "Offering software development services, including custom software development, mobile app development, web application development, software maintenance and support, and more."
+        
+      }
+    ]
+  },
+    "selectSidebar": {
+    "headingSidebar": "OUR MOBILE SERVICES:",
+    
+    "services": [
+      {
+        "title": "TEAM AUGMENTATION FOR MOBILE PRODUCTS",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "At Go-Infotech Solution, the Best Development Company, we offer top-tier team augmentation services to boost your mobile product development. Our skilled professionals seamlessly integrate with your team, providing expertise in the latest mobile technologies. Whether you need developers, designers, testers, or project managers, we provide flexible solutions to meet your project demands. Focus on your core business while we handle recruitment, training, and management, ensuring your product is delivered on time and within budget. Enhance your team’s capabilities and accelerate your mobile projects with Go-Infotech Solution.",
+            "highlights": [
+              { "text": "Best Development Company", "link": "https://example.com/digital" }
+              
+              ]
+            
+          }
+          
+          ]
+          
+        },
+        "button": "Read More"
+      },
+      {
+        "title": "CROSS-PLATFORM APP DEVELOPMENT",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "At Go-Infotech Solution, the Best Development Company, we specialize in cross-platform app development to ensure your app reaches the widest possible audience. Our expert team uses the latest technologies to create seamless and high-performing apps for both iOS and Android platforms. By leveraging a single codebase, we streamline the development process, reducing costs and time-to-market while maintaining top-notch quality and performance. Partner with Go-Infotech Solution to bring your app vision to life efficiently and effectively, ensuring a consistent user experience across all devices.",
+            "highlights": [
+              { "text": "Best Development Company", "link": "https://example.com/digital" }
+              
+              ]
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "PARTNER WITH Go InfoTech EXPERTISE FOR:"
+             
+            }
+          ],
+          "list": [
+            "Optimized code reuse quickens time-to-market.",
+            "Improved scalability across platforms for applications. ",
+            "Cross-platform Solutions Maintenance & Support."
+           
+          ]
+        }
+         
+      },
+      {
+        "title": "NATIVE MOBILE APP DEVELOPMENT",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "The Best Software Development Company, Go-Infotech Solution, specializes in native mobile app development and builds powerful applications for the iOS and Android operating systems. Our committed development team makes the most of native technology to create apps that are faster, more useful, and offer a better user experience. Through the use of best practices and platform-specific functionality, we guarantee that your app stands out in the crowded market. Put your trust in Go-Infotech Solution to deliver unparalleled native mobile development quality and efficiency to realize your app vision."
+            
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "Select Go InfoTech for:"
+             
+            }
+          ],
+          "list": [
+            "Features-rich Mobile App Development for iOS and Android;",
+            "Scalable, Interactive & High-performing Mobile Apps;",
+            "Platform Specific & Custom UX/UI Design."
+            
+          ]
+        }
+         
+      },
+      {
+        "title": "CONSULTING AND PROTOTYPING",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "The IT Company, Go-Infotech Solution, provides thorough consulting and prototyping services to assist you in honing your concepts and realizing your vision. To guarantee that your project is in line with market trends and industry best practices, our knowledgeable consultants offer strategic advice. We build interactive models of your application with our prototype services so you can see and test your ideas before moving forward with full-scale development. Join together with Go-Infotech Solution to reduce risks, maximize the potential of your product, and quicken the process of taking your idea from paper to market."
+            
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "CONNECT WITH GO INFOTECH FOR:"
+             
+            }
+          ],
+          "list": [
+            "Proper Consultation & guidance for mobile app",
+            "Seamless Prototyping of Your Ideas",
+            "Regular updates with feedback & product-market fit."
+            
+          ]
+        }
+         
+      }
+    
+    ]
+  },
+   "whiteBgCard": {
+    
+    
+    
+    "whitecards": [
+      {
+        "title": "FINANCE",
+        "description": ["Empowering the financial sector by incorporating the expertise of our Development company in Udaipur to enhance the security and efficiency of the services."]
+      },
+     {
+        "title": "HEALTHCARE",
+        "description": ["We offer cutting-edge solutions for healthcare by making use of managed IT services at a Web Development company in Udaipur and digital health technologies."]
+      },
+      {
+        "title": "MEDIA & ENTERTAINMENT:",
+        "description": ["Robust IT Solutions at ",{ "text": "Digital Marketing Company in Udaipur", "path": "/services/devops" }," offers innovative solutions for digital platforms along with ", { "text": "SEO Services in Udaipur.", "path": "/docs" }]
+      },
+      {
+        "title": "AUTOMOTIVE",
+        "description": ["Dedicated experts provide advanced IT solutions by making use of innovative and effective solutions for the automotive industry, offering operational efficiency."]},
+      {
+        "title": "EDUCATION",
+        "description": ["Leveraging the excellence of our ",{ "text": "IT Company", "path": "/services" }," in Udaipur to empower educational institutions with digital assistance by our professionals."]
+      },
+      {
+        "title": "E-COMMERCE",
+        "description": ["Ensuring that the website generates enhanced customer engagement and optimizes the user experience, the ",{ "text": "Digital Marketing Agency in Udaipur ", "path": "/services/digital-marketing-services" }]
+      },
+      {
+        "title": "GIS",
+        "description": ["Accurate data visualization and incorporation of geospatial data for designing advanced Geographic Information Systems at a Web Development company in Udaipur."]
+      }
+      
+    ]
+  },
+   "callToAction": {
+    "title": "INDUSTRIES GO INFOTECH SOLUTION SERVES:",
+   
+    "buttonText": "ALL INDUSTRIES",
+    "textColor": "text-blue-900"
+  },
+    "gridBlueCard2": {
+    "heading": "TECH INNOVATIONS FOR YOUR MOBILE APP",
+    "subheading":"Utilizing cutting-edge technology and innovation to design and deploy functional mobile apps will revolutionize your business growth. Our experts believe in crafting a remarkable user experience to captivate the audience.",
+    
+    "items": [
+      {
+        "title": "ARTIFICIAL INTELLIGENCE",
+        "description": "Empower your business with the unique capabilities of AI by partnering with Go InfoTech Solution where we make sure to incorporate more intuitive and responsive results with the use of predictive analytics and chatbots.",
+        "path": "/services/mobile-app-development"
+       
+      },
+      {
+        "title": "CLOUD INTEGRATION",
+        "description": "Ensuring seamless integration of cloud services will improve your app’s scalability, effectiveness, and functionality by making sure that the data is integrated and accessible from anywhere.",
+        "path": "/services/mobile-app-development"
+      },
+      {
+        "title": "AUGMENTED REALITY",
+        "description": "As a leading Software Development company in Udaipur we believe in incorporating AR to generate a remarkable user experience by meticulously integrating virtual try-ons and interactive 3D models into your app.",
+        "highlight": "Software Development company in Udaipur " ,
+        "path": "/services/mobile-app-development"
+      },
+      {
+        "title": "INTERNET OF THINGS",
+        "description": "Harmonizing the use of sensors and smart devices to integrate real-time data while increasing its functionality and user experience. Incorporating IoT in the business can generate expanded opportunities for user engagement.",
+         "path": "/services/mobile-app-development"
+      }
+       
+    ]
+  },
+   "techStack": {
+    "heading": "TECH STACK",
+    "categories": [
+      {
+        "key": "frontend",
+        "label": "IOS APP DEVELOPMENT",
+        "department": {
+          "title": "IOS APP DEVELOPMENT",
+          "description": "Developing a useful and responsive iOS App for a functional and comprehensive mobile development solution for the effectiveness of business. We specialize in:",
+          
+          "stats": [
+            "iPhone App Development",
+            "iPad App Development",
+            "Apple Watch App Development",
+            "Apple TV App Development"
+          ],
+          "technologies": [
+            { "name": "HealthKit", "icon": "/healthkit.png" },
+           { "name": "RxSwift", "icon": "/rxjs-1.png" },
+            { "name": "Swift", "icon": "/Swift-1.png" }
+          ]
+        }
+      },
+      {
+        "key": "backend",
+        "label": "ANDROID APP DEVELOPMENT",
+        "department": {
+          "title": "ANDROID APP DEVELOPMENT",
+          "description": "We develop scalable, interactive, and secure mobile apps for Android that are feature-rich, and visually appealing. We have expertise in:",
+          
+          "stats": [
+            "Tailored Android App Development",
+            "Android TV App Development",
+            "Android Wear App Development",
+            "Android Auto App Development"
+          ],
+          "technologies": [
+          
+{ "name": "Java", "icon": "/Java-1.png" },
+{ "name": "Kotlin", "icon": "/Kotlin-1.png" }
+
+
+          ]
+        }
+      },
+      {
+        "key": "mobile",
+        "label": "CROSS-PLATFORM APP DEVELOPMENT",
+        "department": {
+          "title": "CROSS-PLATFORM APP DEVELOPMENT",
+          "description": "We are effective in crafting budget-friendly mobile application solutions by incorporating cutting-edge technology and quality features for a better user experience across cross-platforms. We deliver excellence in:",
+           
+          "stats": [
+            "React Native Development",
+            "Flutter App Development"
+            
+          ],
+          "technologies": [
+            { "name": "Flutter", "icon": "/Angular-icon.png" },
+
+{ "name": "React JS", "icon": "/React-JS.png" }
+
+
+          ]
+        }
+      }
+      
+    ]
+  },
+     "selectSidebar2": {
+    "headingSidebar": "OUR MACHINE LEARNING SERVICES",
+    
+    "services": [
+      {
+        "title": "STAFF AUGMENTATION",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Go Tech Solution is a custom Software Development Company in Udaipur aiming to provide seamless project execution by staff augmentation for optimal resource management:"
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "IT STAFF AUGMENTATION",
+              "paragraphs": ["We are dedicated to providing you with highly skilled and experienced IT professionals who will help you focus on core aspects so that your business reaches new heights."
+            ]
+            }
+          ]
+          
+        },
+        "button": "Read More"
+      },
+      {
+        "title": "IT CONSULTING",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Our IT Company in Udaipur is here to navigate you in the evolving tapestry of Technology while providing appropriate guidance from highly qualified professionals:"
+            
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "TECHNICAL DUE DILIGENCE",
+              "paragraphs": ["After conducting a thorough evaluation of your business while assessing the project feasibility, relevant risks, and growth ambition of your project, our team provides strategic insights for your project growth."]
+              
+             
+            },
+            {
+              "heading": "PROJECT MANAGEMENT AND COORDINATION",
+              "paragraphs": ["Our team ensures that your project delivery is timely and effective through proper management and streamlined communication with the development teams."]
+              
+             
+            }
+          ]
+          
+        }
+         
+      },
+      {
+        "title": "CUSTOM SOFTWARE DEVELOPMENT",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Our team is committed to delivering unique software solutions to your specific business requirements. Our end-to-end development service results in high-performance outcomes that are structured to your business needs."
+            
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "WEB DEVELOPMENT",
+              "paragraphs": ["Aim to develop a user-centric web application that is adaptive, intuitive, visually engaging, and designed to meet the unique needs of your business."]
+              
+             
+            },
+            {
+              "heading": "MOBILE DEVELOPMENT",
+              "paragraphs": ["Crafting a mobile application that is user-friendly, visually appealing, and can be used on Android and iOS platforms to stay updated with the evolving tech."]
+              
+             
+            }
+          ]
+          
+        }
+         
+      },
+      {
+        "title": "INTELLIGENT AUTOMATION",
+      "content": {
+          "paragraphs": [
+           
+          {
+            "text": "We are dedicated to serving you with the best services incorporating state-of-the-art technologies like AI, machine learning, blockchain, and IoT, while we transform your business to achieve new heights."
+            
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "AI & ML SOLUTIONS:",
+              "paragraphs": ["Empower your business to grow by incorporating Artificial Intelligence and Machine Learning to enhance the decision making process and robust growth of business."]
+              
+             
+            },
+            {
+              "heading": "BLOCKCHAIN SOLUTIONS:",
+              "paragraphs": ["Secure and transparent blockchain solutions tailored to your unique needs and industry requirements, ranging from cryptocurrencies to decentralized applications (DApps)."]
+              
+             
+            }
+          ]
+          
+        }
+         
+      }
+    
+    ]
+  }
+}

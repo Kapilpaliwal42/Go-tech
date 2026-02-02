@@ -1,0 +1,181 @@
+{
+    "statsSection": {
+    "content": {
+      "bread": {
+        "prefix": "Go-tech Solution | Technology | ",
+        "text": "PHP Development Services"
+      },
+      "heading": "PHP DEVELOPMENT SERVICES",
+      "subheading": "At Go InfoTech, our skilled PHP developers excel at employing state-of-the-art technologies and frameworks to deliver high-performance solutions with user-friendly designs. "
+    },
+    "stats": [
+      {
+        "value": 6,
+        "suffix": "+",
+        "label": "experienced PHP specialists worldwide"
+      },
+      {
+        "value": 4.8,
+        "suffix": "/5 stars",
+        "decimals":"1",
+        "label": "rating based on 55+ reviews"
+        
+      },
+      
+      {
+        "value": 90,
+        "suffix": "+",
+        "label": "projects successfully delivered"
+      },
+      {
+        "value": 8 ,
+        "suffix": "+ years",
+        "label": "of expertise in PHP development"
+      }
+    ]
+  },
+  "iconTopCard": {
+    "heading": "Why Choose Us",
+    "items": [
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "TRUSTED AND RENOWNED",
+        "description": "We are dedicated to serving you with excellence, and this is vouched by our client’s unwavering trust in our services, as we are a trusted custom Software Development Company in Udaipur.",
+        "highlight": "custom Software Development Company in Udaipur",
+        "highlightLink": "/technology/php"
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "EXPERTISE AT YOUR SERVICE:",
+        "description": "Our team is dedicated to serving you with expertise, knowledge, and professionalism working to fuel the growth of your business. Choose Go InfoTech Solution for a reliable digital partner."
+      },
+      {
+        "iconPath": "/cardSvg/shield.svg",
+        "title": "INDUSTRIES' EXPERTISE:",
+        "description": "We are a trusted Software Development company in Udaipur, with expertise from different industries all around the world using innovation, knowledge, and skills.",
+        "highlight": "Software Development company in Udaipur",
+        "highlightLink": "/technology/php"
+      },
+      {
+        "iconPath": "/cardSvg/folder.svg",
+        "title": "HIGH SATISFACTION RATES",
+        "description": "Empower your business with promising results and IT solutions by professionals who are dedicated to serving you right."
+        
+      },
+      {
+        "iconPath": "/cardSvg/globe.svg",
+        "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+        "description": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "WIDE RANGE OF SERVICES",
+        "description": "Offering software development services, including custom software development, mobile app development, web application development, software maintenance and support, and more."
+        
+      }
+    ]
+  },
+   "gridBlueBaseBord": {
+    "headings": "PHP SOFTWARE DEVELOPMENT SERVICES",
+    "blueBaseData": [
+       {
+        "title": "PHP STAFF AUGMENTATION AND DEDICATED TEAMS",
+        "description": "You can flexibly augment the team of PHP developers with assistance at Go InfoTech, to ensure seamless integration into your workflow. PHP staff augmentation with a dedicated team that adheres to internal protocols and delivers excellence."
+      },
+      {
+        "title": "PHP WEB & MOBILE DEVELOPMENT",
+        "description": "Our experts and developers are dedicated to crafting a dynamic platform with interactive custom solutions making use of PHP to craft a seamless user experience."
+      },
+      {
+        "title": "PHP-BASED CMS DEVELOPMENT",
+        "description": "We develop a Content Management System that is secure, scalable and functional while making use of PHP solutions, allowing you to retain full control over the web content."
+      },
+      {
+        "title": "E-COMMERCE SOLUTIONS",
+        "description": "Experts at Go InfoTech are committed to develop a feature-rich and functional e-commerce platform that attracts potential customers and accelerates sales."
+      },
+      {
+        "title": "API INTEGRATION & DEVELOPMENT",
+        "description": "Our team excels at integrating APIs and developing custom APIs in PHP, harnessing a seamless data flow between several software systems."
+      },{
+        "title": "PHP MIGRATION AND UPGRADE",
+        "description": "We offer smooth PHP migration and upgrade services, allowing you to remain current with the latest PHP versions and ensuring optimal performance of your applications."
+      }
+    ]
+  },
+  
+  "techStack": {
+    "heading": "GO INFOTECH’S EXPERTISE IN PHP DEVELOPMENT",
+    "categories": [
+      {
+        "key": "frontend",
+        "label": "GENERAL-PURPOSE FRAMEWORKS",
+        "department": {
+          "title": "GENERAL-PURPOSE FRAMEWORKS",
+          "description": "We leverage these frameworks for a variety of application development purposes. With an array of tools and libraries available, we design efficient, scalable, and resilient web applications customized to meet your specific requirements.",
+          "subtitle": "WE ASSIST YOU WITH:",
+          "stats": [
+            "Tailored application development;",
+            "API development and incorporation;",
+            "Creation of CRM and ERP systems;",
+            "Development of web portals."
+          ],
+          "technologies": [
+            { "name": "CakePHP", "icon": "/cakephp.png" },
+            { "name": "CodeIgniter", "icon": "/codeigniter.png" },
+            { "name": "Laravel", "icon": "/Laravel-1.png" },
+            { "name": "Symfony", "icon": "/symfony-1.png" },
+            { "name": "Yii2", "icon": "/yii.png" },
+            { "name": "Zend", "icon": "/zend.png" }
+          ]
+        }
+      },
+      {
+        "key": "backend",
+        "label": "CMS FRAMEWORKS",
+        "department": {
+          "title": "CMS FRAMEWORKS",
+          "description": "We have expertise in CMS frameworks, allowing us to construct websites that efficiently handle and structure extensive content. Whether you require a blog, news site, or e-commerce platform, we’re equipped to assist you with our proficiency in Drupal, WordPress, and Joomla.",
+           "subtitle": "OUR CMS SERVICES INCLUDE:",
+          "stats": [
+            "Development of CMS websites",
+            "Customization and enhancement of CMS",
+            "Development of themes and plugins",
+            "Maintenance and support"
+          ],
+          "technologies": [
+           { "name": "Drupal", "icon": "/drupal-icon.png" },
+{ "name": "Joomla", "icon": "/joomla.jpg" },
+{ "name": "WordPress", "icon": "/wordpress.png" }
+
+
+          ]
+        }
+      },
+      {
+        "key": "mobile",
+        "label": "E-COMMERCE FRAMEWORKS",
+        "department": {
+          "title": "E-COMMERCE FRAMEWORKS",
+          "description": "We excel in e-commerce frameworks, streamlining the process of setting up online stores. With capabilities for managing shopping carts, integrating payment gateways, and handling inventory, we ensure a smooth e-commerce experience.",
+           "subtitle": "OUR E-COMMERCE SERVICES INCLUDE:",
+          "stats": [
+            "Developing e-commerce websites",
+            "Creating shopping carts",
+            "Integrating payment gateways",
+            "Developing e-commerce applications"
+          ],
+          "technologies": [
+            { "name": "Magento", "icon": "/magento.png" },
+{ "name": "PrestaShop", "icon": "/prestashop.png" },
+{ "name": "WooCommerce", "icon": "/WooCommerce_logo.png" }
+
+
+          ]
+        }
+      }
+     
+    ]
+  }
+}

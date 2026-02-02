@@ -1,0 +1,451 @@
+{
+    "statsSection": {
+    "content": {
+       "bread": {
+        "prefix": "Go-tech Solution | Services | ",
+        "text": "Web Development"
+      },
+      "heading": "TOP WEB DEVELOPMENT COMPANY IN INDIA",
+      "subheading": "Exclusive web development services tailored to meet the specific needs of startups and global companies, available only at Go InfoTech"
+    },
+    "stats": [
+      {
+        "value": 140,
+        "suffix": "+",
+        "label": "web development experts"
+      },
+      {
+        "value": 4.85,
+        "suffix": " stars",
+        
+        "label": "rating based on 55+ reviews",
+        "decimals":"2"
+        
+      },
+      {
+        "value": 50,
+        "suffix": "+",
+        "label": "successful projects delivered"
+      },
+      {
+        "value": 8,
+        "suffix": " years",
+        "label": "expertise in business"
+      }
+    ]
+  },
+
+  "iconTopCard": {
+    "heading": "Why Choose Us",
+    "items": [
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "TRUSTED AND RENOWNED",
+        "description": "As a renowned web development company in India, we take pride in the unwavering trust our clients place in our expertise. This trust serves as a testament to our firm commitment to delivering exceptional service and exceeding our clients' expectations.",
+        "highlight": "web development company in India",
+        "highlightLink": "/"
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "EXPERTISE AT YOUR SERVICE:",
+        "description": "Opt for Select Go InfoTech Solution as your dependable online partner, committed to offering professional, knowledgeable, and experienced service to aid in your company's expansion."
+      },
+      {
+        "iconPath": "/cardSvg/shield.svg",
+        "title": "INDUSTRIES' EXPERTISE:",
+        "description": "Opt for Select Go InfoTech Solution as your dependable online partner, committed to offering professional, knowledgeable, and experienced service to aid in your company's expansion.",
+        "highlight": "Web Development Company in India",
+        "highlightLink": "/industry"
+      },
+      {
+        "iconPath": "/cardSvg/folder.svg",
+        "title": "HIGH SATISFACTION RATES",
+        "description": "Harness the potential of your business with promising outcomes and IT solutions provided by dedicated professionals committed to serving your needs."
+        
+      },
+      {
+        "iconPath": "/cardSvg/globe.svg",
+        "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+        "description": "Our team at Go InfoTech is dedicated to providing seamless communication and is available to serve you round-the-clock, operating across four different time zones."
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "WIDE RANGE OF SERVICES",
+        "description": "We provide a range of software development services, encompassing custom software development, mobile app development, web application development, software maintenance and support, and beyond."
+        
+      }
+    ]
+  },
+
+
+   "cardGridHovBase": {
+    "heading": "WEB DEVELOPMENT SERVICES",
+    
+    "cards": [
+      {
+        "title": "CUSTOM WEB DEVELOPMENT",
+        "description": "Comprehensive xnd upcoming trxals, and conduct a thorough analysis of them."
+      },
+      {
+        "title": "COMMITTED TEAM",
+        "description": "Our committed professionals and experts are poised to utilize their outstanding skills, talent, and experience to give your business a substantial boost."
+      },
+      {
+        "title": "WEB PRODUCT DESIGN",
+        "description": "For exceptional web development services in India, reach out to Go InfoTech. Experience meticulously crafted web product design services designed to foster the growth of your business."
+      },
+      {
+        "title": "ML/AI SERVICES",
+        "description": "We ensure the smooth integration of AI solutions into your existing systems, whether deploying AI models on-premises or in the cloud."
+      },
+      {
+        "title": "DEVOPS SERVICES",
+        "description": "Our comprehensive DevOps services help bridge the gap between development and operations, promoting seamless collaboration and accelerating software delivery."
+      },{
+        "title": "WEB QUALITY ASSURANCE",
+        "description": "Our software undergoes thorough testing throughout development, with our experts providing continuous oversight from inception to launch and maintenance phases."
+      }
+    ]
+  },
+  "gridBlueCard": {
+    "heading": "WEB INDUSTRIES GO INFOTECH SOLUTION SERVES:",
+    
+    "items": [
+      {
+        "title": "FINANCE",
+        "description": "Leveraging the proficiency of a web development company in India to bolster security and efficiency, we empower the financial sector.",
+        "path": "/industry/fintech",
+        "highlight": "web development company in India "
+        
+      },
+      {
+        "title": "HEALTHCARE",
+        "description": "Offering cutting-edge solutions for healthcare by making use of managed IT services and digital health technologies at the Best Web Development Agencies in India.",
+        "highlight": "Best Web Development Agencies in India.",
+        "path": "/industry/healthcare"
+      },
+      {
+        "title": "MEDIA & ENTERTAINMENT",
+        "description": "Proactive IT Solutions offering an innovative and optimal solutions for digital platforms along with Web Developmet Services in India",
+        "highlight": "Web Developmet Services in India" ,
+        "path": "/"
+      },
+       {
+        "title": "AUTOMOTIVE",
+        "description": "In the automotive industry, our dedicated experts utilize innovative and effective IT solutions to improve operational efficiency."
+       
+      },
+      {
+        "title": "EDUCATION",
+        "description": "Utilizing the expertise of Go InfoTech, we offer digital support for educational institutions through our team of professionals."
+        
+      },
+      {
+        "title": "E-COMMERCE",
+        "description": "We ensure that the website enhances customer engagement, optimizes user experience, and drives increased sales."
+        
+      },
+      {
+        "title": "GIS",
+        "description": "Utilizing precise data visualization and integrating geospatial data to develop advanced Geographic Information Systems is a specialty at a web development company in India.",
+        "highlight": "web development company in India" ,
+        "path": "/"
+      }
+    ]
+  },
+
+
+   "techStack": {
+    "heading": "TECH STACK",
+    "categories": [
+      {
+        "key": "frontend",
+        "label": "FRONT-END DEVELOPMENT",
+        "department": {
+          "title": "FRONT-END DEVELOPMENT",
+          "description": "Empower your business with our expert front-end solutions focusing fundamentally on the smooth user experience and effectively handle your needs and preferences and aligning it to the industry’s unique requirement.",
+          "subtitle": "OUR FRONT-END DEPARTMENT HAS:",
+          "stats": [
+            "20+ Front-end developers",
+            "8 years of experience",
+            "4.8 rating on Google"
+          ],
+          "technologies": [
+            { "name": "Angular", "icon": "/Angular-icon.png" },
+            { "name": "React JS", "icon": "/React-JS.png" },
+            { "name": "Vue", "icon": "/Vue.png" }
+          ]
+        }
+      },
+      {
+        "key": "backend",
+        "label": "BACK-END DEVELOPMENT",
+        "department": {
+          "title": "BACK-END DEVELOPMENT",
+          "description": "We help you build a strong foundation for your software and applications with scalable and secure back-end systems that will enable you to handle all your tasks seamlessly and result in the robust growth of your business. ",
+           "subtitle": "OUR BACK-END DEPARTMENT HAS:",
+          "stats": [
+            "20+ Back-end developers;",
+            "8 years of experience;",
+            "4.8 rating on Google"
+          ],
+          "technologies": [
+           { "name": ".NET", "icon": "/NET-1.png" },
+{ "name": "Go", "icon": "/GOlang-1.png" },
+{ "name": "Java", "icon": "/Java-1.png" },
+{ "name": "Scala", "icon": "/Scala-1.png" },
+{ "name": "Node JS", "icon": "/NodeJS-1.png" },
+{ "name": "PHP", "icon": "/PHP-1.png" },
+{ "name": "Python", "icon": "/Python-1.png" },
+{ "name": "Ruby", "icon": "/Ruby-1.png" },
+{ "name": "Laravel", "icon": "/Laravel-1.png" }
+
+          ]
+        }
+      },
+     
+      {
+        "key": "uiux",
+        "label": "UI/UX DESIGN",
+        "department": {
+          "title": "UI/UX DESIGN",
+          "description": "Through our user-centric approach we are successful in reaching the target audience via our  visually appealing UI/UX designs that are user-friendly and lead to an exceptional user experience on all platforms.",
+          "subtitle": "OUR MOBILE DEPARTMENT HAS:",
+          "stats": [
+            "12+ Designers",
+            "6 years of experience",
+            "4.7 rating on Google"
+          ],
+          "technologies": [
+          { "name": "Figma", "icon": "/Figma-1.png" },
+{ "name": "Adobe XD", "icon": "/Adobe_XD-1.png" },
+{ "name": "Sketch", "icon": "/Sketch-1.png" },
+{ "name": "InVision", "icon": "/Invision-1.png" },
+{ "name": "Zeplin", "icon": "/Zeplin-1.png" },
+{ "name": "FigJam", "icon": "/FigJam-1.png" },
+{ "name": "Miro", "icon": "/Miro-1.png" },
+{ "name": "Maze", "icon": "/Maze-1.png" },
+{ "name": "Protopie", "icon": "/Protopie-1.png" }
+
+          ]
+        }
+      }
+    ]
+  },
+ "selectSidebar": {
+    "headingSidebar": "WEB DEVELOPMENT SOLUTIONS",
+    
+    "services": [
+      {
+        "title": "WEB APPLICATION DEVELOPMENT",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "At Go InfoTech Solution, a leading Web Development Company in India, we specialize in delivering outstanding services through the creation of state-of-the-art web solutions. Whether you require a robust e-commerce platform, a dynamic content management system, or a tailored web-based tool, our skilled developers are committed to utilizing their expertise to realize your vision.",
+            "highlights": [
+              { "text": " Web Development Company in India,", "link": "/services/web-development" }
+              
+              ]
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "PARTNER WITH GO INFOTECH FOR:"
+             
+            }
+          ],
+          "list": [
+            "Tailored Web Application Development",
+            "Seamless Transitions in Web Applications.",
+            "Creating Scalable, Mobile-Optimized Web Apps.",
+            "Full Lifecycle Support for Web Applications."
+          ]
+        }
+        
+       
+      },
+      {
+        "title": "SAAS PLATFORM DEVELOPMENT",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "We specialize in cloud technologies and strongly advocate for the design and development of scalable, interactive, feature-rich, and secure SaaS solutions. Our commitment lies in crafting solutions that accelerate business growth and deliver impactful results swiftly."
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "PARTNER WITH Go InfoTech FOR:"
+             
+            }
+          ],
+          "list": [
+            "Custom SaaS Solutions for your Projects;",
+            "Responsive SaaS Architectural Design;",
+            "Seamless SaaS Migrations and Integrations;",
+            "Optimal SaaS security and high performance."
+          ]
+        }
+         
+      },
+      {
+        "title": "E-COMMERCE PLATFORM DEVELOPMENT",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "With expertise in building dynamic online retail platforms and responsive applications, we propel your business to unprecedented heights. By harnessing our proficiency in technologies like Shopify and WooCommerce platforms, we craft seamless user experiences that drive heightened leads and sales for your business."
+           
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "Engage with Go InfoTech for:"
+             
+            }
+          ],
+          "list": [
+            "E-Commerce Platform Development that aligns with your Business needs;",
+            "Streamlined Shopping Carts and Secure Payment Gateways;",
+            "Mobile-friendly E-Commerce Solutions;",
+            "High-performing E-Commerce platforms with SEO optimization."
+          ]
+        }
+         
+      },
+      {
+        "title": "ENTERPRISE SOFTWARE DEVELOPMENT",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "At Go InfoTech, a leading Custom Software Development Company in India, we understand the unique needs of your business. That’s why we offer tailored enterprise software solutions designed to seamlessly integrate various facets of your operations. Our aim is to assist you in minimizing operational costs and improving efficiency across your organization. Through our advanced and scalable software and systems architecture, we enable you to effectively achieve these goals. ",
+            "highlights": [
+              { "text": "Custom Software Development Company in India", "link": "/" }
+              
+              ]
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "EXPLORE CUSTOM SERVICES AT GO INFOTECH:"
+             
+            }
+          ],
+          "list": [
+            "Custom Enterprise Software Development ",
+            "Enterprise Application Modernization & Update ",
+            "Enterprise-level Mobile App development. ",
+            "Regular enterprise software testing & maintenance."
+          ]
+        }
+        
+      },
+      {
+        "title": "ERP DEVELOPMENT SERVICES",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "At the Best Web Development Agencies in India, our dedicated team specializes in creating ERP solutions tailored to optimize your business operations. We are committed to enhancing your effectiveness and productivity by facilitating real-time growth across your business operations.",
+            "highlights": [
+              { "text": "Best Web Development Agencies in India", "link": "/industry" }
+              
+              ]
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "Connect with Go InfoTech for:"
+             
+            }
+          ],
+          "list": [
+            "Custom ERP Software Development; ",
+            "ERP infrastructure migration & integration; ",
+            "Cloud-based ERP solutions;",
+            "ERP software testing & maintenance."
+          ]
+        }
+         
+      },
+      {
+        "title": "MVP DEVELOPMENT",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Begin an expedition towards excellence with our MVP Development services, meticulously crafted to provide a substantial boost to your business. Our interactive, feature-rich, and scalable MVPs are designed to enhance user experience while ensuring seamless functionality."
+           
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "REACH OUT TO US AT GOTECH:"
+             
+            }
+          ],
+          "list": [
+            "Discovery Phase Assistance ",
+            "Seamless MVP Software Development;",
+            "Sturdy MVP Design & Prototype; ",
+            "Mapping and Visualization",
+            "Scalable & Feature-rich MVP."
+          ]
+        }
+         
+      }
+    ]
+  },
+  "callToAction": {
+    "title": "FEELING LOST IN THE INTRICATE WORLD OF WEB DEVELOPMENT?",
+    "subtitle": "Our expert excellence is at your service, providing personalized web development solutions tailored to your unique business needs.",
+    "buttonText": "REQUEST A CONSULTATION",
+    "textColor1": "text-primary",
+    "textColor": "text-secondary"
+    
+
+  },
+   "gridBlueCard2": {
+    "heading": "TECH INNOVATIONS FOR YOUR WEB APP",
+    "subheading":"As a premier Web Development Company in India, we are dedicated to addressing your distinct business needs through our cutting-edge technology and inventive solutions. Our paramount emphasis lies in functionality, guaranteeing that our creations effectively meet your requirements. Specializing in crafting interactive and scalable web solutions, we deliver captivating and visually appealing web applications.",
+    
+    "items": [
+      {
+        "title": "ARTIFICIAL INTELLIGENCE",
+        "description": "Elevate your business with the unparalleled potential of AI by partnering with Go InfoTech Solution. We excel in incorporating predictive analytics and chatbots to provide intuitive and responsive outcomes, empowering your business with cutting-edge technological solutions.",
+        "path": "/technology/react"
+      },
+      {
+        "title": "CLOUD INTEGRATION",
+        "description": "Ensuring seamless integration of cloud services enhances your app's scalability, effectiveness, and functionality. By guaranteeing that data is integrated and accessible from anywhere, we optimize the performance and accessibility of your application.",
+        "path": "/services/devops"
+      },
+      {
+        "title": "AUGMENTED REALITY",
+        "description": "As a Top Web Development Company in India, we believe in incorporating AR to generate a remarkable user experience by meticulously integrating virtual try-ons and interactive 3D models in your app.",
+        "highlight": "Top Web Development Company in India" ,
+        "path": "/"
+      },
+      {
+        "title": "INTERNET OF THINGS",
+        "description": "By synchronizing sensors and smart devices, we facilitate the integration of real-time data, thus enhancing functionality and improving the user experience. Incorporating IoT into your business opens up broader opportunities for engaging users and driving innovation.",
+          "path": "/"
+      }
+       
+    ]
+  }
+  
+}

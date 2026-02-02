@@ -1,0 +1,404 @@
+{
+  
+  "statsSection": {
+    "content": {
+       "bread": {
+        "prefix": "Go-tech Solution | Services | ",
+        "text": "AI & ML Development Services"
+      },
+      "heading": "AI ML DEVELOPMENT SERVICES",
+      "subheading": "Navigating you through the intricate tapestry of the digital world by incorporating AI and ML into your projects for success. "
+    },
+    "stats": [
+      {
+        "value": 15,
+        "suffix": "+",
+        "label": "AI/ML experts"
+      },
+      {
+        "value": 4.8,
+        "suffix": "/5 stars",
+        "decimals":"1",
+        "label": "review rating based on 55+ reviews"
+        
+      },
+      {
+        "value": 8,
+        "suffix": "+ years",
+        "label": "expertise in business"
+      },
+      {
+        "value": 20,
+        "suffix": "+",
+        "label": "AI/ML projects in several industries"
+      }
+    ]
+  },
+ 
+  "techStack": {
+    "heading": "OUR EXPERTISE IN ML & AI TECHNOLOGIES",
+    "categories": [
+      {
+        "key": "frontend",
+        "label": "DEEP LEARNING",
+        "department": {
+          "title": "DEEP LEARNING",
+          "description": "We leverage the power of deep learning frameworks to harness cutting-edge technology in favor of the growth of your business. Empower your business with deep-learning solutions to help you recognize patterns, images, and even audio from voluminous data as cutting-edge technology can function like a human brain.",
+          "subtitle": "WHERE DO WE UTILIZE IT:",
+          "stats": [
+            "Developing comprehensive neural networks for several applications ",
+            "Incorporating audio, and visual recognition solutions;",
+            "Functional predictive analysis for systems of diverse platforms."
+          ],
+          "technologies": [
+            { "name": "caffe", "icon": "/caffe-1.png" },
+            { "name": "MXNet", "icon": "/mxnet.png" },
+            { "name": "OpenAI", "icon": "/OpenAI-1.png" },
+             { "name": "PyTorch", "icon": "/PyTorch-1.png" },
+              { "name": "TensorFlow", "icon": "/Tensorflow-1.png" },
+               { "name": "Theano", "icon": "/theano.png" }
+          ]
+        }
+      },
+      {
+        "key": "backend",
+        "label": "MACHINE LEARNING (ML)",
+        "department": {
+          "title": "MACHINE LEARNING (ML)",
+          "description": "At Go InfoTech, we leverage our excellence in ML, NLP, computer vision, and predictive analytics, we develop custom AI solutions tailored to your specific requirements. From responsive chatbots and virtual assistants to recommendation algorithms and predictive models, we develop powerful AI applications that drive business growth.",
+           "subtitle": "APPLICATION:",
+          "stats": [
+            "Crafting predictive analysis for finance, healthcare, e-commerce, and other sectors",
+            "Data-driven automation of decision-making process;",
+            "Personalize products via user behavior understanding."
+          ],
+          "technologies": [
+           { "name": "Angular icon", "icon": "/fastai-1.png" },
+{ "name": "H2O", "icon": "/h2o.png" },
+{ "name": "LightGBM", "icon": "/lightGBM.png" },
+{ "name": "Scikit-learn", "icon": "/scikit.png" }
+
+
+          ]
+        }
+      },
+      {
+        "key": "mobile",
+        "label": "NATURAL LANGUAGE PROCESSING (NLP)",
+        "department": {
+          "title": "NATURAL LANGUAGE PROCESSING (NLP)",
+          "description": "Incorporate advanced algorithms to comprehend and generate human language. NLP enables and supports chatbots, sentiment analysis, and content recommendation systems for elevated user experience.",
+           "subtitle": "APPLICATION OF NLP FRAMEWORK:",
+          "stats": [
+            "Innovation of advanced chatbots for customer support;",
+            "Analyze customer feedback for product refinement;",
+            "Automate content condensing and organizing"
+          ],
+          "technologies": [
+            { "name": "BERT", "icon": "/BERT.png" },
+{ "name": "CoreNLP", "icon": "/CoreNLP.png" },
+{ "name": "Gensim", "icon": "/gensim.png" },
+{ "name": "OpenAI", "icon": "/OpenAI-1.png" },
+{ "name": "OpenNLP", "icon": "/OpenNLP.png" },
+{ "name": "spaCy", "icon": "/SpaCy.png" }
+
+          ]
+        }
+      }
+     
+    ]
+  },
+ "iconTopCard": {
+    "heading": "WHY CHOOSE GO INFOTECH AS YOUR PARTNER FOR AI & ML DEVELOPMENT FOR YOUR PROJECTS",
+    "items": [
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "OUR CLIENT’S EXPERIENCE",
+        "description": "Our clients have said it too, Go InfoTech has proved to be an expert custom Software Development Company in Udaipur driving seamless growth for our clients and showcasing our proficiency in web development.",
+        "highlight": "custom Software Development Company in Udaipur",
+        "highlightLink": "https://figma.com"
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "TOP AI & ML SPECIALISTS",
+        "description": "Through our comprehensive procedure, we make sure that our AI & ML specialists are engaged in your crucial project. We are dedicated to the seamless success of your project."
+      },
+      {
+        "iconPath": "/cardSvg/shield.svg",
+        "title": "PROPRIETARY TECHNOLOGY FOR EFFICIENCY",
+        "description": "We utilize our ‘Smart Outsourcing Automation Paradigm’ to integrate cutting-edge, smart technology for your project’s success. Automating crucial procedures and operations like project management, talent acquisition, and retention for effective performance.",
+        "highlight": "Software Development company in Udaipur",
+        "highlightLink": "https://aws.amazon.com"
+      },
+      {
+        "iconPath": "/cardSvg/folder.svg",
+        "title": "GUARANTEED PROJECT CONSISTENCY",
+        "description": "Benefit from the seamless and consistent delivery of excellence for uninterrupted success."
+        
+      },
+      {
+        "iconPath": "/cardSvg/globe.svg",
+        "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+        "description": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "WIDE RANGE OF SERVICES",
+        "description": "As a leading Web Development company in Udaipur, we offer custom software development, mobile app development, web application development, software maintenance and support, and more while making use of AI and ML technology.",
+        "highlight": "custom software development, mobile app development",
+        "highlightLink": "https://aws.amazon.com"
+      }
+    ]
+  },
+  "gridBlueCard": {
+    "heading": "INDUSTRY-SPECIFIC AI & ML MASTERY",
+    "subheading": "our deep understanding and application of AI & ML technologies tailored for each industry’s nuances.",
+    "items": [
+      {
+        "title": "ALL INDUSTRIES FINANCE",
+        "description": "Empowering the financial sector by incorporating the expertise of AI/ML in cross-platform services that enhance security and elevate user experience.",
+        "path": "/industry/fintech"
+        
+      },
+      {
+        "title": "HEALTHCARE",
+        "description": "We offer cutting-edge solutions for healthcare by making use of managed IT services at web Development company in Udaipur and digital health technologies.",
+        "highlight": "web Development company in Udaipur",
+        "highlightLink": "/services/web-development"
+      },
+      {
+        "title": "MEDIA & ENTERTAINMENT",
+        "description": "Robust IT Solutions at the leading Digital Marketing Company in Udaipur offering AI/ML solutions like trend recognition, market analysis, etc. for media and entertainment purposes.",
+        "highlight": "Digital Marketing Company in Udaipur" ,
+        "highlightLink": "/services/digital-marketing-services"
+      },
+       {
+        "title": "AUTOMOTIVE",
+        "description": "Dedicated experts providing advanced IT Solutions by making use of innovative and effective solutions for the automotive industry offering operational efficiency."
+       
+      },
+      {
+        "title": "EDUCATION",
+        "description": "Leveraging the excellence of our IT Company in Udaipur to empower educational institutions with digital assistance by our professionals.",
+        "highlight": "IT Company in Udaipur" ,
+        "highlightLink": "/"
+      },
+      {
+        "title": "E-COMMERCE",
+        "description": "Ensuring that the website generates enhanced customer engagement and optimizes user experience Digital Marketing Agency in Udaipur generating higher sales.",
+        "highlight": "Digital Marketing Agency in Udaipur" ,
+        "highlightLink": "/services/digital-marketing-services"
+      },
+      {
+        "title": "GIS",
+        "description": "Accurate data visualization and incorporation of geospatial data for designing advanced Geographic Information Systems at a Web Development company in Udaipur.",
+        "highlight": "Web Development company in Udaipur" ,
+        "highlightLink": "/services/web-development"
+      }
+    ]
+  },
+   "selectSidebar": {
+  "headingSidebar": "AI & ML DEVELOPMENT SERVICES",
+  "services": [
+    {
+      "title": "Staff Augmentation for AI & ML IT Products",
+      "content": {
+        "paragraphs": [
+          "Augment our top AI and ML specialists in your team for seamless integration into your projects, building the seamless entry of your products into the market and market penetration for existing ones.",
+          {
+            "text": "HOW WE ENHANCE YOUR TEAM’S EXPERTISE:",
+            "highlights": []
+          }
+        ],
+        "list": [
+          "Amplify product’s success via effective development and deployment",
+          "Proficient team to enhance the expertise of the in-house team",
+          "Meticulously strategizing the use of advanced technology and best practices",
+          "Scale up the existing team as per the project’s need"
+        ]
+      },
+      "button": "READ MORE",
+      "buttonLink": "/services/ai-ml" 
+    },
+    {
+      "title": "Chatbot Development Services",
+      "content": {
+        "paragraphs": [
+          "Enhanced user experience via seamless customer interactions with our chatbot expertise. We ensure a user-centric approach through AI-driven conversations.",
+          {
+            "text": "HOW WE ELEVATE YOUR CUSTOMER EXPERIENCE:",
+            "highlights": []
+          }
+        ],
+        "list": [
+          "Prompt customer support with our intelligent chatbots.",
+          "Boost sales with prediction analysis for personalized recommendations.",
+          "Automate daily operations, allocating humans for complex tasks.",
+          "Seamless integration of CRM, ERP, and other services."
+        ]
+      },
+      "button": "READ MORE",
+      "buttonLink": "/services/ai-ml" 
+    },
+    {
+      "title": "Generative AI",
+      "content": {
+        "paragraphs": [
+          "Augment our top AI and ML specialists in your team for seamless integration into your projects, building the seamless entry of your products into the market and market penetration for existing ones.",
+          {
+            "text": "HOW WE ENHANCE YOUR TEAM’S EXPERTISE:",
+            "highlights": []
+          }
+        ],
+        "list": [
+          "Amplify product’s success via effective development and deployment",
+          "Proficient team to enhance the expertise of the in-house team",
+          "Meticulously strategizing the use of advanced technology and best practices",
+          "Scale up the existing team as per the project’s need",
+          "Incorporating AI/ML expertise for project growth."
+        ]
+      },
+      "button": "READ MORE",
+      "buttonLink": "/services/ai-ml" 
+    },
+    {
+      "title": "Deep Learning Solutions",
+      "content": {
+        "paragraphs": [
+          "Empower your business with deep-learning solutions to help you recognize patterns, images, and even audio from voluminous data as cutting-edge technology can function like a human brain.",
+          {
+            "text": "HOW WE EMPOWER YOUR PROJECTS:",
+            "highlights": []
+          }
+        ],
+        "list": [
+          "Analyze visual and audio data for several entertainment companies",
+          "Develop systems for image and voice recognition",
+          "Predictive algorithms for e-commerce platforms",
+          "Trend-analysis based on former data",
+          "Implement automated content moderation and filtering."
+        ]
+      }
+    },
+    {
+      "title": "Natural Language Processing (NLP)",
+      "content": {
+        "paragraphs": [
+          "Incorporate advanced algorithms to comprehend and generate human language. NLP enables and supports chatbots, sentiment analysis, and content recommendation systems for elevated user experience.",
+          {
+            "text": "HOW WE USER EXPERIENCE USING NLP:",
+            "highlights": []
+          }
+        ],
+        "list": [
+          "Innovation of advanced chatbots for customer support.",
+          "Analyze customer feedback for product refinement.",
+          "Automate content condensing and organizing.",
+          "Search engine enhancement with interpretive understanding.",
+          "Real-time language translation for global platforms."
+        ]
+      }
+    },
+    {
+      "title": "Predictive Analytics",
+      "content": {
+        "paragraphs": [
+          "Leverage AI to analyze former data and future trend prediction. This can be significant for industries such as finance, e-commerce, entertainment, and healthcare.",
+          {
+            "text": "HOW WE SHAPE FUTURE OF YOUR BUSINESS:",
+            "highlights": []
+          }
+        ],
+        "list": [
+          "Predict stock market analysis for the financial sector;",
+          "Trend predictions and market analysis for e-commerce platforms;",
+          "Evaluate patient health risks and report in healthcare;",
+          "Supply chain management and optimization;",
+          "Examine consumer behavior for strategic marketing"
+        ]
+      }
+    },
+    {
+      "title": "AR/VR Enhanced AI Solutions",
+      "content": {
+        "paragraphs": [
+          "Integration of Augmented Reality and Virtual reality for elevated user experience and Quality automated AI/VR solutions for your organization to quickly identify input from users, offering real-time data visualization, for immersive experience.",
+          {
+            "text": "HOW DO WE ASSIST YOUR AR/VR EXPERIENCES:",
+            "highlights": []
+          }
+        ],
+        "list": [
+          "Develop authentic AI-driven simulations for training and recreation;",
+          "Collaborate AI data in AR for effective operations;",
+          "Crafting personalize AR/VR experiences via ML algorithms;",
+          "Incorporate AI for intuitive gesture controls in VR;"
+        ]
+      }
+    }
+  ]
+},
+ "cardGridHovBase": {
+    "heading": "AI & ML SOLUTIONS WE OFFER",
+    "subdescription": "With a well-equipped team that is dedicated to delivering excellence by incorporating AI/ML solutions and making sure that your project achieves the necessary success ",
+    
+    "cards": [
+      {
+        "title": "DATA ANALYSIS",
+        "description": "Using ML algorithms, we ensure that the raw data is converted into actionable insights.",
+         "list": [
+        "Trend forecast for e-commerce platforms",
+        "Customer behavior analysis for app development",
+        "Predictive analysis for optimizing operations"
+      ]
+      },
+      {
+        "title": "INTELLIGENT AUTOMATION",
+        "description": "Effective utilization of AI-driven bots and systems for elimination of redundant operations",
+          "list": [
+        "responsive chatbots for Customer support",
+        "Leveraging advanced technology for document processing for FI",
+        "Use of AI/ML mastery for inventory management in businesses."
+      ]
+      },
+    
+      {
+        "title": "IMAGE & VIDEO ANALYSIS",
+        "description": "revolutionize data interpretation and insight extraction from visual content.",
+          "list": [
+        "Facial identification used in several industries",
+        "Quality inspection and automated product defect detection",
+        "Generative content based on visuals"
+      ]
+      },
+      {
+        "title": "VOICE & SPEECH RECOGNITION",
+        "description": "Voice-activated commands, audio transcription, and much more to elevate the user experience",
+          "list": [
+        "Smart audio recognition for voice-enabled commands",
+        "Audio transcription for media and entertainment",
+        "Voice-enabled search engines for e-commerce platforms"
+      ]
+      },{
+        "title": "GENERATIVE CONTENT CREATION",
+        "description": "Design personalized content tailored to user preferences using Generative AI models.",
+          "list": [
+        "Generation of digital art for running ad campaigns",
+        "dynamic narrative tailored to gaming platforms",
+        "AI-powered audio composition for media and entertainment"
+      ]
+      },
+      {
+        "title": "PREDICTIVE MODELING",
+        "description": "Forecasting outcomes and trend-analysis using former data analysis and algorithms",
+          "list": [
+        "Predict future sales, market trends, and other forecasts",
+        "Risk assessment and projections for insurance concerns.",
+        "Forecast health results for medical institutions using AI/ML algorithms."
+      ]
+      }
+    ]
+  }
+    
+}

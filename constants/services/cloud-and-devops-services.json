@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "title": "CLOUD & DEVOPS DEVELOPMENT CONSULTING",
+    "subtitle": "Unlock the power of Cloud and DevOps collaboration, customized to strengthen your business."
+  },
+  "loadCounter": [
+    { "limit": 22, "label": "cloud & devops experts", "suffix": "+" },
+    { "limit": 110, "label": "successful deployments", "suffix": "+" },
+    { "limit": 8, "label": "of cloud expertise", "suffix": "years" },
+    { "limit": 4.8, "label": "client satisfaction", "suffix": "/5" }
+  ],
+  "whyChooseUsData": [
+    { "icon": "UserCheck", "title": "OUR CLIENT'S EXPERIENCE", "description": "Trusted by enterprises globally." },
+    { "icon": "BadgeCheck", "title": "TOP SPECIALISTS", "description": "Certified cloud and DevOps engineers." },
+    { "icon": "ShieldCheck", "title": "PROPRIETARY TECHNOLOGY", "description": "Advanced infrastructure automation." },
+    { "icon": "TrendingUp", "title": "GUARANTEED CONSISTENCY", "description": "Reliable infrastructure and deployments." },
+    { "icon": "Globe", "title": "GLOBAL COVERAGE", "description": "24/7 support worldwide." },
+    { "icon": "LayoutGrid", "title": "WIDE RANGE OF SERVICES", "description": "Complete cloud and DevOps solutions." }
+  ],
+  "servicesData": [
+    {
+      "title": "STAFF AUGMENTATION FOR CLOUD & DEVOPS",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Augment your team with cloud and DevOps experts.</p></div>"
+    },
+    {
+      "title": "CLOUD MIGRATION & STRATEGY",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Plan and execute cloud migrations.</p></div>"
+    },
+    {
+      "title": "DEVOPS CONSULTING & IMPLEMENTATION",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Implement DevOps practices and tools.</p></div>"
+    },
+    {
+      "title": "CLOUD SECURITY & COMPLIANCE",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Secure your cloud infrastructure.</p></div>"
+    },
+    {
+      "title": "INFRASTRUCTURE AUTOMATION",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Automate infrastructure management.</p></div>"
+    },
+    {
+      "title": "CI/CD IMPLEMENTATION",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Set up continuous integration and deployment.</p></div>"
+    }
+  ],
+  "techStackData": [
+    {
+      "title": "CLOUD PLATFORMS & TOOLS",
+      "desc": "AWS, Azure, GCP, and more.",
+      "points": ["AWS", "Microsoft Azure", "Google Cloud Platform", "Kubernetes"],
+      "icons_path": ["/AWS.png", "/Azure.svg", "/Google-Cloud.svg"]
+    },
+    {
+      "title": "BACK-END TECHNOLOGIES",
+      "desc": "Server-side infrastructure tools.",
+      "points": ["Docker", "Jenkins", "Terraform", "Ansible"],
+      "icons_path": ["/Docker.png", "/Jenkins.png"]
+    },
+    {
+      "title": "DATABASES & STORAGE",
+      "desc": "Data management solutions.",
+      "points": ["PostgreSQL", "MongoDB", "S3", "Cloud SQL"],
+      "icons_path": ["/PostgreSQL.png", "/MongoDB.png"]
+    }
+  ],
+  "advantagesData": [
+    { "title": "SCALABILITY & FLEXIBILITY", "description": "Scale resources on-demand." },
+    { "title": "COST-EFFICIENCY", "description": "Optimize cloud spending." },
+    { "title": "ENHANCED COLLABORATION", "description": "Streamlined team workflows." },
+    { "title": "HIGH AVAILABILITY", "description": "Disaster recovery and redundancy." },
+    { "title": "SECURITY & COMPLIANCE", "description": "Enterprise-grade security." },
+    { "title": "RAPID DEPLOYMENT", "description": "Faster time-to-market." }
+  ],
+  "industriesData": [
+    { "title": "HEALTHCARE", "description": "HIPAA-compliant cloud solutions." },
+    { "title": "E-COMMERCE", "description": "Scalable e-commerce platforms." },
+    { "title": "FINTECH", "description": "Secure financial infrastructure." },
+    { "title": "EDUCATION", "description": "Cloud-based learning platforms." },
+    { "title": "MEDIA & ENTERTAINMENT", "description": "High-performance content delivery." },
+    { "title": "GIS", "description": "Geospatial data infrastructure." },
+    { "title": "AUTOMOTIVE", "description": "Connected vehicle infrastructure." }
+  ]
+}

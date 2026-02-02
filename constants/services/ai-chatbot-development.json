@@ -1,0 +1,80 @@
+{
+  "hero": {
+    "title": "AI CHATBOT DEVELOPMENT SERVICES",
+    "subtitle": "Our bespoke chatbots can streamline and simplify your business processes. Go-InfoTech's NLP/deep learning-driven chatbots execute human-like conversations with users and deliver a substantial ROI."
+  },
+  "loadCounter": [
+    { "limit": 20, "label": "chatbot development experts", "suffix": "+" },
+    { "limit": 100, "label": "chatbot projects delivered", "suffix": "+" },
+    { "limit": 6, "label": "of AI expertise", "suffix": "years" },
+    { "limit": 4.8, "label": "client satisfaction rating", "suffix": "/5" }
+  ],
+  "whyChooseUsData": [
+    { "icon": "UserCheck", "title": "IT SOLUTIONS FOR STARTUPS", "description": "Affordable chatbot solutions for startups." },
+    { "icon": "BadgeCheck", "title": "RAPID DEVELOPMENT", "description": "Deploy chatbots quickly without sacrificing quality." },
+    { "icon": "ShieldCheck", "title": "UNDERSTANDING STARTUPS", "description": "We understand your unique startup challenges." },
+    { "icon": "TrendingUp", "title": "INDUSTRY NETWORK ACCESS", "description": "Leverage our extensive industry connections." },
+    { "icon": "Globe", "title": "AI R&D LAB", "description": "Cutting-edge research and development." },
+    { "icon": "LayoutGrid", "title": "HIGH SATISFACTION RATES", "description": "Consistent delivery of quality solutions." }
+  ],
+  "servicesData": [
+    {
+      "title": "CUSTOM CHATBOT DESIGN",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Build custom chatbots tailored to your business needs.</p></div>"
+    },
+    {
+      "title": "MULTI-PLATFORM INTEGRATION",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Deploy chatbots across web, mobile, and messaging apps.</p></div>"
+    },
+    {
+      "title": "NATURAL LANGUAGE PROCESSING",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Advanced NLP for human-like conversations.</p></div>"
+    },
+    {
+      "title": "E-COMMERCE CHATBOTS",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Chatbots that drive sales and customer engagement.</p></div>"
+    },
+    {
+      "title": "ANALYSIS & REPORTING",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Track chatbot performance and user interactions.</p></div>"
+    },
+    {
+      "title": "VOICE-ACTIVATED CHATBOTS",
+      "Desc_html": "<div class='p-4 text-[#2b428c]'><p>Voice-enabled conversational AI systems.</p></div>"
+    }
+  ],
+  "customChatbotSolData": [
+    { "title": "MACHINE LEARNING-ENHANCED CHATBOTS", "description": "ML-powered intelligent responses." },
+    { "title": "CONVERSATIONAL AI CHATBOTS", "description": "Natural dialogue-based interactions." },
+    { "title": "SOCIAL MEDIA CHATBOT INTEGRATION", "description": "Deploy on Facebook, WhatsApp, and Twitter." },
+    { "title": "E-LEARNING CHATBOT SOLUTIONS", "description": "Educational chatbot platforms." },
+    { "title": "VOICE-ACTIVATED CHATBOT SYSTEMS", "description": "Voice interface chatbots." },
+    { "title": "MULTILINGUAL CHATBOT SOLUTIONS", "description": "Support multiple languages." }
+  ],
+  "techStackData": [
+    {
+      "title": "PROGRAMMING LANGUAGES",
+      "desc": "Python, JavaScript, and other languages.",
+      "points": ["Python", "Node.js", "Java"]
+    },
+    {
+      "title": "CHATBOT FRAMEWORKS",
+      "desc": "Industry-leading chatbot frameworks.",
+      "points": ["Rasa", "Dialogflow", "Microsoft Bot Framework"]
+    },
+    {
+      "title": "CHATBOT TOOLS & SERVICES",
+      "desc": "Best-in-class tools for chatbot development.",
+      "points": ["IBM Watson", "AWS Lex", "Google Cloud Dialogflow"]
+    }
+  ],
+  "applicationIndustries": [
+    { "title": "AUTOMOTIVE", "description": "Customer support chatbots." },
+    { "title": "EDUCATION", "description": "Educational assistance bots." },
+    { "title": "MEDIA & ENTERTAINMENT", "description": "Content discovery chatbots." },
+    { "title": "E-COMMERCE", "description": "Shopping and support bots." },
+    { "title": "GIS", "description": "Location-based chatbots." },
+    { "title": "FINTECH", "description": "Financial service chatbots." },
+    { "title": "HEALTHCARE", "description": "Health information chatbots." }
+  ]
+}

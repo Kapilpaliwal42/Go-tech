@@ -1,0 +1,338 @@
+{
+    "statsSection": {
+    "content": {
+      "bread": {
+        "prefix": "Go-tech Solution | Technology | ",
+        "text": "React Development Services"
+      },
+      "heading": "REACT.JS DEVELOPMENT SERVICES",
+      "subheading": "Explore high-quality applications that are scalable, responsive, and compatible. We assist you in achieving exponential growth in your business by delivering an unparalleled user experience. "
+    },
+    "stats": [
+      {
+        "value": 4,
+        "suffix": "+",
+        "label": "React specialists worldwide"
+      },
+      {
+        "value": 4.8,
+        "suffix": "/5 stars",
+        "decimals": "1",
+        "label": "rating based on 65+ reviews"
+        
+      },
+      
+      {
+        "value": 10,
+        "suffix": "+",
+        "label": "Successful delivery of the React project"
+      },
+      {
+        "value": 8 ,
+        "suffix": "+ years",
+        "label": "of expertise in React development"
+      }
+    ]
+  },
+ "iconTopCard": {
+    "heading": "ADVANTAGES OF PARTNERING WITH GO INFOTECH FOR SOFTWARE DEVELOPMENT",
+    "items": [
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "BUSINESS-ORIENTED PERSONALIZATION",
+        "description": "We offer comprehensive software solutions that are custom-developed to your specific educational institution’s requirements."
+       
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "OPTIMIZED PERFORMANCE AND FLEXIBILITY",
+        "description": "Explore the expertise of our professionals, offering high-quality performance and scalability in the software solutions offered for the educational industry."
+      },
+      {
+        "iconPath": "/cardSvg/shield.svg",
+        "title": "COLLABORATE WITH CUTTING-EDGE TECHNOLOGIES",
+        "description": "We partner with updated technology tools to elevate performance and drive sales. We make use of AI, forecasting analytics, and data analytics for effective operations in the educational sector."
+        
+      },
+      {
+        "iconPath": "/cardSvg/folder.svg",
+        "title": "ADHERENCE TO REGULATORY COMPLIANCE AND SECURITY",
+        "description": "At Go InfoTech, we value your credibility, which is why we prioritize security in our software solutions while simultaneously focusing on regulatory compliance in the educational industry norms."
+        
+      },
+      {
+        "iconPath": "/cardSvg/globe.svg",
+        "title": "FACILITATING SCALABILITY AND INTEGRATION",
+        "description": "We offer scalable solutions for facilitating seamless user interaction with academic professionals and offering a compatible and interactive interface."
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "EFFECTIVE SUPPORT AND REAL-TIME MAINTENANCE",
+        "description": "We believe in offering real-time support and teacher assistance while paying deliberate attention to their unique needs and requirements in the educational sector."
+        
+      }
+    ]
+  },
+  "selectSidebar": {
+    "headingSidebar": "OUR REACT DEVELOPMENT SERVICES",
+    
+    "services": [
+      {
+        "title": "STAFF AUGMENTATION FOR REACT PRODUCTS",
+        "content": {
+           "paragraphs": [
+           
+          {
+            "text": "Add the expertise of the Angular team at Go InfoTech to your existing team, and make sure you augment it with highly specialized and experienced healthcare professionals from the most trusted Custom Software Development Company in Udaipur.",
+            "highlights": [
+              { "text": "Custom Software Development Company in Udaipur.", "link": "/technology/react" }
+              
+              ]
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "WE ASSIST YOU WITH:"
+             
+            }
+          ],
+          "list": [
+            "Offering skilled React developers who suit both short-term and long-term requirements.",
+            "Boosting your project’s development capabilities and expertise.",
+            "Providing adaptable and scalable staffing solutions customized to meet your specific project needs."
+           
+          ]
+          
+        },
+        "button": "READ MORE"
+        
+      },
+      {
+        "title": "CUSTOM REACT WEB DEVELOPMENT",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Our team is equipped with the necessary skills and expertise to craft a custom React website application that is responsive and modular, developed to meet your unique business requirements."
+             
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "WE ASSIST YOU WITH:"
+             
+            }
+          ],
+          "list": [
+            "Developing web applications that are scalable and high-quality ",
+            "Developing a user interface that is interactive and responsive with React ",
+            "Collaborating React with cutting-edge web technology"
+           
+          ]
+        }
+         
+      },
+      {
+        "title": "REACT CONSULTING AND STRATEGY",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Our React developers deliver insightful consultation sessions while also assisting you in strategizing and effectively implementing React within your technology infrastructure."
+           
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "WE ASSIST YOU WITH:"
+             
+            }
+          ],
+          "list": [
+            "Suggesting the best practices and framework of React",
+            "Helping in the transition from the existing framework to React",
+            "Assistance collaboration of React with the existing framework"
+            
+          ]
+        }
+        
+      },
+      {
+        "title": "REACT MAINTENANCE AND SUPPORT",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "We provide consistent maintenance and assistance for React applications while making sure that they are updated, prioritizing security, and ensuring that they remain functional."
+           
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "WE ASSIST YOU WITH:"
+             
+            }
+          ],
+          "list": [
+            "Ensuring consistent updates and feature-rich development ",
+            "Identifying and resolving issues, including troubleshooting and bug-fixing",
+            "Offering regular technical support and aid."
+            
+          ]
+        },
+        "button": "READ MORE",
+        "buttonLink":"/technology/react"
+         
+      },
+      {
+        "title": "REACT NATIVE MOBILE APP DEVELOPMENT",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "We deliver React Native to design cross-platform mobile applications, ensuring a native-like experience across iOS and Android platforms."
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "WE ASSIST YOU WITH:"
+             
+            }
+          ],
+          "list": [
+            "Designing feature-rich mobile applications",
+            "Smooth and seamless performance across several devices",
+            "Incorporation of personalized functionalities that suit your business requirements"
+            
+          ]
+        }
+         
+      }
+     
+    ]
+  },
+   "callToAction": {
+    "title": "EXPLORE THE POTENTIAL OF YOUR REACT PROJECT",
+    "subtitle": "Experience the excellence of our experts and specialist team in this intricate realm of digitalization. We offer tailored assistance that is suited to your unique needs. Consult with us now.",
+    "buttonText": "Get expert advice",
+    "textColor1": "text-primary",
+    "textColor": "text-secondary"
+    
+
+  },
+    "techStack": {
+    "heading": "REACT DEVELOPMENT TECH-STACK",
+    "categories": [
+      {
+        "key": "frontend",
+        "label": "REACT FRAMEWORKS & LIBRARIES",
+        "department": {
+          "title": "REACT FRAMEWORKS & LIBRARIES",
+          "description": "Developing web applications that are more dynamic, scalable, and user-friendly by expanding React’s functionalities with a collection of frameworks and libraries.",
+          "subtitle": "THESE LIBRARIES/FRAMEWORKS SERVE IN:",
+          "stats": [
+            "Designing web applications that are SEO-friendly;",
+            "Administrate complex application states;",
+            "Develop websites with dynamic data incorporations",
+            "Smoothly navigating and routing."
+          ],
+          "technologies": [
+            { "name": "Ant Design", "icon": "/antdesign.png" },
+            { "name": "Gatsby", "icon": "/gatsby.png" },
+            { "name": "Material UI", "icon": "/materialui.png" },
+            { "name": "Next.js", "icon": "/next.js.png" },
+            { "name": "React Bootstrap", "icon": "/reactjs.png" },
+            { "name": "Redux", "icon": "/redux.png" }
+            
+          ]
+        }
+      },
+      {
+        "key": "backend",
+        "label": "BACKEND TECHNOLOGIES FOR REACT",
+        "department": {
+          "title": "BACKEND TECHNOLOGIES FOR REACT",
+          "description": "Augmenting React front-ends with resilient backend technologies for comprehensive full-stack development, guaranteeing seamless integration and optimal performance.",
+           "subtitle": "THESE LIBRARIES/FRAMEWORKS SERVE IN:",
+          "stats": [
+            "Creating server-side solutions that are scalable",
+            "Enabling efficient data management and API interactions;",
+            "Incorporating real-time features and user authentication;",
+            "Enhancing capabilities for data querying."
+          ],
+          "technologies": [
+           { "name": "Angular", "icon": "/NET-1.png" },
+{ "name": "Go", "icon": "/GOlang-1.png" },
+{ "name": "Java", "icon": "/Java-1.png" },
+{ "name": "Scala", "icon": "/Scala-1.png" },
+{ "name": "Node JS", "icon": "/NodeJS-1.png" },
+{ "name": "PHP", "icon": "/PHP-1.png" },
+{ "name": "Python", "icon": "/Python-1.png" },
+{ "name": "Laravel", "icon": "/Laravel-1.png" },
+{ "name": "C++", "icon": "/cplus.png" }
+
+          ]
+        }
+      }
+      
+    ]
+  },
+  
+  "cardMethodology": {
+    "heading": "OUR TECH STACK",
+    
+    "items": [
+      {
+        "title": "NODE",
+        "description": "Ideal for real-time applications, Node offers high performance and scalability. Its event-driven architecture makes it perfect for data-intensive, real-time applications across networked devices.",
+        "iconPath": "/cardSvg/globe.svg"
+        
+      },
+      {
+        "title": "JAVA",
+        "description": "Java is renowned for its resilience and cross-platform capabilities, Java is widely chosen for enterprise-level applications. It specializes in scalability, security, and dependability, rendering it a dependable option for resourceful business solutions.",
+        "iconPath": "/cardSvg/folder.svg",
+        "highlight": "custom Software Development Company in Udaipur",
+        "iconLink": "/technology/react"
+      },
+      {
+        "title": "SCALA",
+        "description": "Scala seamlessly integrates object-oriented and functional programming paradigms, providing a robust framework for multifaceted applications. It efficiently works with concurrent and networked systems and with large data applications.",
+        "iconPath": "/cardSvg/folder.svg"
+      
+      },
+      {
+        "title": "PHP",
+        "description": "PHP is the stepping stone of web development, well-known for its minimalism and effectiveness. It plays a pivotal role as it helps in designing dynamic web pages and collaborating with several databases.",
+         
+        "iconPath": "/cardSvg/contact.svg"
+        
+      
+      },
+       {
+        "title": "PYTHON",
+        "description": "Well-known for its directness and clarity in understanding it, Python offers a variety of application options. It specifically focuses on handling data analysis, Machine Learning (ML), and numerical analysis",
+         
+        "iconPath": "/cardSvg/contact.svg"
+      
+      
+      },
+       {
+        "title": "RUBY ON RAILS",
+        "description": "Ruby on Rails is well-known for its functionalities, such as rapid development capabilities. It provides built-in features for handling tasks like database management, routing, and templating, making it a powerful tool for rapidly developing web applications.",
+         
+        "iconPath": "/cardSvg/contact.svg"
+        
+      
+      }
+    ]
+  }
+}

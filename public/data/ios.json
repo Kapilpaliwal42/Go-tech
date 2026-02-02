@@ -1,0 +1,386 @@
+{
+      "statsSection": {
+    "content": {
+      "bread": {
+        "prefix": "Go-tech Solution | Technology | ",
+        "text": "IOS Development Services"
+      },
+      "heading": "OUR TECH STACK",
+      "subheading": "Explore the blend of technologies we harness to turn challenging tasks into successful projects."
+    },
+    "stats": [
+      {
+        "value": 60,
+        "suffix": "+",
+        "label": "projects delivered successfully"
+      },
+      {
+        "value": 8,
+        "suffix": " years",
+        "label": "of expertise in business"
+        
+      },
+      {
+        "value": 7,
+        "suffix": "out of 9 clients",
+        "label": "were willing to refer Go InfoTech"
+      },
+      {
+        "value": 20,
+        "suffix": "+",
+        "label": "experienced specialists worldwide"
+      }
+    ]
+  },
+  "iconTopCard": {
+    "heading": "Why Choose Us",
+    "items": [
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "TRUSTED AND RENOWNED",
+        "description": "We are dedicated to serving you with excellence, and this is vouched by our client’s unwavering trust in our services, as we are a trusted custom Software Development Company in Udaipur.",
+        "highlight": "custom Software Development Company in Udaipur"
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "EXPERTISE AT YOUR SERVICE:",
+        "description": "Our team is dedicated to serving you with expertise, knowledge, and professionalism working to fuel the growth of your business. Choose Go InfoTech Solution for a reliable digital partner."
+      },
+      {
+        "iconPath": "/cardSvg/shield.svg",
+        "title": "INDUSTRIES' EXPERTISE:",
+        "description": "We are a trusted Software Development company in Udaipur, with expertise from different industries all around the world using innovation, knowledge, and skills.",
+        "highlight": "Software Development company in Udaipur"
+       
+      },
+      {
+        "iconPath": "/cardSvg/folder.svg",
+        "title": "HIGH SATISFACTION RATES",
+        "description": "Empower your business with promising results and IT solutions by professionals who are dedicated to serving you right."
+        
+      },
+      {
+        "iconPath": "/cardSvg/globe.svg",
+        "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+        "description": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "WIDE RANGE OF SERVICES",
+        "description": "Offering software development services, including custom software development, mobile app development, web application development, software maintenance and support, and more."
+        
+      }
+    ]
+  },
+    "selectSidebar": {
+    "headingSidebar": "OUR SERVICES",
+    
+    "services": [
+    {
+      "title": "STAFF AUGMENTATION",
+      
+      "content": {
+        "paragraphs": [
+          {
+            "text": "Go-Infotech Solution Pvt Ltd is a custom Software Development Company in Udaipur aiming to provide seamless project execution by staff augmentation for optimal resource management:",
+            "highlights": [
+              {
+                "text": "Software Development Company in Udaipur",
+                "link": "/services/devops"
+              }
+            ]
+          }
+        ],
+        "sections": [
+          {
+            "heading": "IT STAFF AUGMENTATION",
+            "paragraphs": [
+              {
+                "text": "We are dedicated to providing you with highly skilled and experienced IT professionals who will help you focus on core aspects so that your business reaches new heights.",
+                "highlights": [
+                  {
+                    "text": "IT STAFF AUGMENTATION",
+                    "link": "/services/devops"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "heading": "COMMITTED TEAM",
+            "paragraphs": [
+              "Our team at Go Tech Solution is a living testament of expertise and knowledge who are committed to meeting your unique business needs."
+            ]
+          },
+          {
+            "heading": "ON-DEMAND CTO",
+            "paragraphs": [
+              "We offer CTO services for strategic technological assistance so that your business reaches exponential heights without any overhead of hiring a full-time professional."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "IT CONSULTING",
+      "content": {
+        "paragraphs": [
+          {
+            "text": "Our IT Company in Udaipur is here to navigate you in the evolving tapestry of Technology while providing appropriate guidance from highly qualified professionals:"
+          }
+        ],
+        "sections": [
+          {
+            "heading": "TECHNICAL DUE DILIGENCE",
+            "paragraphs": [
+              "After conducting a thorough evaluation of your business while assessing the project feasibility, relevant risks, and growth ambition of your project, our team provides strategic insights for your project growth."
+            ]
+          },
+          {
+            "heading": "PROJECT MANAGEMENT AND COORDINATION",
+            "paragraphs": [
+              "Our team ensures that your project delivery is timely and effective through proper management and streamlined communication with the development teams."
+            ]
+          },
+          {
+            "heading": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+            "paragraphs": [
+              "Ensure that you make data-driven decisions by thorough evaluation of your data and gain a competitive advantage over your rivals with our Data analytics and BI services."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "CUSTOM SOFTWARE DEVELOPMENT",
+      "content": {
+        "paragraphs": [
+          {
+            "text": "Our team is committed to delivering unique software solutions to your specific business requirements. Our end-to-end development service results in high-performance outcomes that are structured to your business needs."
+          }
+        ],
+        "sections": [
+          {
+            "heading": "WEB DEVELOPMENT",
+            "paragraphs": [
+              {
+                "text": "Aim to develop a user-centric web application that is adaptive, intuitive, visually engaging, and designed to meet the unique needs of your business.",
+                "highlights": [
+                  {
+                    "text": "WEB DEVELOPMENT",
+                    "link": "/services/devops"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "heading": "MOBILE DEVELOPMENT",
+            "paragraphs": [
+              {
+                "text": "Crafting a mobile application that is user-friendly, visually appealing, and can be used on Android and iOS platforms to stay updated with the evolving tech.",
+                "highlights": [
+                  {
+                    "text": "MOBILE DEVELOPMENT",
+                    "link": "/services/devops"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "heading": "DISCOVERY PHASE",
+            "paragraphs": [
+              "We assist you in a thorough evaluation of your business for properly crafting the vision, goals, and intent of the business."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "INTELLIGENT AUTOMATION",
+      "content": {
+        "paragraphs": [
+          {
+            "text": "We are dedicated to serving you with the best services incorporating state-of-the-art technologies like AI, machine learning, blockchain, and IoT, while we transform your business to achieve new heights."
+          }
+        ],
+        "sections": [
+          {
+            "heading": "AI & ML SOLUTIONS",
+            "paragraphs": [
+              {
+                "text": "Empower your business to grow by incorporating Artificial Intelligence and Machine Learning to enhance the decision making process and robust growth of business.",
+                "highlights": [
+                  {
+                    "text": "AI & ML SOLUTIONS",
+                    "link": "/services/ai-ml"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "heading": "BLOCKCHAIN SOLUTIONS",
+            "paragraphs": [
+              {
+                "text": "Secure and transparent blockchain solutions tailored to your unique needs and industry requirements, ranging from cryptocurrencies to decentralized applications (DApps).",
+                "highlights": [
+                  {
+                    "text": "BLOCKCHAIN SOLUTIONS",
+                    "link": "/services/devops"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "heading": "IoT SOLUTIONS",
+            "paragraphs": [
+              "A seamless interlinkage and data exchange using our IoT Solutions between devices, systems and individuals which will fuel the growth of the business."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "MANAGED IT SERVICES",
+      "content": {
+        "paragraphs": [
+          {
+            "text": "At Go InfoTech Solution, a leading Software Development company in Udaipur we offer managed IT services to foster the growth of your business:",
+            "highlights": [
+              {
+                "text": "Software Development company in Udaipur",
+                "link": "/services/web-development"
+              }
+            ]
+          }
+        ],
+        "sections": [
+          {
+            "heading": "DATABASE DEVELOPMENT SERVICES",
+            "paragraphs": [
+              "To ensure the effective storage, retrieval, and management of business data we design, develop and optimize database development services."
+            ]
+          },
+          {
+            "heading": "CLOUD & DEVOPS SOLUTIONS",
+            "paragraphs": [
+              "We incorporate the best practices of DevOps and cloud solutions to expedite software delivery and collaborative space along with streamlining the entire development and deployment lifecycle."
+            ]
+          },
+          {
+            "heading": "SOLUTION ARCHITECTURE SERVICES",
+            "paragraphs": [
+              "Our team is dedicated to designing and deploying adaptive, secure, and high-performance IT infrastructure that is crafted to align with your business objectives."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+  },
+   
+    "techStack": {
+    "heading": "TECH STACK",
+    "categories": [
+      {
+        "key": "frontend",
+        "label": "FRONT-END DEVELOPMENT",
+        "department": {
+          "title": "FRONT-END DEVELOPMENT",
+          "description": "Empower your business with our expert front-end solutions focusing fundamentally on the smooth user experience and effectively handle your needs and preferences and aligning it to the industry’s unique requirement.",
+          "subtitle": "OUR FRONT-END DEPARTMENT HAS:",
+          "stats": [
+            "20+ Front-end developers",
+            "8 years of experience",
+            "4.8 rating on Google"
+          ],
+          "technologies": [
+            { "name": "Angular", "icon": "/Angular-icon.png"  },
+            { "name": "React JS", "icon": "/React-JS.png" },
+            { "name": "Vue", "icon": "/Vue.png" }
+          ]
+        }
+      },
+      {
+        "key": "backend",
+        "label": "BACK-END DEVELOPMENT",
+        "department": {
+          "title": "BACK-END DEVELOPMENT",
+          "description": "We help you build a strong foundation for your software and applications with scalable and secure back-end systems that will enable you to handle all your tasks seamlessly and result in the robust growth of your business. ",
+           "subtitle": "OUR BACK-END DEPARTMENT HAS:",
+          "stats": [
+            "20+ Back-end developers;",
+            "8 years of experience;",
+            "4.8 rating on Google"
+          ],
+          "technologies": [
+           { "name": ".NET", "icon": "/NET-1.png" },
+{ "name": "Go", "icon": "/GOlang-1.png" },
+{ "name": "Java", "icon": "/Java-1.png" },
+{ "name": "Scala", "icon": "/Scala-1.png" },
+{ "name": "Node JS", "icon": "/NodeJS-1.png" },
+{ "name": "PHP", "icon": "/PHP-1.png" },
+{ "name": "Python", "icon": "/Python-1.png" },
+{ "name": "Ruby", "icon": "/Ruby-1.png" },
+{ "name": "Rust", "icon": "/Rust-1.png" }
+
+          ]
+        }
+      },
+      {
+        "key": "mobile",
+        "label": "MOBILE APP DEVELOPMENT",
+        "department": {
+          "title": "MOBILE APP DEVELOPMENT",
+          "description": "Our team of dedicated experts and developers at the leading IT Company in Udaipur is here to skillfully craft captivating and functional mobile apps for Android and iOS platforms, crafted to meet your unique needs and reach out target audience.",
+           "subtitle": "OUR MOBILE DEPARTMENT HAS:",
+          "stats": [
+            "10+ Mobile developers",
+            "8 years of experience",
+            "4.8 rating on Google"
+          ],
+          "technologies": [
+            { "name": "Flutter", "icon": "/Angular-icon.png" },
+{ "name": "Ionic", "icon": "/Ionic-1.png" },
+{ "name": "Kotlin", "icon": "/Kotlin-1.png" },
+{ "name": "React Native", "icon": "/React-Native-1.png" },
+{ "name": "Swift", "icon": "/Swift-1.png" }
+
+          ]
+        }
+      },
+      {
+        "key": "uiux",
+        "label": "UI/UX DESIGN",
+        "department": {
+          "title": "UI/UX DESIGN",
+          "description": "Through our user-centric approach we are successful in reaching the target audience via our  visually appealing UI/UX designs that are user-friendly and lead to an exceptional user experience on all platforms.",
+          "subtitle": "OUR MOBILE DEPARTMENT HAS:",
+          "stats": [
+            "12+ Designers",
+            "6 years of experience",
+            "4.7 rating on Google"
+          ],
+          "technologies": [
+          { "name": "Figma", "icon": "/Figma-1.png" },
+{ "name": "Adobe XD", "icon": "/Adobe_XD-1.png" },
+{ "name": "Sketch", "icon": "/Sketch-1.png" },
+{ "name": "InVision", "icon": "/Invision-1.png" },
+{ "name": "Zeplin", "icon": "/Zeplin-1.png" },
+{ "name": "FigJam", "icon": "/FigJam-1.png" },
+{ "name": "Miro", "icon": "/Miro-1.png" },
+{ "name": "Maze", "icon": "/Maze-1.png" },
+{ "name": "Protopie", "icon": "/Protopie-1.png" }
+
+          ]
+        }
+      }
+    ]
+  }
+}
+

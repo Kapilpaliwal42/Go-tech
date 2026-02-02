@@ -1,0 +1,516 @@
+{
+  "statsSection": {
+    "content": {
+       "bread": {
+        "prefix": "Go-Tech Solution | Services | ",
+        "text": "Machine Learning Consulting"
+      },
+      "heading": "MACHINE LEARNING CONSULTING",
+      "subheading": "Embark on the journey of technological enchantment with our specialists in Machine Learning for the exponential growth of your business with Go InfoTech Solution."
+    },
+    "stats": [
+      {
+        "value": 10,
+        "suffix": "+",
+        "label": "specialists in machine learning"
+      },
+      {
+        "value": 4.8,
+        "decimals":"1",
+        "suffix": "/5",
+        "label": "review rating based on 60+ reviews"
+        
+      },
+       {
+        "value": 8,
+        "suffix": " years",
+        "label": "of expertise "
+      },
+      {
+        "value": 20,
+        "suffix": "+",
+        "label": "ML projects successfully delivered"
+      }
+     
+    ]
+  },
+ 
+  
+ "iconTopCard": {
+    "heading": "WHY CHOOSE US",
+    "items": [
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "IT SOLUTIONS FOR STARTUPS",
+        "description": "Our team of specialists in Machine Learning at Go InfoTech Solution is committed to providing a service that best suits your requirements, from initial to market launch."
+        
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "RAPID DEVELOPMENT AND PROTOTYPING",
+        "description": "We aim to pay attention to the rapid development of Machine Learning and to transform your idea into reality using our expertise and knowledge."
+      },
+      {
+        "iconPath": "/cardSvg/shield.svg",
+        "title": "UNDERSTANDING THE STARTUPS",
+        "description": "Our team is dedicated to using their skills and expertise to design and develop functional solutions using Machine Learning that meet the requirements of startups."
+        
+      },
+      {
+        "iconPath": "/cardSvg/folder.svg",
+        "title": "INDUSTRY NETWORK ACCESS",
+        "description": "We ensure that startup owners gain proper insights, access to a vast network of industry experts, and the assistance of our specialists in Machine Learning."
+        
+      },
+      {
+        "iconPath": "/cardSvg/globe.svg",
+        "title": "AI R&D LAB",
+        "description": "Witness our team's commitment to digital innovation while utilizing Machine Learning for the successful start of startups at AI Research and Development Lab."
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "HIGH SATISFACTION RATES",
+        "description": "Achieve business growth with GoTech, where we are determined to satisfy our clients and serve with expertise and knowledge."
+        
+      }
+    ]
+  },
+  "gridBlueCard": {
+    
+    "heading":"EVERYDAY PROBLEM-SOLVING WITH ML SOLUTIONS",
+    "items": [
+      
+      {
+        "title": "PREDICTIVE ANALYTICS",
+        "description": "Empowering businesses with AI-driven forecasts of data and future trends, behaviors, and events.",
+        "path": "/industries/healthcare",
+        
+         "list": [
+          "Anticipating sales and trend analysis;",
+          "Forecasting Equipment Maintenance Requirements",
+          "Identifying customer behaviors."
+        ]
+      },
+      {
+        "title": "NATURAL LANGUAGE PROCESSING (NLP)",
+        "description": "Identify and generate human language interactions, elevating the user experience.",
+         "path": "/industry/healthcare",
+         "list": [
+          "Chatbots and digital assistants;",
+          "User feedback sentimental analysis;",
+          "Text condensation and sorting."
+        ]
+      },
+      {
+        "title": "IMAGE RECOGNITION",
+        "description": "Visual data interpretation from around the globe",
+         "path": "/industry/healthcare",
+         "list": [
+          "Security Facial Identification;",
+          "Medical Image Analysis;",
+          "Quality control automation."
+        ]
+      },
+     {
+        "title": "RECOMMENDATION SYSTEMS",
+        "description": "Recommendation of content based on the specific needs of the user",
+        "path": "/industry/healthcare",
+        "list": [
+          "E-commerce Product Suggestions",
+          "Content recommendation on platforms;",
+          "Tailored advertising for businesses."
+        ]
+      },
+      {
+        "title": "ANOMALY DETECTION",
+        "description": "Detection of Anomalies in Non-Conforming Patterns",
+        "path": "/industry/healthcare",
+         "list": [
+          "Fraud identification in bank transactions;",
+          "Cybersecurity and Intrusion Detection",
+          "Industrial Anomaly Detection"
+        ]
+      },
+      {
+        "title": "OPTIMIZATION ALGORITHMS",
+        "description": "Optimizing the operations and providing assistance in decision-making for effective solutions",
+        "path": "/industries/healthcare",
+         "list": [
+          "Supply chain management;",
+          "Project Resource Management;",
+          "Logistics Route Optimization"
+        ]
+      }
+     
+    ]
+  },
+  
+  "callToAction": {
+    "title": "CROSS-INDUSTRY EXPERTISE IN ML DEVELOPMENT",
+    "subtitle": "Utilizing the revolutionary capabilities of Machine Learning, we customize solutions to address the distinctive hurdles encountered within various industries. Whether it involves enriching user interactions within media or employing predictive analytics within healthcare, our proficiency fuels advancement and expansion across a wide array of sectors.",
+    "buttonText": "ALL INDUSTRIES",
+    "textColor1": "text-primary",
+    "textColor": "text-secondary"
+    
+
+  }, 
+   "whiteBgCard": {
+    
+   
+    
+    "whitecards": [
+        
+      {
+        "title": "MEDIA & ENTERTAINMENT",
+        "titlePath": "/industries/healthcare",
+        "description": [ { "text": "Predictive Analysis:" },
+          "Recommending content that is relevant to the user based on their individual habits, elevating the user experience.",{"text": "Content Recommendation: "},"Gaining insights about the preferences of the user and their online behavior and patterns and further suggesting content as per their likes.",{"text": "Automated Content Tagging:"}," Incorporating ML for redefining content and its organization using automation."]
+      },
+     {
+        "title": "AUTOMOTIVE",
+        "titlePath": "/industries/healthcare",
+       "description": [ { "text": "Predictive Maintenance:" },
+          "Regular updates regarding machine downtimes and maintenance requirements.",{"text": "Driver Assistance: "},"Integrate functionalities such as lane detection and collision avoidance.",{"text": "Voice-Activated Systems:"}," Improve in-vehicle systems with voice recognition for hands-free commands."]
+       },
+      {
+        "title": "EDUCATION",
+        "titlePath": "/industries/healthcare",
+       "description": [ 
+        { "text": "Personalized Learning:" },
+          "Personalized study materials suit the student's needs.",
+          {"text": "Automated Assessment: "},
+          "Incorporate ML to automate the assessment process for performance evaluation.",
+          {"text": "Predictive Analytics:"},
+          " Identifying the student's needs and requirements for support."]
+      },
+      {
+        "title": "E-COMMERCE",
+        "titlePath": "/industries/healthcare",
+         "description": [ 
+        { "text": "Predictive Analysis:" },
+          "Suggests products based on the likes and dislikes of the user.",
+          {"text": "Inventory Forecasting: "},
+          " Anticipate inventory requirements by analyzing sales patterns.",
+          {"text": "Chatbots:"},
+          " Elevated user experience via AI-driven chatbot services for prompt response."]     },
+      {
+        "title": "FINTECH",
+        "titlePath": "/industries/healthcare",
+        "description": [ 
+        { "text": "Fraud Identification: " },
+          "Use ML analytics to identify and prevent skeptical transactions",
+          {"text": "Credit Assessment: "},
+          " Improve loan approval procedures through predictive credit risk models.",
+          {"text": "Automated Trading: "},
+          " Utilize ML models for instantaneous trading choices."]   },
+        {
+        "title": "GIS",
+        "titlePath": "/industries/healthcare",
+        "description": [ 
+        { "text": "Satellite Imagery Analysis: " },
+          "Derive insights for land utilization classification.",
+          {"text": "Route Planning:"},
+          " Forecast traffic flow for optimization of logistics and transportation.",
+          {"text": "Catastrophe Forecasting: "},
+          " Utilize environmental data analysis to anticipate natural calamities."]  },
+        {
+        "title": "HEALTHCARE",
+        "titlePath": "/industries/healthcare",
+        "description": [ 
+        { "text": "Predictive Analysis:" },
+          "Evaluation of patient data for disease identification and prevention measures.",
+          {"text": "Medical Image Analysis:"},
+          "Employ ML to enhance image recognition in diagnostic processes.",
+          {"text": "Personalized Treatment: "},
+          " Specific treatment options based on the unique needs of the patient via data and predictions."] }
+      
+      
+    ]
+  },
+  
+    "boxBaseBord": {
+    "headsection": "OUR MACHINE LEARNING PROCESS",
+    
+    "steps": [
+      {
+        "title": "1. CONNECT WITH US",
+       "description": "Connect with Go InfoTech solution to experience excellence. We understand your unique vision, goals, and objectives by having a detailed discussion. "
+      },
+      {
+        "title": "2. THOROUGH ANALYSIS",
+        "description": "We are determined to understand your unique needs. Further, we will proceed with formalities such as a Non-Disclosure Agreement (NDA) We will explore your data sources, analyze historical data patterns, and review existing strategies to create a solution plan, ensuring alignment between our visions."
+      },
+      {
+        "title": "3. DATA BLUEPRINTING",
+        "description": "After a thorough understanding of your vision and the formulation of strategies that are crafted to your unique needs, we will now focus on predictive data analysis and design a prototype that aligns with your objectives."
+      },
+        {
+        "title": "4. TEST & REFINE",
+       "description": "We focus on delivering a functional prototype along with insights on data utilization. This phase enables us to validate our approach and make any necessary refinements."
+      },
+      {
+        "title": "5. FULL-SCALE DEVELOPMENT",
+        "description": "Post-validation of the prototype, we move forward to full-scale development. During this phase, we integrate the model into your existing models, ensuring smooth data flow and offering real-time insights."
+      },
+      {
+        "title": "6. DEPLOYING & ON-GOING MONITORING",
+        "description": "After development, we deploy the solution on the required platform. Further, we consistently monitor the model and conduct a thorough performance evaluation, ensuring its sustained accuracy and relevance. "
+      },
+        {
+        "title": "7. ITERATE & ENHANCE",
+       "description": "As your business advances, your data and requirements also evolve. We partner with you on this journey, prepared to iterate and enhance the model to adapt to the dynamic shifts in business landscapes and data patterns. We are dedicated to ensuring that our solutions offer effective growth while also incorporating Machine Learning into your business."
+      }
+     
+    ]
+  },
+ 
+  "iconTopCard2": {
+    "heading": "GET TO KNOW GO INFOTECH’S DISCOVERY TEAM:",
+    "items": [
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "PRODUCT OWNER",
+        "description": "Craft unique business strategies that fulfill your specific project requirements, and ensure that these strategies align with your project’s goals and objectives. Identify your unique business vision and what you expect from the product."
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "SOLUTION ARCHITECT",
+        "description": "We conduct comprehensive research to analyze the workings of the industry and craft solutions based on your unique needs."
+      },
+      {
+        "iconPath": "/cardSvg/shield.svg",
+        "title": "PROJECT MANAGER",
+        "description": "We meticulously plan and work closely with our team to ensure that our technical team optimizes the project workflow and its timely execution."
+        
+      },
+      {
+        "iconPath": "/cardSvg/folder.svg",
+        "title": "UI/UX DESIGNER",
+        "description": "Through our user-centric approach, we are successful in reaching the target audience via our visually appealing UI/UX designs that are user-friendly and lead to an exceptional user experience on all platforms."
+        
+      }
+     
+
+    ]
+  },
+  "selectSidebar": {
+    "headingSidebar": "OUR MACHINE LEARNING SERVICES",
+    
+    "services": [
+      {
+        "title": "STAFF AUGMENTATION FOR ML PROJECTS",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Our team is dedicated to providing you with highly skilled and experienced IT professionals who have expertise in Machine Learning and will enable you to focus on core aspects so that your business reaches new heights."
+           
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "APPLICATION:"
+             
+            }
+          ],
+          "list": [
+            "Utilizing the expertise of our ML specialist to integrate with your team",
+            "Assistance and use of optimal procedures for ML development",
+            "Guidance for operations management and administration of the projects"
+           
+          ]
+        }
+        
+       
+      },
+      {
+        "title": "DEEP LEARNING SOLUTIONS",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Empower your business with deep-learning solutions to help you recognize patterns, images, and even audio from voluminous data, as cutting-edge technology can function like a human brain."
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "HOW WE EMPOWER YOUR PROJECTS:"
+             
+            }
+          ],
+          "list": [
+            "Analyze visual and audio data for several entertainment companies",
+            "Develop systems for image and voice recognition ",
+            "Predictive algorithms for e-commerce platforms ",
+            "Trend- analysis based on former data"
+          ]
+        }
+         
+      },
+      {
+        "title": "NATURAL LANGUAGE PROCESSING (NLP)",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Incorporate advanced algorithms to comprehend and generate human language. NLP enables and supports chatbots, sentiment analysis, and content recommendation systems for an elevated user experience."
+           
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "HOW WE USER EXPERIENCE USING NLP:"
+             
+            }
+          ],
+          "list": [
+            "Innovation of advanced chatbots for customer support;",
+            "Automate content condensing and organizing",
+            "Search engine enhancement with interpretive understanding and real-time language translation for global platforms."
+           
+          ]
+        }
+         
+      },
+      {
+        "title": "PREDICTIVE ANALYTICS",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Leverage AI to analyze former data and future trend prediction. This can be significant for industries such as finance, e-commerce, entertainment, and healthcare."
+           
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "HOW WE SHAPE FUTURE OF YOUR BUSINESS:"
+             
+            }
+          ],
+          "list": [
+            "Predict stock market analysis for the financial sector;",
+            "Trend predictions and market analysis for e-commerce platforms;",
+            "Examine consumer behavior for strategic marketing and Supply optimization"
+            
+          ]
+        }
+        
+      },
+      {
+        "title": "ML MODEL OPTIMIZATTION AND MAINTENANCE",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Our team of experts are dedicated to efficient, and optimal creation of ML solutions that provide consistent support to elevate your business’s success. "
+            
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "HOW DO WE ASSIST YOU:"
+             
+            }
+          ],
+          "list": [
+            "Develop authentic ML-driven simulations for optimal operations and training purposes ",
+            "Examine user motions and performance for software solutions for issues arising  ",
+            "Develop personalized solutions via ML algorithms and regular updates "
+            
+          ]
+        }
+         
+      }
+      
+    ]
+  },
+    "techStack": {
+    "heading": "OUR MACHINE LEARNING EXPERTISE",
+    "categories": [
+      {
+        "key": "frontend",
+        "label": "PROGRAMMING LANGUAGES",
+        "department": {
+          "title": "PROGRAMMING LANGUAGES",
+          "description": "Programming languages are fundamental for the development of Machine Learning and are essential for the purposes of creating algorithms, handling data processing, and model training, and facilitating the implementation of complex machine learning techniques and applications.",
+          "subtitle": "APPLICATION:",
+          "stats": [
+            "Developing functional and responsive Machine Learning applications ",
+            "Data analysis and transformation, Exploratory Data Analysis (EDA) & data visualization",
+            "Developing and deploying machine learning models"
+          ],
+          "technologies": [
+            { "name": "C++", "icon": "/cplus.png"  },
+            { "name": "Java", "icon": "/React-JS.png" },
+            { "name": "Python", "icon": "/Python-1.png" },
+            { "name": "Scala", "icon": "/java-1.png" }
+          ]
+        }
+      },
+      {
+        "key": "backend",
+        "label": "TECHNOLOGIES & FRAMEWORKS",
+        "department": {
+          "title": "TECHNOLOGIES & FRAMEWORKS",
+          "description": "Utilizing these technological infrastructures for developing tailored tools and libraries, spanning from data preprocessing to model deployment, simplifies the machine learning development process.",
+           "subtitle": "APPLICATION:",
+          "stats": [
+            "Developing, training, and deploying deep learning models",
+            "Crafting and designing prototypes of neural network architectures.",
+            "Conducting research using dynamic computational graphs;"
+          ],
+          "technologies": [
+           
+{ "name": "Caffe", "icon": "/caffe.png" },
+{ "name": "Keras", "icon": "/Keras_logo-2.png" },
+{ "name": "MXNet", "icon": "/mxnet.png" },
+{ "name": "PyTorch", "icon": "/PyTorch-1.png" },
+{ "name": "Scikit-learn", "icon": "/scikit.png" },
+{ "name": "TensorFlow", "icon": "/Tensorflow-1.png" }
+
+
+          ]
+        }
+      },
+      {
+        "key": "mobile",
+        "label": "CLOUD PLATFORMS",
+        "department": {
+          "title": "CLOUD PLATFORMS",
+          "description": "Ensuring the cloud platforms deliver responsive, functional, and globally accessible database services for the purpose of effective operations management and maintaining high performance.",
+           "subtitle": "WHERE AND HOW WE USE IT:",
+          "stats": [
+            "Leveraging cloud resources to train models on large datasets without hardware limitations;",
+            "Hosting models in the cloud for global accessibility and high availability;",
+            "Storing vast amounts of data securely and cost-effectively in the cloud;",
+            "Working on machine learning projects collaboratively and maintaining versions of models and data."
+          ],
+          "technologies": [
+            { "name": "AWS", "icon": "/aws-1.png"  },
+            { "name": "IBM Watson", "icon": "/ibm-watson.png" },
+            { "name": "Firebase", "icon": "/firebase.png" },
+            { "name": "Google Cloud ", "icon": "/googleCloud.png"  },
+            { "name": "Microsoft Azure", "icon": "/Microsoft_Azure.png" }
+            
+          ]
+        }
+      }
+      
+    ]
+  }
+
+ 
+}

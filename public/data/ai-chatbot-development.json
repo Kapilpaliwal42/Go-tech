@@ -1,0 +1,479 @@
+{
+  "statsSection": {
+    "content": {
+       "bread": {
+        "prefix": "Go-tech Solution | Services | ",
+        "text": "AI CHATBOT DEVELOPMENT SERVICES"
+      },
+      "heading": "AI CHATBOT DEVELOPMENT SERVICES",
+      "subheading": "Our bespoke chatbots can streamline and simplify your business processes. Go-InfoTech’s NLP/deep learning-driven chatbots execute human-like conversations with users and deliver a substantial ROI. "
+    },
+    "stats": [
+      {
+        "value": 80,
+        "suffix": "+",
+        "label": "Members in team"
+      },
+      {
+        "value": 4.8,
+        "decimals":"1",
+        "suffix": "/5",
+        "label": "review rating based on 55+ reviews"
+        
+      },
+       {
+        "value": 8,
+        "suffix": " years",
+        "label": "of expertise "
+      },
+      {
+        "value": 300,
+        "suffix": "+",
+        "label": "Successful projects delivery"
+      }
+     
+    ]
+  },
+ 
+  
+ "iconTopCard": {
+    "heading": "WHY CHOOSE US",
+    "items": [
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "IT SOLUTIONS FOR STARTUPS",
+        "description": "Our team of specialists in Machine Learning at Go InfoTech Solution is committed to providing a service that best suits your requirements, from initial to market launch."
+        
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "RAPID DEVELOPMENT AND PROTOTYPING",
+        "description": "We aim to pay attention to the rapid development of Machine Learning and to transform your idea into reality using our expertise and knowledge."
+      },
+      {
+        "iconPath": "/cardSvg/shield.svg",
+        "title": "UNDERSTANDING THE STARTUPS",
+        "description": "Our team is dedicated to using their skills and expertise to design and develop functional solutions using Machine Learning that meet the requirements of startups."
+        
+      },
+      {
+        "iconPath": "/cardSvg/folder.svg",
+        "title": "INDUSTRY NETWORK ACCESS",
+        "description": "We ensure that startup owners gain proper insights, access to a vast network of industry experts, and the assistance of our specialists in Machine Learning."
+        
+      },
+      {
+        "iconPath": "/cardSvg/globe.svg",
+        "title": "AI R&D LAB",
+        "description": "Witness our team's commitment to digital innovation while utilizing Machine Learning for the successful start of startups at AI Research and Development Lab."
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "HIGH SATISFACTION RATES",
+        "description": "Achieve business growth with GoTech, where we are determined to satisfy our clients and serve with expertise and knowledge."
+        
+      }
+    ]
+  },
+  
+  
+  "callToAction": {
+    "title": "CROSS-INDUSTRY EXPERTISE IN ML DEVELOPMENT",
+    "subtitle": "Utilizing the revolutionary capabilities of Machine Learning, we customize solutions to address the distinctive hurdles encountered within various industries. Whether it involves enriching user interactions within media or employing predictive analytics within healthcare, our proficiency fuels advancement and expansion across a wide array of sectors.",
+    "buttonText": "ALL INDUSTRIES",
+    "textColor1": "text-primary",
+    "textColor": "text-secondary"
+    
+
+  }, 
+  
+   "cardGridHovBase": {
+    "heading": "APPLICATION IN DIFFERENT INDUSTRIES",
+    "subdescription": "Customize the development of chatbot solutions based on your specific needs and preferences. With a customer-centric approach, we aim to transform your business and assist you in reaching new heights.",
+    
+    "cards": [
+      {
+        "title": "AUTOMOTIVE",
+        "description": "Vehicle Information Assistant:",
+         "list": [
+        "Offering comprehensive insights on vehicle specifications and features.",
+        "Aiding prospective buyers in comparing various models.",
+        "Regular maintenance reminders and service bookings.",
+        "Addressing queries relating to vehicle finance and insurance."
+      ]
+      },
+      {
+        "title": "EDUCATION",
+        "description": "E-Learning Bot:",
+          "list": [
+        "Offering assistance to students via online courses and relevant lessons.",
+        "Rapid response to quizzes and assignments.",
+        "Suggest study materials based on student-specific progress.",
+        "Monitors class discussions and responses to common queries."
+      ]
+      },
+    {
+        "title": "MEDIA & ENTERTAINMENT",
+        "description": "Content Recommendation Bot:",
+          "list": [
+        "Content recommendation based on the user’s preferences.",
+        "Guiding users through the navigation of streaming platforms.",
+        "Regular updates on future launches and upcoming events",
+        "Elevated user engagement using surveys, quizzes, and polls"
+      ]
+      },
+      {
+        "title": "E-COMMERCE",
+        "description": "Shopping Assistant Bot:",
+          "list": [
+        "User assistance via product catalogs.",
+        "Personalized product suggestions",
+        "Checkout process assistance",
+        "Response to payment-related queries",
+        "order status updates and tracking information."
+      ]
+      },
+      {
+        "title": "GIS",
+        "description": "Location Query Assistant:",
+          "list": [
+        "Query-related response about specific geographical location",
+        "User assistance via navigation and maps",
+        "Real-time weather forecasts and updates on traffic conditions.",
+        "Appropriate insights on demographic or environmental data."
+      ]
+      },
+      {
+        "title": "FINTECH",
+        "description": "Financial Advisory Bot:",
+          "list": [
+        "Offering personalized financial recommendations and advice.",
+        "User- assistance in managing expenses and savings.",
+        "real-time updates of stock market trends.",
+        "Query response related to transactions and banking services"
+      ]
+      },
+       {
+        "title": "HEALTHCARE",
+        "description": "Healthcare Virtual Assistant:",
+          "list": [
+        "Response to general health queries",
+        "Guidance related to appointments with healthcare experts.",
+        "Updates on medication reminders to patients.",
+        "Offering first-aid information during emergencies."
+      ]
+      }
+    ]
+  },
+   
+  "gridBlueBaseBord": {
+    "headings": "CUSTOM CHATBOT SOLUTIONS",
+    "blueBaseData": [
+       {
+        "title": "MACHINE LEARNING-ENHANCED CHATBOTS",
+        "description": "Incorporating AI/ML solutions for custom-curating chatbots allows users to experience elevated customer support services and smart interaction technology for human-like interaction."
+      },
+      {
+        "title": "CONVERSATIONAL AI CHATBOTS",
+        "description": "Beyond monotonous responses, our chatbots are developed for seamless and easy interaction for an elevated user experience, driving user satisfaction."
+      },
+      {
+        "title": "SOCIAL MEDIA CHATBOT INTEGRATION",
+        "description": "Interactive space for the user with social media chatbot integration to reach a larger audience. We specialize in collaborating chatbots with platforms with a wider audience reach for seamless interaction."
+      },
+   
+      {
+        "title": "E-LEARNING CHATBOT SOLUTIONS",
+        "description": "Elevated e-learning chatbot solution for enabling digital education with the excellence of the Go InfoTech solution. We offer personalized learning options with live chatbots, recording options, and round-the-clock assistance to students."
+      },{
+        "title": "VOICE-ACTIVATED CHATBOT SYSTEMS",
+        "description": "Quality automated audio recognition lets your organization quickly identify voice commands from users, allowing an advanced shopping experience for users. Go InfoTech solutions allow you to auto-annotate dynamic informational inputs, facilitating the generation of relevant content."
+      },
+         {
+        "title": "MULTILINGUAL CHATBOT SOLUTIONS",
+        "description": "Our multiple-language chatbot solution helps grasp the attention of audiences around the globe with a seamless interaction platform, and enhanced engagement with the brand."
+      }
+    ]
+  },
+  "iconTopCard2": {
+    "heading": "GET TO KNOW GO INFOTECH’S DISCOVERY TEAM:",
+    "items": [
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "PRODUCT OWNER",
+        "description": "Craft unique business strategies that fulfill your specific project requirements, and ensure that these strategies align with your project’s goals and objectives. Identify your unique business vision and what you expect from the product."
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "SOLUTION ARCHITECT",
+        "description": "We conduct comprehensive research to analyze the workings of the industry and craft solutions based on your unique needs."
+      },
+      {
+        "iconPath": "/cardSvg/shield.svg",
+        "title": "PROJECT MANAGER",
+        "description": "We meticulously plan and work closely with our team to ensure that our technical team optimizes the project workflow and its timely execution."
+        
+      },
+      {
+        "iconPath": "/cardSvg/folder.svg",
+        "title": "UI/UX DESIGNER",
+        "description": "Through our user-centric approach, we are successful in reaching the target audience via our visually appealing UI/UX designs that are user-friendly and lead to an exceptional user experience on all platforms."
+        
+      }
+     
+
+    ]
+  },
+  "selectSidebar": {
+    "headingSidebar": "OUR AI CHATBOT SERVICES",
+    
+    "services": [
+      {
+        "title": "CUSTOM CHATBOT DESIGN",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Our bespoke chatbots can streamline and simplify your business processes. Go-Tech’s NLP/deep learning-driven chatbots conduct in-depth conversations with users and deliver a significant return on investment. "
+           
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "OUR SPECIALISTS ARE EXPERTS AT:"
+             
+            }
+          ],
+          "list": [
+            "Personalized alert messages and pop-ups",
+            "elevated user experience with custom chatbot designs",
+            "Crafting contextualized responses using a user-centric approach"
+           
+          ]
+        }
+        
+       
+      },
+      {
+        "title": "MULTI-PLATFORM INTEGRATION",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Our experts are dedicated to delivering excellence by developing custom chatbot designs for several platforms, making sure that the user experience is uniform and responsive as well."
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "OUR SPECIALISTS ARE EXPERTS AT:"
+             
+            }
+          ],
+          "list": [
+            "Developing solutions compatible with platforms like Facebook, Slack, and WhatsApp",
+            "Custom design chatbot, responsive on both mobile and desktop;",
+            "uniform touchpoints for an elevated user experience."
+            
+          ]
+        }
+         
+      },
+      {
+        "title": "NATURAL LANGUAGE PROCESSING (NLP)",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Incorporate advanced algorithms to comprehend and generate human language. NLP enables and supports chatbots, sentiment analysis, and content recommendation systems for an elevated user experience."
+           
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "OUR SPECIALISTS ARE EXPERTS AT:"
+             
+            }
+          ],
+          "list": [
+            "Innovation of advanced chatbots for customer support;",
+            "Analyze customer feedback for product refinement;",
+            "Automate content condensing and organizing",
+            "real-time language translation for global platforms"
+           
+          ]
+        }
+         
+      },
+      {
+        "title": "E-COMMERCE CHATBOTS",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "We specialize in transforming your e-commerce journey by developing custom chatbot solutions, which will boost your sales and provide quality customer support for a seamless shopping experience. "
+           
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "OUR SPECIALISTS ARE EXPERTS AT: "
+             
+            }
+          ],
+          "list": [
+            "Predictive analysis for product recommendations to users",
+            "Prompt customer support and immediate resolutions of queries",
+            "Collaborations with several e-commerce platforms."
+            
+          ]
+        }
+        
+      },
+      {
+        "title": "ANALYSIS & REPORTING",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Go InfoTech developers unleash the power of AI & ML algorithms to help identify patterns and implement proactive business solutions. Our predictive analytics tools use your data to help you forecast and devise optimum business strategies."
+            
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "OUR SPECIALISTS ARE EXPERTS AT: "
+             
+            }
+          ],
+          "list": [
+            "Continuous, Real-time monitoring of chatbot interactions;",
+            "Comprehensive report generation based on user engagement and feedback; ",
+            "actionable insights for holistic chatbot improvement. "
+            
+          ]
+        }
+         
+      },
+      {
+        "title": "VOICE ACTIVATED CHATBOTS",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Quality automated audio recognition lets your organization quickly identify voice commands from users, allowing an advanced shopping experience for users. Go InfoTech solutions allow you to auto-annotate dynamic informational inputs, facilitating the generation of relevant content."
+            
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "OUR SPECIALISTS ARE EXPERTS AT: "
+             
+            }
+          ],
+          "list": [
+            "Voice-enabled assistance similar to Alexa and Google Assistant",
+            "Audio transcription functionalities incorporated in projects",
+            "Globally accessible to a diverse customer base "
+            
+          ]
+        }
+         
+      }
+      
+    ]
+  },
+    "techStack": {
+    "heading": "CHATBOT DEVELOPMENT TECHNOLOGIES",
+    "categories": [
+      {
+        "key": "frontend",
+        "label": "PROGRAMMING LANGUAGES",
+        "department": {
+          "title": "PROGRAMMING LANGUAGES",
+          "description": "At Go InfoTech, our team of developers makes use of cutting-edge technology for custom chatbot development. Empowering operations through seamless collaboration and the enhanced efficiency of our chatbots makes it more interactive.",
+          "subtitle": "OUR MOBILE DEPARTMENT HAS",
+          "stats": [
+            "Platform Integration: We enable seamless platform and website integration using various programming languages. ",
+            "Natural Language Processing (NLP): Incorporate advanced algorithms to comprehend and generate human language for an elevated customer support system.",
+            "Performance Optimization: We ensure rapid response and facilitate interaction with the optimal outcomes for performance optimization."
+          ],
+          "technologies": [
+            { "name": "Go", "icon": "/GOlang-1.png"  },
+            { "name": "Java", "icon": "/java-1.png" },
+            { "name": "Python", "icon": "/Python-1.png" },
+             { "name": "Ruby", "icon": "/Ruby-1.png" },
+             { "name": "Node JS", "icon": "/NodeJS-1.png" },
+            { "name": "JavaScript", "icon": "/javascript.png" }
+
+          ]
+        }
+      },
+      {
+        "key": "backend",
+        "label": "CHATBOT FRAMEWORKS",
+        "department": {
+          "title": "CHATBOT FRAMEWORKS",
+          "description": "Leveraging our expertise to optimize the chatbot infrastructure for seamless interaction between users and customer support. We specialize in smart and responsive chatbots compatible with several platforms. ",
+           "subtitle": "WHERE AND HOW WE USE IT:",
+          "stats": [
+            "Multi-Platform Deployment: We specialize in developing and deploying chatbot solutions that are compatible with various platforms, responsive, and interactive offering smart solutions.",
+            "Advanced Chatbot Management: Capable of handling complex directions effectively by offering real-time responses to queries.",
+            "Machine Learning Integration: Through these frameworks, we incorporate machine learning for effective communication and response. "
+          ],
+          "technologies": [
+           
+{ "name": "Botpress", "icon": "/botpress.png" },
+{ "name": "Dialogflow", "icon": "/dialogflow-1.png" },
+
+{ "name": "Microsoft Bot Framework", "icon": "/microsoft-bot-framework.png" },
+{ "name": "Rasa", "icon": "/rasa.png" },
+{ "name": "Wit.ai", "icon": "/wit.png" }
+
+
+          ]
+        }
+      },
+      {
+        "key": "mobile",
+        "label": "CHATBOT TOOLS & SERVICES",
+        "department": {
+          "title": "CHATBOT TOOLS & SERVICES",
+          "description": "Our team believes in delivering excellence. While incorporating a toolbox offering several service options and functionalities for custom chatbot development, including the collaboration of third-party services.",
+           "subtitle": "WHERE DO WE IMPLEMENT IT:",
+          "stats": [
+            "Intent Recognition: Identifying user intent with the use of specialized tools to ensure a real-time and apt response.",
+            "Integration Services: Collaboration of chatbots with CRM, databases, or third-party services by making use of certain tools. ",
+            "Analytics and Reporting: We make use of analytic tools for evaluating the performance and areas for improvement in chatbot development."
+            
+          ],
+          "technologies": [
+            { "name": "Botsify", "icon": "/botsify.png"  },
+            { "name": "IBM Watson", "icon": "/ibm-watson.png" },
+            { "name": "ManyChat", "icon": "/Manychat-logo-1.png" },
+            { "name": "MobileMonkey ", "icon": "/MobileMonkey.png"  },
+            { "name": "OpenAI", "icon": "/OpenAI-1.png" },
+            { "name": "Telegram Bot API", "icon": "/telegram-bot-api.png" }
+            
+          ]
+        }
+      }
+      
+    ]
+  }
+
+ 
+}

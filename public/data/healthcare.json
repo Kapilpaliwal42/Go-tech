@@ -1,0 +1,442 @@
+{
+  "statsSection": {
+    "content": {
+       "bread": {
+        "prefix": "Go-Tech Solution | Services | ",
+        "text": "Discovery Phase"
+      },
+      "heading": "HEALTHCARE SOFTWARE DEVELOPMENT",
+      "subheading": "At Go InfoTech, we offer dedicated healthcare software development services, offering compatible IT solutions."
+    },
+    "stats": [
+      {
+        "value": 2,
+        "suffix": "+",
+        "label": "projects delivered in the Healthcare industry"
+      },
+      {
+        "value": 15,
+        "suffix": "+",
+        "label": "tech specialist in the industry"
+      },
+      {
+        "value": 8,
+        "suffix": "",
+        "label": "years of expertise in the business"
+      },
+      {
+        "value": 4.8,
+        "suffix": "/5",
+        "label": "review rating based on 55+ reviews",
+        "decimals": "1"
+      }
+    ]
+  },
+  "iconTopCard": {
+    "heading": "WHY CHOOSE GO INFOTECH AS YOUR PARTNER FOR DIGITAL SOLUTIONS",
+    "items": [
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "OUR CLIENT'S EXPERIENCE",
+        "description": "Our clients have said it too, Go InfoTech has proved to be an expert custom Software Development Company in Udaipur driving seamless growth for our clients and showcasing our proficiency in web development.",
+        "highlight": "custom Software Development Company in Udaipur",
+        "highlightLink": "#"
+      },
+      {
+        "iconPath": "/cardSvg/globe.svg",
+        "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+        "description": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "WIDE RANGE OF SERVICES",
+        "description": "As a leading Web Development company in Udaipur, we offer custom team augmentation in software development, mobile app development, web application development, software maintenance and support, and more.",
+        "highlight": "Web Development company in Udaipur",
+        "highlightLink": "#"
+      },
+      {
+        "iconPath": "/cardSvg/shield.svg",
+        "title": "TRUSTED AND RENOWNED",
+        "description": "We are dedicated to serving you in the Healthcare industry with excellence, and this is vouched by our client’s unwavering trust in our services, as we are a trusted custom Software Development Company in Udaipur.",
+        "highlight": "custom Software Development Company in Udaipur",
+        "highlightLink": "#"
+      },
+      {
+        "iconPath": "/cardSvg/folder.svg",
+        "title": "INDUSTRIES' EXPERTISE",
+        "description": "We are a trusted Software Development company in Udaipur, with expertise in Healthcare solutions while using innovation, knowledge, and skills from all around the world.",
+        "highlight": "Software Development company in Udaipur",
+        "highlightLink": "#"
+      },
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "EXPERTISE AT YOUR SERVICE",
+        "description": "Our team is dedicated to serving you with expertise, knowledge, and professionalism, working to fuel the growth of your business. Choose Go InfoTech Solution for a reliable digital partner."
+      }
+    ]
+  },
+  "selectSidebar2": {
+    "headingSidebar": "GO FINANCE SOFTWARE DEVELOPMENT SERVICES WE OFFER",
+
+     "services": [
+    {
+      "title": "STAFF AUGMENTATION FOR HEALTHCARE IT PRODUCTS",
+      "content": {
+        "paragraphs": [
+          {
+            "text": "Add the expertise of Go InfoTech Solution to your existing team, and make sure you augment it with highly specialized and experienced healthcare professionals from the most trusted Custom Software Development Company in Udaipur.",
+            "highlights": [
+              { "text": "Custom Software Development Company in Udaipur", "link": "/technology/flutter" }
+            ]
+          }
+        ],
+        "sections": [
+          {
+            "heading": "OFFERING FUNCTIONALITIES:"
+          }
+        ],
+        "list": [
+          "Diagnostic tools making use of AI",
+          "Equipment Health Monitoring (EHM) System and detectors",
+          "eHealth platforms"
+        ]
+      },
+      "button": "READ MORE"
+    },
+    {
+      "title": "MOBILE HEALTHCARE APPLICATIONS",
+      "content": {
+        "paragraphs": [
+          {
+            "text": "Go InfoTech offers a mobile healthcare software solution that is a comprehensive solution designed to revolutionize operations within the healthcare industry.",
+            "highlights": []
+          }
+        ],
+        "sections": [
+          {
+            "heading": "OFFERING FUNCTIONALITIES:"
+          }
+        ],
+        "list": [
+          "Scheduling doctor's appointments and consultation sessions",
+          "Adherence to regulatory compliance",
+          "Medicine Tracking"
+        ]
+      },
+      "button": null
+    },
+    {
+      "title": "HEALTHCARE AI SOFTWARE SOLUTIONS",
+      "content": {
+        "paragraphs": [
+          {
+            "text": "Unleash the potential of AI and cutting-edge technology in the healthcare industry.",
+            "highlights": []
+          }
+        ],
+        "sections": [
+          {
+            "heading": "FUNCTIONALITIES OF OUR SOFTWARE SOLUTIONS:"
+          }
+        ],
+        "list": [
+          "Forecasting analysis",
+          "Real-time surveillance and assistance",
+          "Diagnostic tools making use of AI",
+          "Health platforms"
+        ]
+      },
+      "button": null
+    },
+    {
+      "title": "TELEHEALTH AND TELEMEDICINE",
+      "content": {
+        "paragraphs": [
+          {
+            "text": "Develop telehealth solutions that are user-friendly, removing geographical barriers.",
+            "highlights": []
+          }
+        ],
+        "sections": [
+          {
+            "heading": "FUNCTIONALITIES INCLUDE:"
+          }
+        ],
+        "list": [
+          "Virtual clinic platforms",
+          "Telemonitoring systems",
+          "Electronic prescribing systems",
+          "Ease up the medicine ordering process"
+        ]
+      },
+      "button": null
+    },
+    {
+      "title": "HEALTHCARE DATA ANALYTICS SOFTWARE",
+      "content": {
+        "paragraphs": [
+          {
+            "text": "Enabling you to transform health with predictive analysis",
+            "highlights": []
+          }
+        ],
+        "sections": [
+          {
+            "heading": "FUNCTIONALITIES INCLUDE:"
+          }
+        ],
+        "list": [
+          "Predictive analysis",
+          "Remote health surveillance",
+          "Electronic patient record systems"
+        ]
+      },
+      "button": null
+    },
+    {
+      "title": "HEALTH INFORMATION SECURITY AND COMPLIANCE",
+      "content": {
+        "paragraphs": [
+          {
+            "text": "Strict adherence to healthcare compliance and Sensitive Data Protection (SDP).",
+            "highlights": []
+          }
+        ],
+        "sections": [
+          {
+            "heading": "FUNCTIONALITIES INCLUDE:"
+          }
+        ],
+        "list": [
+          "Health information management systems",
+          "Data encryption and SDP",
+          "Seamless eHealth platforms"
+        ]
+      },
+      "button": null
+    },
+    {
+      "title": "IOT SOLUTIONS",
+      "content": {
+        "paragraphs": [
+          {
+            "text": "Enhanced user experience with innovative incorporation of IOT technology",
+            "highlights": []
+          }
+        ],
+        "sections": [
+          {
+            "heading": "INCORPORATION OF IOT FUNCTIONALITIES LIKE:"
+          }
+        ],
+        "list": [
+          "Predictive analysis",
+          "Remote health surveillance",
+          "Regular medication updates and pop-ups"
+        ]
+      },
+      "button": null
+    }
+  ]
+  },
+  "techStack": {
+    "heading": "TECH STACK",
+    "categories": [
+      {
+        "key": "frontend",
+        "label": "FRONT-END DEVELOPMENT",
+        "department": {
+          "title": "FRONT-END DEVELOPMENT",
+          "description": "Empower your business with our expert front-end solutions focusing fundamentally on the smooth user experience and effectively handle your needs and preferences and aligning it to the industry’s unique requirement.",
+          "subtitle": "OUR FRONT-END DEPARTMENT HAS:",
+          "stats": [
+            "20+ Front-end developers",
+            "8 years of experience",
+            "4.8 rating on Google"
+          ],
+          "technologies": [
+            {
+              "name": "Angular",
+              "icon": "/Angular-icon.png"
+             
+            },
+            { "name": "React JS", "icon": "/React-JS.png" },
+            { "name": "Vue", "icon": "/Vue.png" }
+          ]
+        }
+      },
+      {
+        "key": "backend",
+        "label": "BACK-END DEVELOPMENT",
+        "department": {
+          "title": "BACK-END DEVELOPMENT",
+          "description": "We help you build a strong foundation for your software and applications with scalable and secure back-end systems that will enable you to handle all your tasks seamlessly and result in the robust growth of your business. ",
+          "subtitle": "OUR BACK-END DEPARTMENT HAS:",
+          "stats": [
+            "20+ Back-end developers;",
+            "8 years of experience;",
+            "4.8 rating on Google"
+          ],
+          "technologies": [
+            { "name": ".NET", "icon": "/NET-1.png" },
+            { "name": "Go", "icon": "/GOlang-1.png" },
+            { "name": "Java", "icon": "/Java-1.png" },
+            { "name": "Scala", "icon": "/Scala-1.png" },
+            { "name": "Node JS", "icon": "/NodeJS-1.png" },
+            { "name": "PHP", "icon": "/PHP-1.png" },
+            { "name": "Python", "icon": "/Python-1.png" },
+            { "name": "Ruby", "icon": "/Ruby-1.png" },
+            { "name": "Rust", "icon": "/Rust-1.png" }
+          ]
+        }
+      },
+      {
+        "key": "mobile",
+        "label": "MOBILE APP DEVELOPMENT",
+        "department": {
+          "title": "MOBILE APP DEVELOPMENT",
+          "description": "Our team of dedicated experts and developers at the leading IT Company in Udaipur is here to skillfully craft captivating and functional mobile apps for Android and iOS platforms, crafted to meet your unique needs and reach out target audience.",
+          "subtitle": "OUR MOBILE DEPARTMENT HAS:",
+          "stats": [
+            "10+ Mobile developers",
+            "8 years of experience",
+            "4.8 rating on Google"
+          ],
+          "technologies": [
+            { "name": "Flutter", "icon": "/Flutter-1.png" },
+            { "name": "Ionic", "icon": "/Ionic-1.png" },
+            { "name": "Kotlin", "icon": "/Kotlin-1.png" },
+            { "name": "React Native", "icon": "/React-Native-1.png" },
+            { "name": "Swift", "icon": "/Swift-1.png" }
+          ]
+        }
+      },
+      {
+        "key": "uiux",
+        "label": "UI/UX DESIGN",
+        "department": {
+          "title": "UI/UX DESIGN",
+          "description": "Through our user-centric approach we are successful in reaching the target audience via our  visually appealing UI/UX designs that are user-friendly and lead to an exceptional user experience on all platforms.",
+          "subtitle": "OUR MOBILE DEPARTMENT HAS:",
+          "stats": [
+            "12+ Designers",
+            "6 years of experience",
+            "4.7 rating on Google"
+          ],
+          "technologies": [
+            { "name": "Figma", "icon": "/Figma-1.png" },
+            { "name": "Adobe XD", "icon": "/Adobe_XD-1.png" },
+            { "name": "Sketch", "icon": "/Sketch-1.png" },
+            { "name": "InVision", "icon": "/Invision-1.png" },
+            { "name": "Zeplin", "icon": "/Zeplin-1.png" },
+            { "name": "FigJam", "icon": "/FigJam-1.png" },
+            { "name": "Miro", "icon": "/Miro-1.png" },
+            { "name": "Maze", "icon": "/Maze-1.png" },
+            { "name": "Protopie", "icon": "/Protopie-1.png" }
+          ]
+        }
+      }
+    ]
+  },
+  "callToAction": {
+    "title": "ADVANTAGES OF PARTNERING WITH GO INFOTECH FOR SOFTWARE DEVELOPMENT",
+    "buttonText": "All Services",
+    "textColor1": "text-darkBlue",
+    "textColor": "text-darkBlue"
+  },
+  "whiteBgCard": {
+    "whitecards": [
+      {
+        "title": "BUSINESS-ORIENTED PERSONALIZATION",
+        "description": [
+          "We offer comprehensive software solutions that are custom-developed to your specific Healthcare requirements."
+        ]
+      },
+      {
+        "title": "OPTIMIZED PERFORMANCE AND FLEXIBILITY",
+        "description": [
+          "Explore the expertise of our professionals, offering high-quality performance and scalability in the software solutions offered for the Healthcare industry."
+        ]
+      },
+      {
+        "title": "COLLABORATE WITH CUTTING-EDGE TECHNOLOGIES",
+        "description": [
+          "We partner with updated technology tools to elevate performance and drive sales. We make use of AI, forecasting analytics, and data analytics for effective operations in the healthcare sector."
+        ]
+      },
+      {
+        "title": "ADHERENCE TO REGULATORY COMPLIANCE AND SECURITY",
+        "description": [
+          "At Go InfoTech, we value your credibility, which is why we prioritize security in our software solutions while simultaneously focusing on regulatory compliance in the healthcare industry and upholding SDP."
+        ]
+      },
+      {
+        "title": "FACILITATING SCALABILITY AND INTEGRATION",
+        "description": [
+         "We offer scalable solutions for facilitating seamless user interaction with healthcare professionals and offering a compatible and interactive interface."
+        ]
+      },
+      {
+        "title": "EFFECTIVE SUPPORT AND REAL-TIME MAINTENANCE",
+        "description": [
+          "We believe in offering real-time support and medical assistance to your patients while paying deliberate attention to their unique needs and requirements in the healthcare sector."
+        ]
+      }
+    ]
+  },
+  "boxBaseBord": {
+    "headsection": "PRODUCT DELIVERY ROADMAP",
+
+    "steps": [
+      {
+        "title": "DISCOVERY & PLANNING",
+        "description": "Embarking on the journey of manifesting your vision into reality through our expert assistance, we understand your vision and iteration and conduct comprehensive analysis and strategies for our move.",
+        "result": "Detailed planning and comprehensive analysis"
+      },
+      {
+        "title": "DESIGN & PROTOTYPING",
+        "description": "Designing and developing prototypes of your vision while engaging our UI/UX designers in the project.",
+        "result": "An engaging and feature-rich prototype"
+      },
+      {
+        "title": "PRODUCT DEVELOPMENT & TESTING",
+        "description": "Our team of developers is dedicated to building a product that is functional, feature-rich, and offers high-quality performance.",
+        "result": "Development and testing of MVP"
+      },
+      {
+        "title": "LAUNCH & CONTINUOUS IMPROVEMENT",
+        "description": "Our team is at your service to serve you with excellence. We take into account your unique feedback and aim for continuous improvement.",
+        "result": "Launching of MVP and incorporating feedback improvement."
+      }
+    ]
+  }, 
+  "cardMethodology": {
+    "heading": "WHOM WE SERVE",
+    "items": [
+      {
+        "title": "HEALTH TECH STARTUPS",
+        "description": "We take pride in our professional developers, designers, and specialists who are dedicated to delivering excellence in healthcare software solutions customized to your specific business requirements.",
+        "iconPath": "/cardSvg/contact.svg",
+        "iconLink": "/technology/flutter"
+      },
+      {
+        "title": "HOSPITALS & MEDICAL INSTITUTIONS",
+        "description": "Empowering hospitals and medical institutions by offering security in an IT software solution that is meticulously crafted to solve your specific medical requirements",
+        "iconPath": "/cardSvg/folder.svg",
+        "iconLink": "/technology/node"
+      },
+      {
+        "title": "MEDICAL SOFTWARE PROVIDERS",
+        "description": "Empowering medical institutions with the expertise of Go InfoTech’s professionals. We deliver to the healthcare sector’s unique requirements with a safe and scalable solution that is responsive and user-friendly.",
+        "iconPath": "/cardSvg/contact.svg",
+        "iconLink": "/industry/healthcare"
+      },
+      {
+        "title": "PHARMACEUTICAL & BIOTECH COMPANIES",
+        "description": "Enhancing the pharmaceutical and biotech sectors with the professional assistance of specialists and optimizing user interaction while making use of predictive analysis.",
+        "iconPath": "/cardSvg/contact.svg",
+        "iconLink": "/industry/healthcare"
+      }
+    ]
+  }
+}

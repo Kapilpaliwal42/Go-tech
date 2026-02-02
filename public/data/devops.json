@@ -1,0 +1,451 @@
+{
+  "statsSection": {
+    "content": {
+      "bread": {
+        "prefix": "Go-Tech Solution | Services | ",
+        "text": "Cloud & DevOps Consulting"
+      },
+      "heading": "CROSS-PLATFORM MOBILE APP DEVELOPMENT SERVICES",
+      "subheading": "Developing high-performing and responsive apps that are on multiple platforms that are scalable."
+    },
+    "stats": [
+      {
+        "value": 30,
+        "suffix": "+",
+        "label": "mobile development specialists"
+      },
+      {
+        
+        "value": 8,
+        "suffix": " years",
+        "label": "of expertise in business"
+        
+      },
+      
+      {
+        "value": 60,
+        "suffix": "+",
+        "label": "successful projects delivery"
+      },
+      {
+       "value": 4.8,
+        "suffix": "/5 stars",
+        "decimals": "1",
+        "label": "overall review rating based on 55+ reviews"
+      }
+    ]
+  },
+  
+  "techStack": {
+    "heading": "OUR CLOUD TECHNOLOGY STACK",
+    "categories": [
+      {
+        "key": "frontend",
+        "label": "CLOUD PLATFORMS & TOOLS",
+        "department": {
+          "title": "CLOUD PLATFORMS & TOOLS",
+          "description": "We take pride in ensuring that our team has expertise in ensuring a responsive and functional cloud service provider that is globally accessible.",
+          "subtitle": "WHERE DO WE IMPLEMENT IT:",
+          "stats": [
+            "Effortlessly deploy applications across AWS, Azure, Google Cloud, and other leading platforms.",
+            "Harness the power of Kubernetes, Docker, and Terraform for streamlined containerization and orchestration.",
+            "Build serverless architectures with AWS Lambda, Azure Functions, and other cutting-edge solutions."
+          ],
+          "technologies": [
+            { "name": "AWS", "icon": "/aws-1.png" },
+            { "name": "DigitalOcean", "icon": "/digitalocean.png" },
+            { "name": "Firebase", "icon": "/firebase.png" },
+            { "name": "Google Cloud ", "icon": "/googleCloud.png"  },
+            { "name": "Microsoft Azure", "icon": "/Microsoft_Azure.png" }
+            
+          ]
+        }
+      },
+      {
+        "key": "backend",
+        "label": "BACK-END TECHNOLOGIES",
+        "department": {
+          "title": "BACK-END TECHNOLOGIES",
+          "description": "We focus on the efficient utilization of back-end technologies to design, effective, scalable, and responsive cloud-based applications.",
+           "subtitle": "WHERE DO WE IMPLEMENT IT:",
+          "stats": [
+            "Designing applications while making use of Node.js, Python, Java, .NET, etc.",
+            "Incorporate microservices architectures to enhance scalability and flexibility.",
+            "Effortlessly integrate third-party APIs and services into your infrastructure."
+          ],
+          "technologies": [
+           { "name": ".NET", "icon": "/NET-1.png" },
+{ "name": "Go", "icon": "/GOlang-1.png" },
+{ "name": "Java", "icon": "/Java-1.png" },
+{ "name": "Scala", "icon": "/Scala-1.png" },
+{ "name": "Node JS", "icon": "/NodeJS-1.png" },
+{ "name": "PHP", "icon": "/PHP-1.png" },
+{ "name": "Python", "icon": "/Python-1.png" },
+{ "name": "Ruby", "icon": "/Ruby-1.png" },
+{ "name": "Rust", "icon": "/Rust-1.png" }
+
+          ]
+        }
+      },
+      {
+        "key": "mobile",
+        "label": "DATABASES & STORAGE SOLUTIONS",
+        "department": {
+          "title": "DATABASES & STORAGE SOLUTIONS",
+          "description": "Our team excels at incorporating and managing several databases, ensuring data integration, cybersecurity, and effective performance.",
+           "subtitle": "WHERE DO WE IMPLEMENT IT:",
+          "stats": [
+            "Deploy relational databases such as MySQL, PostgreSQL, and SQL Server with ease.",
+            "Seamless incorporation of NoSQL databases like MongoDB, Cassandra, and DynamoDB.",
+            "Efficient management of cloud storage solutions such as Amazon S3, Azure Blob Storage, and Google Cloud Storage.."
+          ],
+          "technologies": [
+            { "name": "Cassandra", "icon": "/Cassandra_logo1-1.png" },
+{ "name": "MongoDB", "icon": "/mongodb-icon1-1.png" },
+{ "name": "MySQL", "icon": "/mysql1-1.png" },
+{ "name": "PostgreSQL", "icon": "/Postgresql1-1.png" },
+{ "name": "Redis", "icon": "/redis-logo3.png" },
+{ "name": "SQLite", "icon": "/SQLite1-1.png" }
+          ]
+        }
+      }
+      
+    ]
+  },
+ 
+  "gridBlueCard": {
+    
+    "heading":"EXPERTISE ACROSS DIFFERENT INDUSTRIES",
+    "items": [
+      
+      {
+        "title": "HEALTHCARE",
+        "description": "We specialize in developing cloud-based solutions that prioritize data privacy, streamline patient management, and elevate telehealth functionalities.",
+        
+        "highlightLink": "/services/ai-ml",
+         "list": [
+          "Incorporation of Electronic Health Records (EHR) on the cloud server.",
+          "Creating telemedicine platforms with real-time data management.",
+          "Secure storage and retrieval of patients’ health-related (SPD) data."
+        ]
+      },
+      {
+        "title": "E-COMMERCE",
+        "description": "We enable effective optimization of online retail operations via our cloud solutions for elevated user experiences, and ensure seamless scalability and responsiveness.",
+        "highlight": "Digital Marketing Agency in Udaipur" ,
+        "highlightLink": "/services/ai-ml",
+         "list": [
+          "Implementing cloud-based inventory and order management.",
+          "Providing customer analytics and personalization",
+          "Scalable e-commerce platforms with worldwide accessibility"
+        ]
+      },
+      {
+        "title": "FINTECH",
+        "description": "Offering secure and efficient cloud solutions customized for the financial sector, spanning from banking institutions to fintech startups, while adhering to regulatory requirements.",
+        "highlight": "IT Company in Udaipur" ,
+        "highlightLink": "/services/ai-ml",
+         "list": [
+          "Cloud-deployed transaction processing infrastructure.",
+          "Ensuring secure storage of sensitive financial data and credentials.",
+          "market analysis and predictions via real-time analytics"
+        ]
+      },
+     {
+        "title": "EDUCATION",
+        "description": "Harnessing seamless e-learning on educational institutions and platforms, offering functional, globally accessible study material for elevated study experiences. Virtual e-learning platforms on the cloud for elevated study experience Flexible and responsive student sessions for live counseling. Real-time feedback and collaboration tools for students and teachers.",
+        "highlight": "IT Company in Udaipur" ,
+        "highlightLink": "/services/ai-ml"
+      },
+      {
+        "title": "MEDIA & ENTERTAINMENT",
+        "description": "We leverage the expertise of our specialists for excellent streaming and We harness the cloud to deliver high-quality streaming, content recommendations, and real-time algorithms tailored for media institutions.",
+        "highlight": "Digital Marketing Company in Udaipur" ,
+        "highlightLink": "/services/digital-marketing-services",
+         "list": [
+          "Cloud-deployed streaming platforms with global accessibility.",
+          "Content distribution for several channels and platforms.",
+          "Real-time audience algorithms and feedback."
+        ]
+      },
+      {
+        "title": "GIS",
+        "description": "We leverage cloud solutions customized for GIS for an enhanced user experience, improving data storage, processing, and real-time mapping functionalities.",
+        "highlight": "Web Development company in Udaipur" ,
+        "highlightLink": "/services/digital-marketing-services",
+         "list": [
+          "cloud-deployed spatial data storage and retrieval systems.",
+          "Real-time geospatial analytics and cognizance.",
+          "Adaptable platforms for cartography and geolocation services."
+        ]
+      },
+       {
+        "title": "AUTOMOTIVE",
+        "description": "Empowering the automobile industry through innovation and utilizing cloud-powered services, from connected vehicles to predictive maintenance, covers a wide range of applications.",
+        "list": [
+          "Cloud-based platforms for processing connected vehicle data.",
+          "Real-time evaluation and monitoring of the health of vehicles.",
+          "Adaptable solutions for the storage and retrieval of data from autonomous vehicles."
+        ]
+      }
+    
+      
+      
+    ]
+  },
+   "selectSidebar": {
+    "headingSidebar": "OUR CLOUD & DEVOPS SERVICES",
+    
+    "services": [
+      {
+        "title": "STAFF AUGMENTATION FOR CLOUD & DEVOPS",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Augment our top Cloud and DevOps specialists in your team for seamless integration of expertise into your projects and their success."
+            
+            
+          }
+          
+          ],
+         
+          "list": [
+            "Offering ad interim expertise for your projects;",
+            "Scaling teams according to your project requirements;",
+            "Delivering high-performance and skills in Cloud architecture and DevOps methodologies."
+           
+          ]
+        }
+        
+      },
+      {
+        "title": "CLOUD MIGRATION & STRATEGY",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "We guide your business to seamlessly transition to a cloud server while also ensuring the incorporation of a strategic approach that is personalized as per your unique needs."
+           
+          }
+          
+          ],
+          
+          "list": [
+            "Facilitating legacy systems transition to cloud platforms.",
+            "Cloud-first strategy personalized for startups and enterprises.",
+            "Cloud service providers based on the unique business requirements."
+            
+          ]
+        }
+         
+      },
+      {
+        "title": "DEVOPS CONSULTING & IMPLEMENTATION",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Our DevOps specialists incorporate optimal practices, procedures, and methodologies to catalyze software delivery while ensuring operational efficiency.|"
+           
+          }
+          
+          ],
+          
+          "list": [
+            "Optimizing CI/CD pipelines for efficiency.",
+            "Incorporating infrastructure as code solutions.",
+            "Managing effective synergy between development and operations teams."
+            
+          ]
+        }
+        
+      },
+      {
+        "title": "CLOUD SECURITY & COMPLIANCE",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Ensuring the cybersecurity of cloud infrastructure, we also focus on data protection, "
+            
+           
+          },
+          {
+            "text": "We prioritize the security of your cloud infrastructure, ensuring data protection, adherence to regulations, and minimizing potential risks."
+          },
+          {
+            "text": "Incorporation of vigorous security protocols;"
+          }
+          
+          ],
+         
+          "list": [
+            "Ensuring compliance with GDPR, HIPAA, and other regulatory standards.",
+            "Conducting routine security audits and vulnerability assessments."
+            
+          ]
+        }
+         
+      },
+      {
+        "title": "INFRASTRUCTURE AUTOMATION & MANAGEMENT",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "We rationalize infrastructure deployment and regulation through automation, maintaining scalability, resilience, and efficient resource utilization."
+            
+          }
+          
+          ],
+          
+          "list": [
+            "Infrastructure provisioning and scaling operations automation",
+            "Regulating and overseeing cloud resources.",
+            "Deploying load balancing and auto-scaling solutions."
+            
+          ]
+        }
+         
+      },
+       {
+        "title": "CONTINUOUS INTEGRATION & CONTINUOUS DEPLOYMENT(CI/CD)",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Our team establishes and oversees CI/CD pipelines, guaranteeing swift, dependable, and uniform software delivery."
+            
+          }
+          
+          ],
+          
+          "list": [
+            "Code integration and deployment procedures automation;",
+            "Maintaining high code quality and enabling prompt feedback loops.",
+            "Enabling frequent and dependable releases."
+            
+          ]
+        }
+         
+      }
+     
+    ]
+  },
+    "callToAction": {
+    "title": "OUR CLOUD-BASED SOLUTIONS CAN ENHANCE USER EXPERIENCE AND BOOST THE SCALABILITY OF YOUR SERVICES.",
+    "subtitle": "Personalize IT solutions for your unique requirements and help transition to the Cloud or into DevOp services for the enhancement of your business and its exponential growth.",
+    "buttonText": "REQUEST A CONSULTATION",
+    "textColor1": "text-primary",
+    "textColor": "text-secondary"
+    
+
+  },
+ 
+  "whiteBgCard": {
+    
+    "heading":"TECH INNOVATIONS FOR YOUR WEB APP",
+    "subheading":"We are a renowned IT COMPANY IN UDAIPUR, dedicated to serving you and your unique business needs using our cutting-edge technology and innovation, while also ensuring that it is functional. We craft interactive and scalable web solutions to create captivating and visually appealing web applications.",
+    
+    "whitecards": [
+        
+      {
+        "title": "ARTIFICIAL INTELLIGENCE",
+        "titlePath": "/industry/healthcare",
+        "description": ["Empower your business with the unique capabilities of AI by partnering with Go InfoTech Solution, where we make sure to incorporate more intuitive and responsive results with the use of predictive analytics and chatbots."]
+      },
+     {
+        "title": "CLOUD INTEGRATION",
+        "titlePath": "/industry/healthcare",
+        "description": ["Ensuring seamless integration of cloud services to improve your app’s scalability, effectiveness, and functionality by making sure that the data is integrated and accessible from anywhere."]
+      },
+      {
+        "title": "AUGMENTED REALITY",
+        "titlePath": "/industries/healthcare",
+        "description": ["As a leading ", { "text": "Software Development company in Udaipur", "path": "/services/digital-marketing-services" },
+          " we believe in incorporating AR to generate a remarkable user experience by meticulously integrating virtual try-ons and interactive 3D models into your app."]
+      },
+      {
+        "title": "INTERNET OF THINGS",
+        "titlePath": "/industries/healthcare",
+        "description": ["Harmonizing the use of sensors and smart devices to integrate real-time data while increasing its functionality and user experience. Incorporating IoT into the business can generate expanded opportunities for user engagement."]
+      }
+      
+      
+    ]
+  },
+   "cardMethodology": {
+    "heading": "WHOM WE SERVE",
+    
+    "items": [
+      {
+        "title": "LAUNCHING ANEW:",
+        "description": "Trusted partners for businesses that are stepping into the mobile world for the first time, especially startups, for a responsive, interactive, and feature-rich Android application tailored to the unique needs of your business.",
+        "iconPath": "/cardSvg/globe.svg",
+        "highlight": "Software Development company in Udaipur",
+        "iconLink": "/services/digital-marketing-services",
+        "titleLink": "/services/android-app-development"
+      },
+      {
+        "title": "MIGRATING FROM MVP TO NATIVE",
+        "description": "Organizations that initially incorporated a low code/no code MVP are now migrating to a native product to enhance their ROI and offer an improved user experience.",
+        "iconPath": "/cardSvg/folder.svg",
+        "highlight": "custom Software Development Company in Udaipur",
+        "iconLink": "/services/digital-marketing-services",
+        "titleLink": "/services/android-app-development"
+      },
+      {
+        "title": "IN-HOUSE TEAM AUGMENTATION",
+        "description": "Companies are planning on expanding with Android experts within their existing teams. We integrate productivity and knowledge into your organizational operations.",
+         
+        "iconPath": "/cardSvg/contact.svg",
+        "iconLink": "/services/digital-marketing-services",
+        "titleLink": "/services/android-app-development"
+      
+      },
+        {
+        "title": "SIMULTANEOUS ANDROID AND IOS DEVELOPMENT",
+        "description": "Businesses that are aiming for expansion on the Android and iOS platforms simultaneously. We specialize in providing a unified mobile app experience to users of different devices by complementing the existing in-house teams.",
+         
+        "iconPath": "/cardSvg/contact.svg",
+        "iconLink": "/services/digital-marketing-services",
+        "titleLink": "/services/android-app-development"
+      
+      }
+    ]
+  },
+ 
+ 
+  "gridBlueBaseBord": {
+    "headings": "ADVANTAGES OF OUR CLOUD DEVELOPMENT & CONSULTING SERVICES",
+    "blueBaseData": [
+       {
+        "title": "SCALABILITY & FLEXIBILITY",
+        "description": "Cloud development enables seamless business transition and scale-up or down according to operational requirements, ensuring efficient resource allocation and cost-effectiveness."
+      },
+      {
+        "title": "COST-EFFICIENCY",
+        "description": "Transitioning to Cloud will help businesses avoid the elevated costs of purchasing and maintaining hardware solutions, resulting in substantial cost reductions."
+      },
+      {
+        "title": "ENHANCED COLLABORATION",
+        "description": "Cloud platforms enable teams to collaborate in real-time, irrespective of their geographic location, enhancing operating effectiveness and expediting decision-making processes."
+      },
+      {
+        "title": "HIGH AVAILABILITY & DISASTER RECOVERY",
+        "description": "Cloud services typically include built-in backup solutions, guaranteeing the availability of applications and data security even in the event of hardware failures or other disasters."
+      },
+      {
+        "title": "SECURITY & COMPLIANCE",
+        "description": "Major cloud providers prioritize security, investing significantly in measures such as encryption, multifactor authentication, and compliance certifications, thereby ensuring data security and adherence to regulatory protocols."
+      },{
+        "title": "RAPID DEPLOYMENT & TIME-TO-MARKET",
+        "description": "Cloud development platforms come equipped with pre-built tools and frameworks that catalyze the development process, allowing businesses to launch their applications quicker and respond promptly to market shifts."
+      }
+    ]
+  }
+ 
+
+  
+}

@@ -1,0 +1,309 @@
+{
+   "statsSection": {
+    "content": {
+      "bread": {
+        "prefix": "Go-tech Solution | Technology | ",
+        "text": "Java Development Services"
+      },
+      "heading": "JAVA DEVELOPMENT SERVICES",
+      "subheading": "Go InfoTech offers a comprehensive range of solutions designed to deliver robust, scalable, and high-performing applications. With a dedicated emphasis on Java technology, we specialize in crafting enterprise-grade applications, microservice architectures, and cloud-based solutions."
+    },
+    "stats": [
+      {
+        "value": 20,
+        "suffix": "+",
+        "label": "experienced Java specialists worldwide"
+      },
+      {
+        "value": 4.8,
+        "suffix": "/5 stars",
+        "decimals":"1",
+        "label": "rating based on 60+ reviews"
+        
+      },
+      
+      {
+        "value": 40,
+        "suffix": "+",
+        "label": "Java projects successfully delivered"
+      },
+      {
+        "value": 8 ,
+        "suffix": "+ years",
+        "label": "of expertise in Java development"
+      }
+    ]
+  },
+  "iconTopCard": {
+    "heading": "Why Choose Us",
+    "items": [
+      {
+        "iconPath": "/cardSvg/contact.svg",
+        "title": "TRUSTED AND RENOWNED",
+        "description": "We are dedicated to serving you with excellence, and this is vouched by our client’s unwavering trust in our services, as we are a trusted custom Software Development Company in Udaipur.",
+        "highlight": "custom Software Development Company in Udaipur",
+        "highlightLink": "/"
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "EXPERTISE AT YOUR SERVICE:",
+        "description": "Our team is dedicated to serving you with expertise, knowledge, and professionalism working to fuel the growth of your business. Choose Go InfoTech Solution for a reliable digital partner."
+      },
+      {
+        "iconPath": "/cardSvg/shield.svg",
+        "title": "INDUSTRIES' EXPERTISE:",
+        "description": "We are a trusted Software Development company in Udaipur, with expertise from different industries all around the world using innovation, knowledge, and skills.",
+        "highlight": "Software Development company in Udaipur",
+        "highlightLink": "/"
+      },
+      {
+        "iconPath": "/cardSvg/folder.svg",
+        "title": "HIGH SATISFACTION RATES",
+        "description": "Empower your business with promising results and IT solutions by professionals who are dedicated to serving you right."
+        
+      },
+      {
+        "iconPath": "/cardSvg/globe.svg",
+        "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+        "description": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
+        
+      },
+      {
+        "iconPath": "/cardSvg/setting.svg",
+        "title": "WIDE RANGE OF SERVICES",
+        "description": "Offering software development services, including custom software development, mobile app development, web application development, software maintenance and support, and more."
+        
+      }
+    ]
+  },
+   "selectSidebar": {
+    "headingSidebar": "OUR JAVA SERVICES",
+    
+    "services": [
+      {
+        "title": "STAFF AUGMENTATION FOR JAVA PRODUCTS",
+        "content": {
+           "paragraphs": [
+           
+          {
+            "text": "Elevate your team’s proficiency with our adept Java professionals, guaranteeing your project’s success with expert support.",
+            "highlights": [
+              { "text": "Custom Software Development Company in Udaipur.", "link": "/" }
+              
+              ]
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "HOW WE CAN ASSIST YOU:"
+             
+            }
+          ],
+          "list": [
+            "Offering seasoned Java developers tailored to your project requirements.",
+            "Boosting your team’s capabilities and expertise.",
+            "Delivering flexible and scalable staffing solutions for Java projects."
+           
+          ]
+          
+        },
+        "button": "READ MORE"
+        
+      },
+      {
+        "title": "CUSTOM JAVA APPLICATION DEVELOPMENT",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Focused on bespoke Java development, we craft applications that are scalable, secure, and robust, customized to fulfill a wide range of business requirements."
+             
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "HOW WE CAN ASSIST YOU:"
+             
+            }
+          ],
+          "list": [
+            "Developing enterprise-grade web and desktop applications. ",
+            "Integrating advanced functionalities and modern UI/UX designs. ",
+            "Ensuring high performance and compliance with industry standards."
+           
+          ]
+        }
+         
+      },
+      {
+        "title": "KOTLIN MOBILE APP DEVELOPMENT",
+        "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Harnessing Kotlin for contemporary and efficient mobile app development, particularly targeting Android platforms."
+           
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "HOW WE CAN ASSIST YOU:"
+             
+            }
+          ],
+          "list": [
+            "Creating high-performance Android applications using Kotlin.",
+            "Utilizing Kotlin’s concise syntax to expedite app development.",
+            "Seamlessly integrating Kotlin apps with existing Java-based systems."
+            
+          ]
+        },
+        "button": "READ MORE",
+        "buttonLink":"/Technology/java"
+
+        
+      },
+      {
+        "title": "JAVA MICROSERVICES ARCHITECTURE",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Integrating microservice architecture into Java to improve application scalability, flexibility, and deployment speed."
+           
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "HOW WE CAN ASSIST YOU:"
+             
+            }
+          ],
+          "list": [
+            "Crafting and overseeing microservices-based applications.",
+            "Ensuring smooth integration and communication among services.",
+            "Utilizing Spring Boot and other frameworks for effective microservices development."
+            
+          ]
+        }
+        
+         
+      },
+      {
+        "title": "JAVA APPLICATION MAINTENANCE AND SUPPORT",
+       "content": {
+          "paragraphs": [
+           
+          {
+            "text": "Offering continuous maintenance and support for Java applications to guarantee they stay up-to-date, secure, and efficient."
+            
+          }
+          
+          ],
+          "sections": [
+            {
+              "heading": "HOW WE CAN ASSIST YOU:"
+             
+            }
+          ],
+          "list": [
+            "Frequent updates and feature enhancements.",
+            "Bug fixes and performance optimization.",
+            "Ongoing technical support and troubleshooting."
+            
+          ]
+        }
+         
+      }
+     
+    ]
+  },
+    "techStack": {
+    "heading": "JAVA DEVELOPMENT TECH-STACK",
+    "categories": [
+      {
+        "key": "frontend",
+        "label": "JAVA FRAMEWORKS & LIBRARIES",
+        "department": {
+          "title": "JAVA FRAMEWORKS & LIBRARIES",
+          "description": "Incorporating a diverse range of frameworks and libraries into our Java tech stack to amplify Java’s capabilities for efficient and scalable application development.",
+          "subtitle": "APPLICATION OF TECHNOLOGIES",
+          "stats": [
+            "Enabling swift development and deployment of resilient applications.",
+            "Offering a structured approach for both web and enterprise projects.",
+            "Boosting application security and scalability.",
+            "Supporting the development and integration of RESTful APIs."
+          ],
+          "technologies": [
+            { "name": "Apache Maven", "icon": "/maven-1.png"  },
+            { "name": "Apache Struts", "icon": "/Apache-Struts.png" },
+            { "name": "Hibernate", "icon": "/Hibernate-1.png" },
+             { "name": "JUnit", "icon": "/junit-1.png" },
+            { "name": "Kotlin", "icon": "/Kotlin-1.png" },
+            { "name": "Spring Framework", "icon": "/Spring-Framework-1.jpg" }
+          ]
+        }
+      },
+      {
+        "key": "backend",
+        "label": "DATABASES & DATA MANAGEMENT",
+        "department": {
+          "title": "DATABASES & DATA MANAGEMENT",
+          "description": "Within our Java applications, databases and data management tools play a crucial role in ensuring efficient data storage, retrieval, and processing.",
+           "subtitle": "APPLICATION OF TECHNOLOGIES:",
+          "stats": [
+            "Efficiently managing large datasets and executing complex queries.",
+            "Supporting transactional operations to maintain data integrity.",
+            "Facilitating data persistence and implementing caching mechanisms."
+          ],
+           "technologies": [
+           { "name": "Cassandra", "icon": "/Cassandra_logo1-1.png" },
+{ "name": "CouchDB", "icon": "/CouchDB_logo.png" },
+{ "name": "MariaDB", "icon": "/mariadb.png" },
+{ "name": "MongoDB", "icon": "/mongodb-icon1-1.png" },
+{ "name": "MySQL", "icon": "/mysql1-1.png" },
+{ "name": "PostgreSQL", "icon": "/Postgresql1-1.png" },
+{ "name": "Redis", "icon": "/redis-logo3.png" },
+{ "name": "SQLite", "icon": "/sqlite.png" }
+
+
+          ]
+        }
+      }
+     
+    ]
+  },
+   "cardMethodology": {
+    "heading": "DIVERSE TECH CAPABILITIES",
+    "headSub": "Our Java development services are enriched with proficiency in key front-end technologies such as React, Angular, and Vue. This synergy enables us to provide comprehensive full-stack development solutions, ensuring seamless integration between robust Java back-ends and dynamic front-ends.",
+    "items": [
+      {
+        "title": "ANGULAR",
+        "description": "Combining Angular with Java to develop enterprise-grade applications. Angular's extensive framework, when coupled with Java's robust backend capabilities, delivers potent and scalable web solutions, particularly tailored for intricate business needs.",
+        "iconPath": "/Angular-icon.png",
+        "highlight": "Software Development company in Udaipur"
+        
+      },
+      {
+        "title": "VUE",
+        "description": "Employing Vue alongside Java for its simplicity and adaptability, especially fitting for projects requiring a lightweight yet dynamic front-end. Vue's progressive framework harmonizes seamlessly with Java's server-side technologies, enabling swift development and effortless maintenance of web applications.",
+        "iconPath": "/Vue.png",
+        "highlight": "custom Software Development Company in Udaipur"
+        
+      },
+      {
+        "title": "REACT",
+        "description": "Integrating React with Java backends to craft interactive and responsive user interfaces. This fusion is optimal for building web applications that demand a fluid user experience with real-time data updates.",
+         
+        "iconPath": "/React-JS.png"
+        
+      
+      }
+    ]
+  }
+}

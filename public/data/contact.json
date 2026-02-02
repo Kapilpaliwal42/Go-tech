@@ -1,0 +1,31 @@
+{
+    "statsSection": {
+    "content": {
+      "heading": "CONTACT US",
+      "subheading": "Our talented team of experts is here to serve you with the excellence that you need for the exponential growth of your business. We custom-tailor digital solutions based on your unique needs and preferences for you to strive in the competitive digital landscape."
+    },
+    "stats": [
+      {
+        "value": 200,
+        "suffix": "+",
+        "label": "specialist globally"
+      },
+      {
+        "value": 5,
+        "suffix": "",
+        "label": "offices worldwide"
+        
+      },
+      {
+        "value": 7,
+        "suffix": "",
+        "label": "different time-zones"
+      },
+      {
+        "value": 8,
+        "suffix": " years",
+        "label": "of expertise in business"
+      }
+    ]
+  }
+}

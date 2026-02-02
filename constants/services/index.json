@@ -1,0 +1,114 @@
+{
+  "hero": {
+    "title": "OUR SERVICES",
+    "subtitle": "Explore our comprehensive range of technology and business solutions."
+  },
+  "allServices": [
+    {
+      "slug": "web-development",
+      "category": "custom software",
+      "title": "Web Development",
+      "description": "Build responsive, scalable web applications with cutting-edge technologies and best practices.",
+      "icon": "Globe"
+    },
+    {
+      "slug": "mobile-app-development",
+      "category": "custom software",
+      "title": "Mobile App Development",
+      "description": "Create native and cross-platform mobile applications for iOS and Android.",
+      "icon": "Smartphone"
+    },
+    {
+      "slug": "startup-mvp-development",
+      "category": "custom software",
+      "title": "Startup MVP Development",
+      "description": "Launch your startup with a minimum viable product built fast and lean.",
+      "icon": "Rocket"
+    },
+    {
+      "slug": "cross-platform-app-development",
+      "category": "custom software",
+      "title": "Cross-Platform App Development",
+      "description": "One codebase for multiple platforms. Efficient and cost-effective mobile solutions.",
+      "icon": "Layout"
+    },
+    {
+      "slug": "android-app-development",
+      "category": "custom software",
+      "title": "Android App Development",
+      "description": "Expert Android development for phones, tablets, and wearables.",
+      "icon": "AndroidIcon"
+    },
+    {
+      "slug": "ai-ml",
+      "category": "intelligent automation",
+      "title": "AI & Machine Learning",
+      "description": "Leverage AI and machine learning to transform your business operations.",
+      "icon": "BrainCircuit"
+    },
+    {
+      "slug": "ai-chatbot-development",
+      "category": "intelligent automation",
+      "title": "AI Chatbot Development",
+      "description": "Intelligent chatbots that enhance customer engagement and support.",
+      "icon": "MessageCircle"
+    },
+    {
+      "slug": "machine-learning-consulting",
+      "category": "intelligent automation",
+      "title": "Machine Learning Consulting",
+      "description": "Expert consulting to guide your machine learning journey.",
+      "icon": "Lightbulb"
+    },
+    {
+      "slug": "digital-marketing-services",
+      "category": "intelligent automation",
+      "title": "Digital Marketing Services",
+      "description": "Grow your online presence with strategic digital marketing.",
+      "icon": "TrendingUp"
+    },
+    {
+      "slug": "search-engine-optimization-in-udaipur",
+      "category": "intelligent automation",
+      "title": "Search Engine Optimization",
+      "description": "Improve your search rankings and organic visibility.",
+      "icon": "Search"
+    },
+    {
+      "slug": "cloud-and-devops-services",
+      "category": "managed IT services",
+      "title": "Cloud & DevOps Development",
+      "description": "Cloud infrastructure and DevOps solutions for enterprise scalability.",
+      "icon": "Cloud"
+    },
+    {
+      "slug": "staff-augmentation",
+      "category": "managed IT services",
+      "title": "Staff Augmentation",
+      "description": "Extend your team with skilled developers and IT professionals.",
+      "icon": "Users"
+    }
+  ],
+  "categoriesData": [
+    {
+      "category": "CUSTOM SOFTWARE",
+      "description": "Build tailored software solutions for your unique business needs.",
+      "services_count": 5
+    },
+    {
+      "category": "INTELLIGENT AUTOMATION",
+      "description": "Leverage AI and automation to streamline your processes.",
+      "services_count": 5
+    },
+    {
+      "category": "MANAGED IT SERVICES",
+      "description": "Enterprise-grade IT infrastructure and support.",
+      "services_count": 2
+    }
+  ],
+  "cta": {
+    "title": "Ready to Discuss Your Project?",
+    "description": "Let's explore how our services can help your business thrive.",
+    "buttonText": "GET IN TOUCH"
+  }
+}
