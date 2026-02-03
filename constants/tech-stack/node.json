@@ -1,0 +1,162 @@
+{
+  "hero": {
+    "title": "NODE DEVELOPMENT SERVICES",
+    "description": "Count on the expertise of Go InfoTech's Node professionals to deliver robust solutions tailored to users, incorporating the latest technologies and frameworks.",
+    "button": {
+      "text": "GET INFO",
+      "bgColor": "#f97316"
+    },
+    "loadCounter": [
+      {
+        "label": "experienced Node specialists worldwide",
+        "limit": 6,
+        "suffix": "+"
+      },
+      {
+        "label": "rating based on 55+ reviews",
+        "limit": 4.8,
+        "suffix": "/5 stars"
+      },
+      {
+        "label": "Node projects successfully delivered",
+        "limit": 90,
+        "suffix": "+"
+      },
+      {
+        "label": "of expertise in Node development",
+        "limit": 8,
+        "suffix": " years"
+      }
+    ]
+  },
+  "whyCooseUs":{
+  "title": "WHY CHOOSE GO INFOTECH?",
+  "description": "ADVANTAGES OF PARTNERING WITH GO INFOTECH FOR SOFTWARE DEVELOPMENT",
+  "data": [
+    {
+      "title": "TRUSTED AND RENOWNED",
+      "description": "We are dedicated to serving you with excellence, and this is vouched by our client’s unwavering trust in our services, as we are a trusted custom Software Development Company in Udaipur."
+    },
+    {
+      "title": "EXPERTISE AT YOUR SERVICE",
+      "description": "Our team is dedicated to serving you with expertise, knowledge, and professionalism, working to fuel the growth of your business. Choose Go InfoTech Solution for a reliable digital partner."
+    },
+    {
+      "title": "INDUSTRIES' EXPERTISE",
+      "description": "We partner with updated technology tools to elevate performance and drive sales. We make use of AI, forecasting analytics, and data analytics for effective operations in the educational sector."
+    },
+    {
+      "title": "HIGH SATISFACTION RATES",
+      "description": "Empower your business with promising results and IT solutions from professionals who are dedicated to serving you."
+    },
+    {
+      "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+      "description": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
+    },
+    {
+      "title": "WIDE RANGE OF SERVICES",
+      "description": "Offering software development services, including custom software development, mobile app development, web application development, software maintenance and support, and more."
+    }
+  ]
+},
+    "services":{
+  "title": "NODE SOFTWARE DEVELOPMENT SERVICES",
+  "description": "",
+  "data": [
+    {
+      "title": "NODE STAFF AUGMENTATION SERVICES",
+      "description": "You have the flexibility to either assemble a dedicated team from Go InfoTech or handpick the perfect Node developer to seamlessly integrate into your current workflow. Regardless of your choice, they will adhere to your internal procedures and maintain open lines of communication throughout the process."
+    },
+    {
+      "title": "API DEVELOPMENT AND INTEGRATION",
+      "description": "Harness our Node.js proficiency to construct secure and scalable APIs, as well as seamlessly integrate third-party APIs into your current applications."
+    },
+    {
+      "title": "NODE MIGRATION SERVICES",
+      "description": "Securely transition your current application to a Node.js environment, capitalizing on its benefits of speed and non-blocking I/O model."
+    },
+    {
+      "title": "NODE.JS WEB & MOBILE DEVELOPMENT",
+      "description": "Create custom applications rapidly and scale them efficiently using Node.js, ensuring high performance, effectiveness, and speed to align with your business requirements."
+    },
+    {
+      "title": "REAL-TIME APPLICATION DEVELOPMENT",
+      "description": "Utilize Node.js's real-time capabilities to craft interactive applications like chat apps, gaming servers, and collaboration tools, enabling seamless communication and engagement in real-time."
+    },
+    {
+      "title": "NODE.JS SUPPORT AND MAINTENANCE",
+      "description": "Rely on our continuous and dependable support and maintenance services to ensure your Node.js applications remain updated and operate seamlessly over time."
+    }
+  ]
+},
+    "techtack":{
+        "title":"OUR EXPERTISE IN NODE.JS DEVELOPMENT",
+        "data":[
+  {
+    "title": "GENERAL-PURPOSE FRAMEWORKS",
+    "desc": "We leverage these versatile frameworks to create robust and high-performing Node.js applications. Whether your objective is to develop custom APIs, real-time applications, or intricate enterprise solutions, our expertise ensures the delivery of efficient and scalable products.",
+    "points": [
+      "Crafting scalable web and mobile applications.",
+      "Constructing sturdy APIs and backend services.",
+      "Managing application routing and processing HTTP requests.",
+      "Enabling database operations.",
+      "Providing support for middleware configurations to handle requests and responses."
+    ],
+    "icons_path": [
+      "/express-js-1.svg",
+      "/feathersjs.svg",
+      "/hapijs.svg",
+      "/koajs.svg",
+      "/loopback.svg",
+      "/meteor.svg",
+      "/NestJS.svg",
+      "/sails.svg",
+      "/strapi-2.svg"
+    ]
+  },
+  {
+    "title": "DATABASES & DATA MANAGEMENT",
+    "desc": "We utilize these data storage and management solutions to develop Node.js applications equipped with efficient, scalable, and resilient data handling capabilities. Whether you require the creation of a new database, migration of existing data, or optimization of data queries, our expertise is at your service.",
+    "points": [
+      "Handling data storage and retrieval for bespoke applications.",
+      "Overseeing user data, application data, and session data.",
+      "Scaling applications both vertically and horizontally.",
+      "Ensuring data security and integrity.",
+      "Executing intricate queries and manipulating data."
+    ],
+    "icons_path": [
+      "/Cassandra_logo.svg",
+      "/CouchDB_logo.svg",
+      "/mariadb.svg",
+      "/mongodb-icon.svg",
+      "/mysql.svg",
+      "/Postgresql.svg",
+      "/redis-logo-1.svg",
+      "/SQLite.svg"
+    ]
+  },
+  {
+    "title": "CLOUD SERVICES",
+    "desc": "We harness a range of cloud platforms and services to augment the functionality, scalability, and reliability of your Node.js applications. Whether it’s deploying applications or managing databases and storage, our proficiency in cloud technologies can greatly streamline your operations and expedite your business growth.",
+    "points": [
+      "Ensuring seamless scalability in hosting and deploying Node.js applications.",
+      "Optimizing performance through database management and scaling.",
+      "Leveraging machine learning and AI capabilities for advanced functionalities.",
+      "Implementing dependable storage solutions for application data.",
+      "Enhancing application security via managed cloud security services."
+    ],
+    "icons_path": [
+      "/alibabacloud-icon.svg",
+      "/Amazon_Web_Services_Logo-1.png",
+      "/digitalocean.png",
+      "/firebase.png",
+      "/google-cloud-seeklogo.com_.png",
+      "/Tensorflow.png",
+      "/download.png",
+      "/Microsoft_Azure.png",
+      "/oracle.svg"
+    ]
+  }
+]
+    }
+}

@@ -125,7 +125,7 @@ function OurServices({
     : (isHex(bgOdd) ? { borderColor: withAlpha(bgOdd, 0.18) } : undefined);
 
   return (
-    <section className={`py-24 max-w-full mx-auto relative ${!isHex(bg) ? bg : ''}`} style={sectionStyle}>
+    <section className={`py-24 max-w-full mx-auto relative overflow-hidden ${!isHex(bg) ? bg : ''}`} style={sectionStyle}>
         <h2 className={`font-bold text-4xl mb-16 text-center uppercase ${!isHex(bgOdd) ? bgOdd : ''}`} style={headingStyle}>{title}</h2>
         <div className="max-w-7xl mx-auto px-6">
           <div className={`flex ${isLarge ? 'flex-row' : 'flex-col'} gap-10 rounded`}>

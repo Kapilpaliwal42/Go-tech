@@ -37,6 +37,23 @@ function BlueGrid({ title, industriesData = [], gridsize = 3, description = '', 
     return 'rgba(255, 255, 255, 0.2)'; // Use white for border on dark bg
   };
 
+  // Convert hex to RGB and create a lighter version
+  const getLighterBgColor = (color: string) => {
+    // Handle hex colors
+    if (color.startsWith('#')) {
+      const hex = color.slice(1);
+      const r = parseInt(hex.substring(0, 2), 16);
+      const g = parseInt(hex.substring(2, 4), 16);
+      const b = parseInt(hex.substring(4, 6), 16);
+      return `rgba(${r}, ${g}, ${b}, 0.2)`;
+    }
+    // Handle rgb/rgba colors - return with reduced opacity
+    if (color.startsWith('rgb')) {
+      return color.replace(/[\d.]+\)$/g, '0.2)');
+    }
+    return color;
+  };
+
   return (
     <section style={{ backgroundColor: bgColor, color: textColor }} >
       <div className="max-w-9/10 mx-auto px-6 py-20 flex  flex-col ">
@@ -78,7 +95,12 @@ function BlueGrid({ title, industriesData = [], gridsize = 3, description = '', 
                   minWidth: '300px' 
                 }}
               >
-                {icons &&  (
+                {icons && industry.icon !== undefined ? (                  
+                  <div className="m-4 p-5 max-w-20 rounded" style={{ backgroundColor: 'rgba(80, 109, 201, 0.7)' }}>
+                      {industry.icon}
+                  </div>
+
+                ) :  (
                   <div className="m-4 p-5 max-w-20 rounded" style={{ backgroundColor: 'rgba(80, 109, 201, 0.72)' }}>
                     {iconMap[index]}
                   </div>

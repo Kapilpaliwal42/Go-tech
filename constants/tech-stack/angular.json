@@ -1,0 +1,154 @@
+{
+  "hero": {
+    "title": "ANGULAR DEVELOPMENT SERVICES",
+    "description": "Enhance the efficiency of your projects with the assistance of the professionals of Go InfoTech Angular Front End Development.",
+    "button": {
+      "text": "GET INFO",
+      "bgColor": "#f97316",
+      "onClick": "()=>{}"
+    },
+    "loadCounter": [
+      {
+        "label": "experienced Angular specialists worldwide",
+        "limit": 10,
+        "suffix": "+"
+      },
+      {
+        "label": "rating based on 55+ reviews",
+        "limit": 4.8,
+        "suffix": "/5 stars"
+      },
+      {
+        "label": "Angular projects delivered",
+        "limit": 5,
+        "suffix": "+"
+      },
+      {
+        "label": "of expertise in Angular development",
+        "limit": 8,
+        "suffix": " years"
+      }
+    ]
+  },
+  "whyChooseUs":{
+  "title": "ADVANTAGES OF PARTNERING WITH GO INFOTECH FOR SOFTWARE DEVELOPMENT",
+  "description": "",
+  "data": [
+    {
+      "title": "BUSINESS-ORIENTED PERSONALIZATION",
+      "description": "We offer comprehensive software solutions that are custom-developed to your specific educational institution’s requirements."
+    },
+    {
+      "title": "OPTIMIZED PERFORMANCE AND FLEXIBILITY",
+      "description": "Explore the expertise of our professionals, offering high-quality performance and scalability in the software solutions offered for the educational industry."
+    },
+    {
+      "title": "INDUSTRIES' EXPERTISE:",
+      "description": "We partner with updated technology tools to elevate performance and drive sales. We make use of AI, forecasting analytics, and data analytics for effective operations in the educational sector."
+    },
+    {
+      "title": "ADHERENCE TO REGULATORY COMPLIANCE AND SECURITY",
+      "description": "At Go InfoTech, we value your credibility, which is why we prioritize security in our software solutions while simultaneously focusing on regulatory compliance in the educational industry norms."
+    },
+    {
+      "title": "FACILITATING SCALABILITY AND INTEGRATION",
+      "description": "We offer scalable solutions for facilitating seamless user interaction with academic professionals and offering a compatible and interactive interface."
+    },
+    {
+      "title": "EFFECTIVE SUPPORT AND REAL-TIME MAINTENANCE",
+      "description": "We believe in offering real-time support and teacher assistance while paying deliberate attention to their unique needs and requirements in the educational sector."
+    }
+  ]
+},
+    "services":{
+  "title": "ANGULAR SOFTWARE DEVELOPMENT SERVICES",
+  "description": "",
+  "data": [
+    {
+      "title": "ANGULAR STAFF AUGMENTATION",
+      "description": "Add the expertise of the Angular team of Go InfoTech to your existing team, and make sure you augment it with highly specialized and experienced healthcare professionals from the most trusted Custom Software Development Company in Udaipur."
+    },
+    {
+      "title": "ANGULAR WEB & MOBILE DEVELOPMENT",
+      "description": "Experience the excellence of resilient and scalable web and mobile application development by our Angular specialists. Our team is dedicated to helping you scale up and meet the unique needs of your business as it grows."
+    },
+    {
+      "title": "SINGLE-PAGE APPLICATION (SPA) DEVELOPMENT",
+      "description": "Our team of developers is dedicated to developing responsive single-page applications. Our developers make use of cutting-edge technology and the capabilities of Angular to craft Single Page Applications (SPAs) that deliver a seamless user experience akin to native apps."
+    },
+    {
+      "title": "COMPONENT-BASED ANGULAR DEVELOPMENT",
+      "description": "Ensuring that Aungular’s component-based architecture constructs modular and sustainable applications. Our developers excel in crafting reusable components, enhancing both the efficiency and the clarity of our codebase."
+    },
+    {
+      "title": "ANGULAR MIGRATION SERVICES",
+      "description": "Benefit from the Angular expertise that will enable you to experience high-quality performance and a durable ecosystem by transitioning from your existing platform to an Angular platform"
+    },
+    {
+      "title": "ANGULAR SUPPORT AND MAINTENANCE",
+      "description": "Experience continuous support and maintenance assistance from our experts with due diligence to make sure that your Angular application is updated and performing right."
+    }
+  ]
+},
+    "techStack":{
+        "title":"OUR TECH STACK",
+        "data":[
+  {
+    "title": "COMPONENT LIBRARIES & FRAMEWORKS",
+    "desc": "At Go InfoTech, we employ these libraries to accelerate UI development and maintain uniformity across Angular projects. These libraries come with pre-built UI components, sparing us unnecessary time and effort and helping us prioritize the business logic and create functionality-rich applications.",
+    "points": [
+      "Developing modular and interactive interfaces",
+      "Robust development by incorporating pre-made components",
+      "Uniform features, design, and functionality on cross-platform"
+    ],
+    "icons_path": [
+      "/angular-material-1.png",
+      "/antdesign.png",
+      "/Clarity.png",
+      "/ngx-bootstrap.png",
+      "/primeNG.png"
+    ]
+  },
+  {
+    "title": "STATE MANAGEMENT LIBRARIES",
+    "desc": "Our team makes use of state management libraries to manage complex state interactions as these tools help in optimizing the performance, staying consistent, and simplifying the debugging process of our code.",
+    "points": [
+      "Handling complex state interactions within Angular applications",
+      "Enhanced and high-quality application performance",
+      "Angular application state that are identifiable and easy to debug"
+    ],
+    "icons_path": [
+      "/mobx.png",
+      "/ngrx.png",
+      "/redux.png",
+      "/rxjs-1.png"
+    ]
+  },
+  {
+    "title": "TESTING AND DEBUGGING TOOLS",
+    "desc": "Making use of tools that serve quality and reliability for our Angular applications, we make our way by conducting comprehensive testing procedures to test the code using them. they enable us to effectively debug and sustain a strong sense of assurance in our codebase.",
+    "points": [
+      "Maintaining the quality and security of our codes",
+      "Effectively Debugging the code",
+      "Ensuring detailed testing by conducting unit and end-to-end tests"
+    ],
+    "icons_path": [
+      "/cypress-2.png",
+      "/jasmine-1.png",
+      "/jest-1.png",
+      "/karma.png",
+      "/Mocha_logo-1.png",
+      "/protactor-1.png"
+    ]
+  }
+]
+    },
+    "shortHeading":{
+      "title":"ARE YOU SET TO EMBARK YOUR JOURNEY WITH ANGULAR?",
+      "description":"Let Go InfoTech’s professionals assist you in unleashing the power of Angular to build scalable and effective web applications.",
+      "button":{
+        "text":"REQUEST A CONSULTATION",
+        "bgColor":"#f97316"
+      }
+    }
+}

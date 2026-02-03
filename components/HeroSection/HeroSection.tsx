@@ -25,7 +25,7 @@ const loadCounter=[
   }
 ]
 
-function HeroSection({title="SAMPLE",loadCounter=[],description="",children=null,button}) {
+function HeroSection({title="SAMPLE",loadCounter=[],description="",children=null,button}: HeroSectionProps) {
   const { openBooking } = useBooking();
   
   // Set default button values if not provided

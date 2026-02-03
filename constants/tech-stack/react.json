@@ -1,0 +1,137 @@
+{
+  "hero": {
+    "title": "REACT.JS DEVELOPMENT SERVICES",
+    "description": "Explore high-quality applications that are scalable, responsive, and compatible. We assist you in achieving exponential growth in your business by delivering an unparalleled user experience.",
+    "button": {
+      "text": "GET INFO",
+      "bgColor": "#f97316"
+    },
+    "loadCounter": [
+      {
+        "label": "React specialists worldwide",
+        "limit": 4,
+        "suffix": "+"
+      },
+      {
+        "label": "rating based on 60+ reviews",
+        "limit": 4.8,
+        "suffix": "/5 stars"
+      },
+      {
+        "label": "Successful delivery of the React project",
+        "limit": 10,
+        "suffix": "+"
+      },
+      {
+        "label": "of expertise in React development",
+        "limit": 8,
+        "suffix": " years"
+      }
+    ]
+  },
+  "advantages":{
+  "title": "ADVANTAGES OF PARTNERING WITH GO INFOTECH FOR SOFTWARE DEVELOPMENT",
+  "description": "",
+  "data": [
+    {
+      "title": "BUSINESS-ORIENTED PERSONALIZATION",
+      "description": "We offer comprehensive software solutions that are custom-developed to your specific educational institution’s requirements."
+    },
+    {
+      "title": "OPTIMIZED PERFORMANCE AND FLEXIBILITY",
+      "description": "Explore the expertise of our professionals, offering high-quality performance and scalability in the software solutions offered for the educational industry."
+    },
+    {
+      "title": "COLLABORATE WITH CUTTING-EDGE TECHNOLOGIES",
+      "description": "We partner with updated technology tools to elevate performance and drive sales. We make use of AI, forecasting analytics, and data analytics for effective operations in the educational sector."
+    },
+    {
+      "title": "ADHERENCE TO REGULATORY COMPLIANCE AND SECURITY",
+      "description": "At Go InfoTech, we value your credibility, which is why we prioritize security in our software solutions while simultaneously focusing on regulatory compliance in the educational industry norms."
+    },
+    {
+      "title": "FACILITATING SCALABILITY AND INTEGRATION",
+      "description": "We offer scalable solutions for facilitating seamless user interaction with academic professionals and offering a compatible and interactive interface."
+    },
+    {
+      "title": "EFFECTIVE SUPPORT AND REAL-TIME MAINTENANCE",
+      "description": "We believe in offering real-time support and teacher assistance while paying deliberate attention to their unique needs and requirements in the educational sector."
+    }
+  ]
+},
+    "services":{
+  "title": "OUR REACT DEVELOPMENT SERVICES",
+  "data": [
+    {
+      "title": "STAFF AUGMENTATION FOR REACT PRODUCTS",
+      "Desc_html": "<div class='p-4 text-inherit '> <p>Add the expertise of the React team at Go InfoTech to your existing team, and make sure you augment it with highly specialized and experienced professionals from the most trusted <b>Custom Software Development Company in Udaipur</b>.</p> <h2 class='text-2xl font-semibold mt-4 '>OUR ASSISTANCE INCLUDES:</h2> <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Offering skilled React developers who suit both short-term and long-term requirements.</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Boosting your project’s development capabilities and expertise.</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Providing adaptable and scalable staffing solutions customized to meet your specific project needs.</li> </ul> </div>"
+    },
+    {
+      "title": "CUSTOM REACT WEB DEVELOPMENT",
+      "Desc_html": "<div class='p-4 text-inherit '> <p>Our team is equipped with the necessary skills and expertise to craft a custom React website application that is responsive and modular, developed to meet your unique business requirements.</p> <h2 class='text-2xl font-semibold mt-4 '>OUR ASSISTANCE INCLUDES:</h2> <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Developing web applications that are scalable and high-quality</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Developing a user interface that is interactive and responsive with React</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Collaborating React with cutting-edge web technology</li> </ul> </div>"
+    },
+    {
+      "title": "REACT CONSULTING AND STRATEGY",
+      "Desc_html": "<div class='p-4 text-inherit '> <p>Our React developers deliver insightful consultation sessions while also assisting you in strategizing and effectively implementing React within your technology infrastructure.</p> <h2 class='text-2xl font-semibold mt-4 '>OUR ASSISTANCE INCLUDES:</h2> <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Suggesting the best practices and framework of React</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Helping in the transition from the existing framework to React</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Assistance collaboration of React with the existing framework</li> </ul> </div>"
+    },
+    {
+      "title": "REACT MAINTENANCE AND SUPPORT",
+      "Desc_html": "<div class='p-4 text-inherit '> <p>We provide consistent maintenance and assistance for React applications while making sure that they are updated, prioritizing security, and ensuring that they remain functional.</p> <h2 class='text-2xl font-semibold mt-4 '>OUR ASSISTANCE INCLUDES:</h2> <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Ensuring consistent updates and feature-rich development</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Identifying and resolving issues, including troubleshooting and bug-fixing</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Offering regular technical support and aid.</li> </ul> </div>"
+    },
+    {
+      "title": "REACT NATIVE MOBILE APP DEVELOPMENT",
+      "Desc_html": "<div class='p-4 text-inherit '> <p>We deliver React Native to design cross-platform mobile applications, ensuring a native-like experience across iOS and Android platforms.</p> <h2 class='text-2xl font-semibold mt-4 '>OUR ASSISTANCE INCLUDES:</h2> <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Designing feature-rich mobile applications</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Smooth and seamless performance across several devices</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Incorporation of personalized functionalities that suit your business requirements</li> </ul> </div>"
+    }
+  ]
+},
+    "shortHeading":{
+        "title":"EXPLORE THE POTENTIAL OF YOUR REACT PROJECT",
+        "description":"Experience the excellence of our experts and specialist team in this intricate realm of digitalization. We offer tailored assistance that is suited to your unique needs. Consult with us now.",
+        "button":{
+            "text":"GET EXPERT ADVICE",
+            "bgColor":"#f97316"
+        }
+    },
+    "techStack":[
+  {
+    "title": "REACT FRAMEWORKS & LIBRARIES",
+    "desc": "Developing web applications that are more dynamic, scalable, and user-friendly by expanding React’s functionalities with a collection of frameworks and libraries.",
+    "points": [
+      "Designing web applications that are SEO-friendly",
+      "Administrate complex application states",
+      "Develop websites with dynamic data incorporations",
+      "Smoothly navigating and routing"
+    ],
+    "icons_path": [
+      "/antdesign.png",
+      "/gatsby.png",
+      "/materialui.png",
+      "/next.js.png",
+      "/React-Bootstrap-1.png",
+      "/redux.png"
+    ]
+  },
+  {
+    "title": "BACKEND TECHNOLOGIES FOR REACT",
+    "desc": "Augmenting React front-ends with resilient backend technologies for comprehensive full-stack development, guaranteeing seamless integration and optimal performance.",
+    "points": [
+      "Creating server-side solutions that are scalable",
+      "Enabling efficient data management and API interactions",
+      "Incorporating real-time features and user authentication",
+      "Enhancing capabilities for data querying"
+    ],
+    "icons_path": [
+      "/DotNet.png",
+      "/С-1.svg",
+      "/GOlang-1.png",
+      "/java.png",
+      "/Laravel.png",
+      "/NodeJS.png",
+      "/PHP-1.png",
+      "/Python-1.png",
+      "/Scala-1.png"
+    ]
+  }
+]
+  
+}
