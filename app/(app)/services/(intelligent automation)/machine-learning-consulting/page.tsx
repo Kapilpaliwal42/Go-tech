@@ -407,7 +407,7 @@ function page() {
         <BlueGrid
         title="EVERYDAY PROBLEM-SOLVING WITH ML SOLUTIONS"
         industriesData={MLSolutions}
-        gridsize={3}
+        gridsize={2}
         bgColor="#2b428c"
         textColor="white"
         />

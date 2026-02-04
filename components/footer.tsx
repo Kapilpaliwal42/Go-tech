@@ -1,7 +1,7 @@
-import React from 'react';
 import Image from 'next/image';
-import { Box, Container, Grid, Typography, Link, Divider, IconButton } from '@mui/material';
+import { Box, Container, Grid, Typography, Link, Divider, IconButton, colors } from '@mui/material';
 import { Mail, Phone, MapPin, Facebook, Instagram, Linkedin, Youtube, ArrowRight} from 'lucide-react';
+import { YouTube } from '@mui/icons-material';
 
 function Footer() {
   return (
@@ -103,11 +103,12 @@ function Footer() {
         width: '100%',
         position:'relative',
         bottom:0,
+      
       }}
     >
       
       <Container maxWidth="lg">
-        <Grid container spacing={2} justifyContent="space-between" alignItems="flex-start">
+        <Grid container spacing={2} justifyContent="space-between" alignItems="flex-start" ml={5} mb={2}>
   
   {/* 1. Logo Section (Width: 2/12) */}
   <Grid item xs={12} md={2}>
@@ -121,37 +122,82 @@ function Footer() {
   </Grid>
 
   {/* 2. Services Section (Width: 2.5/12) */}
-  <Grid item xs={12} sm={6} md={2.5}>
-    <Typography variant="subtitle2" fontWeight={700} sx={{ mb: 2 }}>SERVICES</Typography>
-    <Box sx={{ display: 'flex', flexDirection: 'column', gap: 1 }}>
-      <Link href="#" color="inherit" underline="none" variant="caption">Cloud & DevOps Services</Link>
-      <Link href="#" color="inherit" underline="none" variant="caption">AI & ML Development</Link>
-      <Link href="#" color="inherit" underline="none" variant="caption">UI/UX Design</Link>
-      <Link href="#" color="inherit" underline="none" variant="caption">E-Commerce App Development</Link>
-      <Link href="#" color="inherit" underline="none" variant="caption">Cross-Platform App Development</Link>
+  <Grid item xs={12} sm={6} md={2.5} >
+    <Typography variant="subtitle2" fontWeight={700} fontSize={18}  sx={{ mb: 2 }}>SERVICES</Typography>
+    <Box sx={{ display: 'flex', flexDirection: 'column', gap: 1 ,fontSize: "18px"}} className='font-[23px]'>
+      <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px" , transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    },  }}>Cloud & DevOps Services</Link>
+      <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px", transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    },  }} >AI & ML Development</Link>
+      <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px", transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    },  }}>UI/UX Design</Link>
+      <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px", transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    },  }}>E-Commerce App Development</Link>
+      <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px" , transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    }, }}>Cross-Platform App Development</Link>
     </Box>
   </Grid>
 
   {/* 3. Tech Stack Section (Width: 3/12) */}
   <Grid item xs={12} sm={6} md={3}>
-    <Typography variant="subtitle2" fontWeight={700} sx={{ mb: 2 }}>TECH STACK</Typography>
-    <Grid container spacing={1}>
-      <Grid item xs={6}>
-        <Box sx={{ display: 'flex', flexDirection: 'column', gap: 1 }}>
-          <Link href="#" color="inherit" underline="none" variant="caption">Angular</Link>
-          <Link href="#" color="inherit" underline="none" variant="caption">Node</Link>
-          <Link href="#" color="inherit" underline="none" variant="caption">.NET</Link>
-          <Link href="#" color="inherit" underline="none" variant="caption">Python</Link>
-          <Link href="#" color="inherit" underline="none" variant="caption">iOS</Link>
+    <Typography variant="subtitle2" fontWeight={700} sx={{ mb: 2 }}>TECH &nbsp; &nbsp;  STACK</Typography>
+    <Grid container spacing={1} >
+      <Grid item xs={6} >
+        <Box sx={{ display: 'flex', flexDirection: 'column', gap: 1 ,}} className='font-[23px]'>
+          <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px" , transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    },  }}>Angular</Link>
+          <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px" , transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    }, }}>Node</Link>
+          <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px", transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    },  }}>.NET</Link>
+          <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px", transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    },  }}>Python</Link>
+          <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px", transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    },  }}>iOS</Link>
         </Box>
       </Grid>
       <Grid item xs={6}>
-        <Box sx={{ display: 'flex', flexDirection: 'column', gap: 1 }}>
-          <Link href="#" color="inherit" underline="none" variant="caption">React</Link>
-          <Link href="#" color="inherit" underline="none" variant="caption">PHP</Link>
-          <Link href="#" color="inherit" underline="none" variant="caption">Java</Link>
-          <Link href="#" color="inherit" underline="none" variant="caption">Andriod</Link>
-          <Link href="#" color="inherit" underline="none" variant="caption">Flutter</Link>
+        <Box sx={{ display: 'flex', flexDirection: 'column', gap: 1, ml:2 }}>
+          <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px", transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    },  }}>React</Link>
+          <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px", transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    },  }}>PHP</Link>
+          <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px", transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    },  }}>Java</Link>
+          <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px" , transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    }, }}>Andriod</Link>
+          <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px", transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    },  }}>Flutter</Link>
         </Box>
       </Grid>
     </Grid>
@@ -161,10 +207,34 @@ function Footer() {
   <Grid item xs={12} sm={6} md={1.5}>
     <Typography variant="subtitle2" fontWeight={700} sx={{ mb: 2 }}>COMPANY</Typography>
     <Box sx={{ display: 'flex', flexDirection: 'column', gap: 1 }}>
-      <Link href="#" color="inherit" underline="none" variant="caption">Home</Link>
-      <Link href="#" color="inherit" underline="none" variant="caption">Services</Link>
-      <Link href="#" color="inherit" underline="none" variant="caption">Contact</Link>
-      <Link href="#" color="inherit" underline="none" variant="caption">About Us</Link>
+      <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px" , transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    }, }}>Home</Link>
+      <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px" , transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    }, }}>Services</Link>
+      <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px" , transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    }, }}>Contact</Link>
+      <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px" , transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    }, }}>About Us</Link>
+        <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px", transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    },  }}>Technologies</Link>
+      <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px" , transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    }, }}>Blogs</Link>
+      <Link href="#" color="inherit" underline="none" variant="caption"  sx={{ fontSize: "15px" , transition: "color 0.3s ease",
+    "&:hover": {
+      color: "orange",   // any color you want
+    }, }}>Privacy Policy</Link>
     </Box>
   </Grid>
 
@@ -174,21 +244,42 @@ function Footer() {
     <Box sx={{ display: 'flex', flexDirection: 'column', gap: 1.5 }}>
       <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
         <Mail size={14} />
-        <Typography variant="caption">career@go-techsolution.com</Typography>
+        <Typography variant="caption"  sx={{ fontSize: "15px" }}>career@go-techsolution.com</Typography>
       </Box>
       <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
         <Phone size={14} />
-        <Typography variant="caption">+91-8769365375</Typography>
+        <Typography variant="caption"  sx={{ fontSize: "15px" }}>+91-8769365375</Typography>
       </Box>
       <Box sx={{ display: 'flex', alignItems: 'flex-start', gap: 1 }}>
         <MapPin size={14} style={{ marginTop: '2px' }} />
-        <Typography variant="caption">
-          515-517, 5th floor, Amrit Shree, Udaipur, 313001
+        <Typography variant="caption"  sx={{ fontSize: "15px" }}>
+          515-517, 5th floor, Amrit Shree, <br></br>University Road, Udaipur, <br></br>Rajasthan 313001
         </Typography>
       </Box>
+    <Box sx={{ display: 'flex', alignItems: 'center', gap: 2, mt:2}}>
+  <Link href="https://www.facebook.com/GoTechSolution05">
+    <Facebook  color="white"  />
+  </Link>
+
+  <Link href="https://www.instagram.com/gotech_solution/">
+    <Instagram  color="white"  />
+  </Link>
+
+  <Link href="https://www.linkedin.com/company/go-techsolution5/">
+    <Linkedin  color="white" />
+  </Link>
+
+  <Link href="https://www.youtube.com/@Gotechsolution">
+    <YouTube sx={{ color: "#fff" }} />
+  </Link>
+</Box>
+
     </Box>
   </Grid>
+   
+    
 
+    
 </Grid>
         {/* Bottom Bar */}
         <Divider sx={{ borderColor: 'rgba(255,255,255,0.2)', my: 4 }} />

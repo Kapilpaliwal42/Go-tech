@@ -30,10 +30,9 @@ function HeroSection({title="SAMPLE",loadCounter=[],description="",children=null
   
   // Set default button values if not provided
   const defaultButton = {
-    text: "",
-    bgColor: "#f97316",
-    onClick: openBooking,
-    ...button // Merge with provided button props
+    text: button?.text || "",
+    bgColor: button?.bgColor || "#f97316",
+    onClick: button?.onClick || openBooking,
   };
   
   const buttonStyle = {
@@ -83,7 +82,7 @@ function HeroSection({title="SAMPLE",loadCounter=[],description="",children=null
             </h1>
             <p className="text-[#2b428c] text-xl max-w-md">
 {description}            </p>
-           {button.text && <button onClick={button.onClick} style={buttonStyle} className="flex items-center gap-2 px-6 py-4 rounded-lg text-white font-semibold hover:opacity-90 transition-opacity">{button.text} <ArrowRight /></button>}
+           {defaultButton?.text && <button onClick={defaultButton.onClick} style={buttonStyle} className="flex items-center gap-2 px-6 py-4 rounded-lg text-white font-semibold hover:opacity-90 transition-opacity">{defaultButton.text} <ArrowRight /></button>}
           </div>
 
           {/* RIGHT STATS */}

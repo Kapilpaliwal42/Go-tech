@@ -1,0 +1,128 @@
+{
+  "hero": {
+    "title": "JAVA DEVELOPMENT SERVICES",
+    "description": "Go InfoTech offers a comprehensive range of solutions designed to deliver robust, scalable, and high-performing applications. With a dedicated emphasis on Java technology, we specialize in crafting enterprise-grade applications, microservice architectures, and cloud-based solutions.",
+    "button": {
+      "text": "GET INFO",
+      "bgColor": "#f97316"
+    },
+    "loadCounter": [
+      {
+        "label": "experienced Java specialists worldwide",
+        "limit": 20,
+        "suffix": "+"
+      },
+      {
+        "label": "rating based on 60+ reviews",
+        "limit": 4.8,
+        "suffix": "/5 stars"
+      },
+      {
+        "label": "Java projects successfully delivered",
+        "limit": 40,
+        "suffix": "+"
+      },
+      {
+        "label": "of expertise in Java development",
+        "limit": 8,
+        "suffix": " years"
+      }
+    ]
+  },
+  "whyChooseUs":{
+  "title": "WHY CHOOSE GO INFOTECH?",
+  "description": "",
+  "data": [
+    {
+      "title": "TRUSTED AND RENOWNED",
+      "description": "We are dedicated to serving you with excellence, and this is vouched by our client’s unwavering trust in our services, as we are a trusted custom Software Development Company in Udaipur."
+    },
+    {
+      "title": "EXPERTISE AT YOUR SERVICE",
+      "description": "Our team is dedicated to serving you with expertise, knowledge, and professionalism, working to fuel the growth of your business. Choose Go InfoTech Solution for a reliable digital partner."
+    },
+    {
+      "title": "INDUSTRIES' EXPERTISE",
+      "description": "We are a trusted Software Development company in Udaipur, with expertise from different industries all around the world using innovation, knowledge, and skills."
+    },
+    {
+      "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+      "description": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
+    },
+    {
+      "title": "HIGH SATISFACTION RATES",
+      "description": "Empower your business with promising results and IT solutions from professionals who are dedicated to serving you."
+    },
+    {
+      "title": "WIDE RANGE OF SERVICES",
+      "description": "Offering software development services, including custom software development, mobile app development, web application development, software maintenance and support, and more."
+    }
+  ]
+},
+"services":{
+  "title": "OUR JAVA DEVELOPMENT SERVICES",
+  "data": [
+    {
+      "title": "STAFF AUGMENTATION FOR JAVA PROJECTS",
+      "Desc_html": "<div class='p-4 text-inherit '> <p>Elevate your team’s proficiency with our adept Java professionals, guaranteeing your project’s success with expert support.</p> <h2 class='text-2xl font-semibold mt-4 '>HOW WE CAN ASSIST YOU:</h2> <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Offering seasoned Java developers tailored to your project requirements.</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Boosting your team’s capabilities and expertise.</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Delivering flexible and scalable staffing solutions for Java projects.</li> </ul> </div>"
+    },
+    {
+      "title": "CUSTOM JAVA APPLICATION DEVELOPMENT",
+      "Desc_html": "<div class='p-4 text-inherit '> <p>Focused on bespoke Java development, we craft applications that are scalable, secure, and robust, customized to fulfill a wide range of business requirements.</p> <h2 class='text-2xl font-semibold mt-4 '>HOW WE CAN ASSIST YOU:</h2> <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Developing enterprise-grade web and desktop applications.</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Integrating advanced functionalities and modern UI/UX designs.</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Ensuring high performance and compliance with industry standards.</li> </ul> </div>"
+    },
+    {
+      "title": "KOTLIN MOBILE APP DEVELOPMENT",
+      "Desc_html": "<div class='p-4 text-inherit '> <p>Harnessing Kotlin for contemporary and efficient mobile app development, particularly targeting Android platforms.</p> <h2 class='text-2xl font-semibold mt-4 '>HOW WE CAN ASSIST YOU:</h2> <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Creating high-performance Android applications using Kotlin.</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Utilizing Kotlin’s concise syntax to expedite app development.</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Seamlessly integrating Kotlin apps with existing Java-based systems.</li> </ul> </div>"
+    },
+    {
+      "title": "JAVA MICROSERVICES ARCHITECTURE",
+      "Desc_html": "<div class='p-4 text-inherit '> <p>Integrating microservice architecture into Java to improve application scalability, flexibility, and deployment speed.</p> <h2 class='text-2xl font-semibold mt-4 '>HOW WE CAN ASSIST YOU:</h2> <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Crafting and overseeing microservices-based applications.</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Ensuring smooth integration and communication among services.</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Utilizing Spring Boot and other frameworks for effective microservices development.</li> </ul> </div>"
+    },
+    {
+      "title": "JAVA APPLICATION MAINTENANCE AND SUPPORT",
+      "Desc_html": "<div class='p-4 text-inherit '> <p>Offering continuous maintenance and support for Java applications to guarantee they stay up-to-date, secure, and efficient.</p> <h2 class='text-2xl font-semibold mt-4 '>HOW WE CAN ASSIST YOU:</h2> <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Frequent updates and feature enhancements.</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Bug fixes and performance optimization.</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Ongoing technical support and troubleshooting.</li> </ul> </div>"
+    }
+  ]
+},
+"techStack":{
+    "title":"JAVA TECH STACK",
+    "data":[
+  {
+    "title": "JAVA FRAMEWORKS & LIBRARIES",
+    "desc": "Incorporating a diverse range of frameworks and libraries into our Java tech stack to amplify Java’s capabilities for efficient and scalable application development.",
+    "points": [
+      "Enabling swift development and deployment of resilient applications.",
+      "Offering a structured approach for both web and enterprise projects.",
+      "Boosting application security and scalability.",
+      "Supporting the development and integration of RESTful APIs."
+    ],
+    "icons_path": [
+      "/maven-1.png",
+      "/Apache-Struts.png",
+      "/Hibernate-1.png",
+      "/junit-1.png",
+      "/TypeKotlin-ThemeMobile-StateHover-1.png",
+      "/Spring-Framework-1.jpg"
+    ]
+  },
+  {
+    "title": "DATABASES & DATA MANAGEMENT",
+    "desc": "Within our Java applications, databases and data management tools play a crucial role in ensuring efficient data storage, retrieval, and processing.",
+    "points": [
+      "Efficiently managing large datasets and executing complex queries.",
+      "Supporting transactional operations to maintain data integrity.",
+      "Facilitating data persistence and implementing caching mechanisms."
+    ],
+    "icons_path": [
+      "/Cassandra_logo.png",
+      "/mongodb-icon.png",
+      "/mysql.png",
+      "/Postgresql.png",
+      "/redis-logo-1.png",
+      "/SQLite-1.png"
+    ]
+  }
+]
+}
+
+}

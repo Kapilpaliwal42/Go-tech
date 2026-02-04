@@ -1,0 +1,163 @@
+{
+  "hero": {
+    "title": "OUR TECH STACK",
+    "description": "Explore the blend of technologies we harness to turn challenging tasks into successful projects.",
+    "button": {
+      "text": "GET INFO",
+      "bgColor": "#f97316"
+    },
+    "loadCounter": [
+      {
+        "label": "projects delivered successfully",
+        "limit": 60,
+        "suffix": "+"
+      },
+      {
+        "label": "of expertise in business",
+        "limit": 8,
+        "suffix": " years"
+      },
+      {
+        "label": "were willing to refer Go InfoTech",
+        "limit": 7,
+        "suffix": " out of 9 clients"
+      },
+      {
+        "label": "experienced specialists worldwide",
+        "limit": 20,
+        "suffix": "+"
+      }
+    ]
+  },
+    "techStack":{
+    "title": "Our iOS Development Tech Stack",
+    "techStackData": [
+  {
+    "title": "FRONT-END DEVELOPMENT",
+    "desc": "Empower your business with our expert front-end solutions, focusing fundamentally on a smooth user experience, effectively handling your needs and preferences, and aligning them to the industry’s unique requirements.",
+    "points": [
+      "20+ Front-end developers",
+      "8 years of experience",
+      "4.8 rating on Google"
+    ],
+    "icons_path": [
+      "/Angular-icon.png",
+      "/React-JS.png",
+      "/Vue.png"
+    ]
+  },
+  {
+    "title": "BACK-END DEVELOPMENT",
+    "desc": "We help you build a strong foundation for your software and applications with scalable and secure back-end systems that will enable you to handle all your tasks seamlessly and result in the robust growth of your business.",
+    "points": [
+      "20+ Back-end developers",
+      "8 years of experience",
+      "4.8 rating on Google"
+    ],
+    "icons_path": [
+      "/NET.png",
+      "/GOlang.png",
+      "/Java.png",
+      "/Laravel.png",
+      "/NodeJS.png",
+      "/PHP.png",
+      "/Python.png",
+      "/Ruby.png",
+      "/Rust.png",
+      "/Scala.png"
+    ]
+  },
+  {
+    "title": "MOBILE APP DEVELOPMENT",
+    "desc": "Our team of dedicated experts and developers at the leading IT Company in Udaipur is here to skillfully craft captivating and functional mobile apps for Android and iOS platforms, crafted to meet your unique needs and reach our target audience.",
+    "points": [
+      "10+ Mobile developers",
+      "8 years of experience",
+      "4.8 rating on Google"
+    ],
+    "icons_path": [
+      "/Flutter-1.png",
+      "/Ionic-1.png",
+      "/Kotlin-1.png",
+      "/React-Native-1.png",
+      "/Swift.png"
+    ]
+  },
+  {
+    "title": "UI/UX DESIGN",
+    "desc": "Through our user-centric approach, we are successful in reaching the target audience via our visually appealing UI/UX designs that are user-friendly and lead to an exceptional user experience on all platforms.",
+    "points": [
+      "10+ Design specialists",
+      "8 years of experience",
+      "4.8 rating on Google"
+    ],
+    "icons_path": [
+      "/Adobe_XD-1.png",
+      "/FigJam-1.png",
+      "/Figma-1.png",
+      "/Invision-1.png",
+      "/Maze-1.png",
+      "/Miro-1.png",
+      "/Protopie-1.png",
+      "/Sketch-1.png",
+      "/Zeplin-1.png"
+    ]
+  }
+]
+    },
+    "whyChooseUs":{
+  "title": "WHY CHOOSE GO INFOTECH?",
+  "description": "",
+  "data": [
+    {
+      "title": "TRUSTED AND RENOWNED",
+      "description": "We are dedicated to serving you with excellence, and this is vouched by our client’s unwavering trust in our services, as we are a trusted custom Software Development Company in Udaipur."
+    },
+    {
+      "title": "EXPERTISE AT YOUR SERVICE",
+      "description": "Our team is dedicated to serving you with expertise, knowledge, and professionalism, working to fuel the growth of your business. Choose Go InfoTech Solution for a reliable digital partner."
+    },
+    {
+      "title": "INDUSTRIES' EXPERTISE",
+      "description": "We are a trusted Software Development company in Udaipur, with expertise from different industries all around the world using innovation, knowledge, and skills."
+    },
+    {
+      "title": "HIGH SATISFACTION RATES",
+      "description": "Empower your business with promising results and IT solutions from professionals who are dedicated to serving you."
+    },
+    {
+      "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+      "description": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
+    },
+    {
+      "title": "WIDE RANGE OF SERVICES",
+      "description": "Offering software development services, including custom software development, mobile app development, web application development, software maintenance and support, and more."
+    }
+  ]
+},
+"services":{
+  "title": "OUR SERVICES",
+  "data": [
+    {
+      "title": "STAFF AUGMENTATION",
+      "Desc_html": "<div class='p-4 text-inherit '> <p><b>IT STAFF AUGMENTATION</b></p> <p>We are dedicated to providing you with highly skilled and experienced IT professionals who will help you focus on core aspects so that your business reaches new heights.</p> <p class='mt-2'><b>COMMITTED TEAM</b></p> <p>Our team at Go InfoTech Solution is a living testament to our expertise and knowledge and is committed to meeting your unique business needs.</p> <p class='mt-2'><b>ON-DEMAND CTO</b></p> <p>We offer CTO services for strategic technological assistance so that your business reaches exponential heights without the overhead of hiring a full-time professional.</p> </div>"
+    },
+    {
+      "title": "IT CONSULTING",
+      "Desc_html": "<div class='p-4 text-inherit '> <p>Our IT company in Udaipur is here to navigate you through the evolving tapestry of Technology while providing appropriate guidance from highly qualified professionals:</p> <p class='mt-2'><b>TECHNICAL DUE DILIGENCE</b></p> <p>After conducting a thorough evaluation of your business while assessing the project feasibility, relevant risks, and growth ambition of your project, our team provides strategic insights for your project’s growth.</p> <p class='mt-2'><b>PROJECT MANAGEMENT AND COORDINATION</b></p> <p>Our team ensures that your project delivery is timely and effective through proper management and streamlined communication with the development teams.</p> <p class='mt-2'><b>DATA ANALYTICS AND BUSINESS INTELLIGENCE</b></p> <p>Ensure that you make data-driven decisions through a thorough evaluation of your data and gain a competitive advantage over your rivals with our Data analytics and BI services.</p> </div>"
+    },
+    {
+      "title": "CUSTOM SOFTWARE DEVELOPMENT:",
+      "Desc_html": "<div class='p-4 text-inherit '> <p>Our team is committed to delivering unique software solutions to meet your specific business requirements. Our end-to-end development service results in high-performance outcomes that are tailored to your business needs.</p> <p class='mt-2'><b>WEB DEVELOPMENT</b></p> <p>Aim to develop a user-centric web application that is adaptive, intuitive, visually engaging, and designed to meet the unique needs of your business.</p> <p class='mt-2'><b>MOBILE DEVELOPMENT</b></p> <p>Crafting a mobile application that is user-friendly, visually appealing, and can be used on Android and iOS platforms to stay updated with the evolving tech.</p> <p class='mt-2'><b>UI/UX DESIGN</b></p> <p>Craft user-centric designs that are seamless and engaging for the audience across all media modes and platforms.</p> </div>"
+    },
+    {
+      "title": "INTELLIGENCE AUTOMATION:",
+      "Desc_html": "<div class='p-4 text-inherit '> <p>We are dedicated to serving you with the best services, incorporating state-of-the-art technologies like AI, machine learning, blockchain, and IoT while we transform your business to achieve new heights.</p> <p class='mt-2'><b>AI & ML SOLUTIONS:</b></p> <p>Empower your business to grow by incorporating Artificial Intelligence and Machine Learning to enhance the decision-making process and ensure robust business growth.</p> <p class='mt-2'><b>BLOCKCHAIN SOLUTIONS:</b></p> <p>Secure and transparent blockchain solutions tailored to your unique needs and industry requirements, ranging from cryptocurrencies to decentralized applications (DApps).</p> <p class='mt-2'><b>IoT SOLUTIONS</b></p> <p>A seamless interlinkage and data exchange using our IoT solutions between devices, systems, and individuals will fuel the business’s growth.</p> </div>"
+    },
+    {
+      "title": "MANAGED IT SERVICE:",
+      "Desc_html": "<div class='p-4 text-inherit '> <p>At Go InfoTech Solution, a leading Software Development company in Udaipur we offer managed IT services to foster the growth of your business:</p> <p class='mt-2'><b>DATABASE DEVELOPMENT SERVICES</b></p> <p>To ensure the effective storage, retrieval, and management of business data, we design, develop, and optimize database development services.</p> <p class='mt-2'><b>CLOUD & DevOps SOLUTIONS</b></p> <p>We incorporate the best practices of DevOps and cloud solutions to expedite software delivery and collaborative space, along with streamlining the entire development and deployment lifecycle.</p> <p class='mt-2'><b>SOLUTION ARCHITECTURE SERVICES</b></p> <p>Our team is dedicated to designing and deploying adaptive, secure, and high-performance IT infrastructure that is crafted to align with your business objectives.</p> </div>"
+    }
+  ]
+}
+  }

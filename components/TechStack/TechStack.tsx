@@ -2,6 +2,7 @@ import React from 'react'
 import { useState } from 'react';
 import { Tabs, Tab, useMediaQuery} from '@mui/material';
 import { useTheme} from '@mui/material/styles';
+import { Interface } from 'readline';
 
 const techData = [
   {

@@ -346,7 +346,7 @@ function page() {
     </div>
 
     <WhyChooseUs whyChooseUsData={whyChooseUsData} />
-    <BlueGrid title={"WHO WE WORK WITH"} gridsize={2} industriesData={whoWeWorkWithData} />
+    <BlueGrid title={"WHO WE WORK WITH"} gridsize={2} industriesData={whoWeWorkWithData} icons={true} />
     <OurServices title='OUR MOBILE SERVICES:' data={servicesData} />
 
     <section>

@@ -14,6 +14,7 @@ import TechStack from '@/components/TechStack/TechStack';
 import ProcessTable from '@/components/processTable/processTable';
 import HeroSection from '@/components/HeroSection/HeroSection';
 import ShortTimerHeading from '@/components/ShortTimerHeading/ShortTimerHeading';
+import WhiteBgMatrix from '@/components/WhiteBgMatrix/WhiteBgMatrix';
 
 
 
@@ -232,7 +233,7 @@ function page() {
 
 
 
-    <BlueGrid title="UNLEASH YOUR POTENTIAL: MVP MASTERY WITH Go-tech Solution" industriesData={UnleashPotentialData} gridsize={3}/>
+    <WhiteBgMatrix title="UNLEASH YOUR POTENTIAL: MVP MASTERY WITH Go-tech Solution" Data={UnleashPotentialData} gridsize={3}/>
 
     {/* book a call section */}
     <ShortTimerHeading
@@ -241,7 +242,7 @@ function page() {
         button={{text:"Book A Call",bgColor:"orange-400",onClick:()=>{}}}
     />
 
-    <BlueGrid title="OUR METHODOLOGY FOR RAPID STARTUP MVP GROWTH:" industriesData={methodologyData} gridsize={3}/>
+    <BlueGrid title="OUR METHODOLOGY FOR RAPID STARTUP MVP GROWTH:" industriesData={methodologyData} gridsize={3} icons={true}/>
 
     {/* approach section */}
     <ProcessTable title='OUR APPROACH WHEN DEVELOPING A REMARKABLE STARTUP MVP APP' approachesData={approachesData}/>
@@ -250,7 +251,7 @@ function page() {
 
     {/* Industries section */}
 
-    <BlueGrid title="INDUSTRIES Go InfoTech SOLUTION SERVES:" industriesData={industryData} gridsize={3}/>
+    <BlueGrid title="INDUSTRIES Go InfoTech SOLUTION SERVES:" industriesData={industryData} gridsize={3} icons={false} />
 
 
     </div>

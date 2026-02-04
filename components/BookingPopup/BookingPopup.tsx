@@ -25,8 +25,38 @@ const BookingPopup: React.FC<BookingPopupProps> = ({ isOpen, onClose }) => {
   if (!isOpen) return null;
 
   return (
-    <div className="fixed inset-0 z-[9999] flex items-center justify-center bg-black/50 p-4">
-      <div className="relative h-[90vh] w-full max-w-[1050px] overflow-y-auto overflow-x-hidden rounded-lg text-[#2b428c] bg-white shadow-2xl">
+    <div 
+      className="fixed inset-0 z-[9999] flex items-center justify-center bg-black/50 p-4 animate-in fade-in duration-300"
+      style={{
+        animation: 'fadeIn 0.3s ease-out'
+      }}
+    >
+      <style>{`
+        @keyframes slideDownFadeIn {
+          from {
+            opacity: 0;
+            transform: translateY(-50px);
+          }
+          to {
+            opacity: 1;
+            transform: translateY(0);
+          }
+        }
+        @keyframes fadeIn {
+          from {
+            opacity: 0;
+          }
+          to {
+            opacity: 1;
+          }
+        }
+      `}</style>
+      <div 
+        className="relative h-[90vh] w-full max-w-[1050px] overflow-y-auto overflow-x-hidden rounded-lg text-[#2b428c] bg-white shadow-2xl"
+        style={{
+          animation: 'slideDownFadeIn 0.5s ease-out'
+        }}
+      >
         
         {/* Close Button */}
         <button 

@@ -1,0 +1,169 @@
+{
+  "hero": {
+    "title": ".NET DEVELOPMENT SERVICES",
+    "description": "Our team of developers delivers excellence, be it by developing enterprise-level web applications using .NET or mobile solutions using Xamarian that make use of cloud capabilities using Azure. At Go InfoTech, we craft solutions that suit your specific business requirements.",
+    "button": {
+      "text": "GET INFO",
+      "bgColor": "#f97316"
+    },
+    "loadCounter": [
+      {
+        "label": ".NET specialists worldwide",
+        "limit": 10,
+        "suffix": "+"
+      },
+      {
+        "label": "rating based on 60+ reviews",
+        "limit": 4.8,
+        "suffix": "/5 stars"
+      },
+      {
+        "label": ".NET projects delivery",
+        "limit": 4,
+        "suffix": "+"
+      },
+      {
+        "label": "of expertise in .NET development",
+        "limit": 8,
+        "suffix": " years"
+      }
+    ]
+  },
+  "whyChooseUs":{
+  "title": "WHY CHOOSE GO INFOTECH?",
+  "description": "",
+  "data": [
+    {
+      "title": "TRUSTED AND RENOWNED",
+      "description": "We are dedicated to serving you with excellence, and this is vouched by our client’s unwavering trust in our services, as we are a trusted custom Software Development Company in Udaipur."
+    },
+    {
+      "title": "EXPERTISE AT YOUR SERVICE",
+      "description": "Our team is dedicated to serving you with expertise, knowledge, and professionalism, working to fuel the growth of your business. Choose Go InfoTech Solution for a reliable digital partner."
+    },
+    {
+      "title": "INDUSTRIES' EXPERTISE",
+      "description": "We are a trusted Software Development company in Udaipur, with expertise from different industries all around the world using innovation, knowledge, and skills."
+    },
+    {
+      "title": "HIGH SATISFACTION RATES",
+      "description": "Empower your business with promising results and IT solutions from professionals who are dedicated to serving you."
+    },
+    {
+      "title": "GLOBAL COVERAGE ACROSS TIME ZONES",
+      "description": "We are available 24/7 at your service as we operate across 4 different time zones, which is why we ensure seamless communication. Our team at Go InfoTech is available at your service anytime."
+    },
+    {
+      "title": "WIDE RANGE OF SERVICES",
+      "description": "Offering software development services, including custom software development, mobile app development, web application development, software maintenance and support, and more."
+    }
+  ]
+},
+"services":{
+  "title": "OUR .NET DEVELOPMENT SERVICES",
+  "data": [
+    {
+      "title": "STAFF AUGMENTATION",
+      "Desc_html": "<div class='p-4 text-inherit '> <p>Expand your team’s capabilities with our skilled .NET professionals, enhancing your project’s development capacity and expertise.</p> <h2 class='text-2xl font-semibold mt-4 '>HOW WE CAN ASSIST YOU:</h2> <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Offering skilled .NET developers for projects of varying duration</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Helping fill skill gaps within your team</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Providing flexible staffing solutions tailored to your project needs</li> </ul> </div>"
+    },
+    {
+      "title": "CUSTOM .NET APPLICATION DEVELOPMENT",
+      "Desc_html": "<div class='p-4 text-inherit '> <p>We have expertise in .NET application development, offering scalable, secure, and responsive solutions that are crafted to the unique needs of your business.</p> <h2 class='text-2xl font-semibold mt-4 '>HOW WE CAN ASSIST YOU:</h2> <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Developing web and desktop applications for enterprise-level usage</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Incorporating advanced features and contemporary UI/UX designs</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Ensuring high performance and adherence to industry standards</li> </ul> </div>"
+    },
+    {
+      "title": ".NET CLOUD DEVELOPMENT",
+      "Desc_html": "<div class='p-4 text-inherit '> <p>Offering and delivering scalable, dependable, and inclusive solutions by employing .NET for cloud-native application development.</p> <h2 class='text-2xl font-semibold mt-4 '>HOW WE CAN ASSIST YOU:</h2> <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Designing cloud-native applications leveraging .NET</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Transitioning .NET applications to cloud platforms such as Azure</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Leveraging cloud services to optimize application performance</li> </ul> </div>"
+    },
+    {
+      "title": ".NET INTEGRATION SOLUTIONS",
+      "Desc_html": "<div class='p-4 text-inherit '> <p>We specialize in integrating your .NET applications with diverse third-party services and systems.</p> <h2 class='text-2xl font-semibold mt-4 '>HOW WE CAN ASSIST YOU:</h2> <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>API, database, and cloud service linkage</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Smooth data flow between .NET applications and external systems</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Augment application functionality through external service integration</li> </ul> </div>"
+    },
+    {
+      "title": ".NET MAINTENANCE AND SUPPORT",
+      "Desc_html": "<div class='p-4 text-inherit '> <p>We offer continuous maintenance and support services for .NET applications, guaranteeing their currency, security, and efficiency.</p> <h2 class='text-2xl font-semibold mt-4 '>HOW WE CAN ASSIST YOU:</h2> <ul class='list-disc list-inside font-light mt-4 text-xl leading-relaxed mb-4 '> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Regular updates and improvements</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Identifying and resolving issues</li> <li class='mb-2 border-b-2 h-auto border-gray-300 pb-4'>Performing performance evaluations and optimizations</li> </ul> </div>"
+    }
+  ]
+},
+"techStack":{
+    "title":".NET TECH STACK",
+    "data":[
+  {
+    "title": ".NET FRAMEWORKS & LIBRARIES",
+    "desc": "Our .NET technology stack incorporates a range of frameworks and libraries, empowering robust, scalable, and efficient application development.",
+    "points": [
+      "ASP.NET MVC for developing enterprise-grade web applications",
+      "Entity Framework for streamlined data access and management",
+      "SignalR for enabling real-time web functionality",
+      ".NET Core for facilitating cross-platform development"
+    ],
+    "icons_path": [
+      "/net-core-1.png",
+      "/asp.net-mvc-1.png",
+      "/blazor.svg",
+      "/entity-framework.svg",
+      "/SignalR.svg",
+      "/xamarin-1.svg"
+    ]
+  },
+  {
+    "title": "CLOUD PLATFORMS & TOOLS",
+    "desc": "We employ diverse cloud platforms and tools to provide scalable and adaptable hosting solutions, optimizing the deployment and administration of .NET applications.",
+    "points": [
+      "Azure for hosting and administering applications",
+      "Incorporating DevOps methodologies for seamless integration and deployment",
+      "Utilizing cloud services for application scalability and performance monitoring"
+    ],
+    "icons_path": [
+      "/Amazon_Web_Services_Logo-2.png",
+      "/digitalocean-1.png",
+      "/docker.png",
+      "/google-cloud-seeklogo.com_-1.png",
+      "/Kubernetes.png",
+      "/Microsoft_Azure-1.png"
+    ]
+  },
+  {
+    "title": "DATABASES & STORAGE SOLUTIONS",
+    "desc": "Databases play a crucial role in .NET applications, offering efficient data storage, retrieval, and management capabilities.",
+    "points": [
+      "SQL Server for managing large datasets and complex queries",
+      "MongoDB for flexible data storage with NoSQL databases",
+      "Azure SQL Database for cloud-based data management"
+    ],
+    "icons_path": [
+      "/express-js-1.svg",
+      "/FigJam-1.png",
+      "/Figma-1.png",
+      "/Invision-1.png",
+      "/Maze-1.png",
+      "/Miro-1.png",
+      "/Protopie-1.png",
+      "/Sketch-1.png",
+      "/Zeplin-1.png"
+    ]
+  }
+]
+},
+"innovationSection": {
+  "title": "TECH INNOVATIONS FOR YOUR .NET PRODUCT",
+  "description": "Enhance the efficiency of your .NET product with cutting-edge technological advancements at Go InfoTech, ensuring it goes beyond mere functionality to become truly revolutionary. Stay ahead of the curve with our innovative solutions:",
+  "data": [
+    {
+      "title": "Artificial Intelligence (AI)",
+      "description": "Embrace AI to empower your product with intelligence, intuition, and responsiveness. From chatbots for seamless interactions to predictive analytics for informed decision-making, AI can revolutionize user experiences and drive unparalleled user engagement."
+    },
+    {
+      "title": "Cloud Integration",
+      "description": "Seamlessly integrate cloud services to elevate your product's scalability, performance, and storage capabilities. Ensure real-time data syncing and accessibility from anywhere, enabling your users to access their information effortlessly."
+    },
+    {
+      "title": "Augmented Reality (AR)",
+      "description": "Incorporate AR features to offer immersive experiences that transcend traditional boundaries. From virtual try-ons for retail products to interactive 3D models for enhanced visualization, AR can redefine user interactions within your product, captivating and delighting your audience."
+    },
+    {
+      "title": "Internet of Things (IoT)",
+      "description": "Connect your product with smart devices and sensors to provide users with real-time data, automation, and enhanced functionalities. IoT integration unlocks new possibilities for user engagement and utility, paving the way for innovative experiences and unprecedented convenience."
+    }
+  ]
+}
+}

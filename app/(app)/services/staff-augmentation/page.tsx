@@ -181,6 +181,7 @@ function page() {
       title="WHO WE WORK WITH"
       industriesData={whoWeWorkWithData}
       gridsize={2}
+      icons={true}
       />
 
       <WhyChooseUs

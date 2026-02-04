@@ -1,4 +1,12 @@
 {
+  "root":{
+  "siteTitle": "Best Web Development & Digital Marketing Company in Udaipur, India",
+  "description": "Go Tech Solution in Udaipur, India offers web development, mobile apps, and digital marketing solutions for growing businesses.",
+  "siteUrl": "https://go-techsolution.com/",
+  "ogLocale": "en_US",
+  "ogType": "website",
+  "twitterCard": "summary_large_image"
+},
   "hero": {
     "title": "Web Development Company",
     "subtitle": "Providing comprehensive IT Solutions to your Digital needs in Udaipur.",

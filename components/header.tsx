@@ -9,11 +9,13 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { Menu as MenuIcon, ChevronDown, ChevronUp } from 'lucide-react';
 import Dropdown from "@/components/dropdown/Dropdown";
+import { useBooking } from '@/context/BookingContext';
 
 function ResponsiveAppBar() {
   const [drawerOpen, setDrawerOpen] = React.useState(false);
   const [mobileExpanded, setMobileExpanded] = React.useState(null);
   const [isScrolled, setIsScrolled] = React.useState(false);
+  const { openBooking } = useBooking();
 
   const handleOpenNavMenu = () => setDrawerOpen(true);
   const handleCloseNavMenu = () => {
@@ -46,7 +48,6 @@ function ResponsiveAppBar() {
             { label: "Mobile App Development", href: "/services/mobile-app-development" },
             { label: "Android App Development", href: "/services/android-app-development" },
             { label: "Cross Platform App Development", href: "/services/cross-platform-app-development" },
-            { label: "Search Engine Optimization", href: "/services/search-engine-optimization-in-udaipur" },
           ],
         },
         {
@@ -56,14 +57,27 @@ function ResponsiveAppBar() {
             { label: "AI Chatbot Development", href: "/services/ai-chatbot-development" },
             { label: "Machine Learning Consulting", href: "/services/machine-learning-consulting" },
             { label: "Digital Marketing Services", href: "/services/digital-marketing-services" },
+            { label: "Search Engine Optimization", href: "/services/search-engine-optimization-in-udaipur" },
           ],
         },
         {
-          category: "Managed IT",
+          category: "Managed IT Services",
           links: [
             { label: "Cloud And DevOps Services", href: "/services/cloud-and-devops-services" },
           ]
-        }
+        },
+        {
+          category: "Staff Augmentation",
+          links: [
+            { label: "Staff Augmentation", href: "/services/staff-augmentation" },
+          ]
+        },
+        {
+          category: "IT Consulting",
+          links: [
+            { label: "Discovery Phase", href: "/services/discovery-phase" },
+          ]
+        },
       ]
     },
     {
@@ -114,11 +128,35 @@ function ResponsiveAppBar() {
           links: [
             { label: "Node", href: "/tech-stack/node" },
             { label: "PHP", href: "/tech-stack/php" },            
+            { label: ".NET", href: "/tech-stack/net" },            
+            { label: "Java", href: "/tech-stack/java" },            
+            { label: "Python", href: "/tech-stack/python" },            
+          ],
+        },
+        {
+          category: "Mobile",
+          links: [
+            { label: "iOS", href: "/tech-stack/ios" },
+            { label: "Android", href: "/tech-stack/android" },            
+            { label: "React Native", href: "/tech-stack/react-native" },            
+            { label: "Flutter", href: "/tech-stack/flutter" },            
           ],
         },
       ] 
     },
-    { title: 'COMPANY', href: "/company", description: 'Learn more about our mission and the team behind GoTech.', data: [] },
+    { title: 'COMPANY', href: "/about", 
+      description: 'Learn more about our mission and the team behind GoTech.',
+       data: [
+        {
+          category: "About Us",
+          links: [
+            { label: "Referral Program", href: "/referral-program" },
+            { label: "Blog", href: "/blog" },            
+            { label: "Contact Us", href: "/contact" },            
+          ],
+        }
+       ] 
+      },
   ];
 
   return (
@@ -153,6 +191,7 @@ function ResponsiveAppBar() {
 
           <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
             <Button
+              onClick={openBooking}
               variant="contained"
               sx={{ display: { xs: 'none', md: 'inline-flex' }, bgcolor: '#2b428c', fontWeight: 700, px: 3, textTransform: 'none' }}
             >

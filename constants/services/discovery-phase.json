@@ -4,8 +4,7 @@
         "description": "We ensure that you are able to manage your finances with the proficiency of our team, you can stay on budget without settling for any less in the discovery phase of your business.",
         "button": {
             "text": "GET INFO",
-            "bgColor": "#f97316",
-            "onClick": "()=>{}"
+            "bgColor": "#f97316"
         },
         "loadCounter": [
             {
